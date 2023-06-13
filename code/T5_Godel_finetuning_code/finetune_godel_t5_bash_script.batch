@@ -1,0 +1,29 @@
+#!/bin/bash
+
+#SBATCH --job-name=godel_t5_finetune_d1    # create a short name for your job
+#SBATCH --nodes=1                # node count
+#SBATCH --ntasks=1               # total number of tasks across all nodes
+#SBATCH --cpus-per-task=8       # cpu-cores per task (>1 if multi-threaded tasks)
+#SBATCH --partition=gpu          # Name of the partition
+#SBATCH --gres=gpu:rtx8000:1     # GPU nodes are only available in gpu partition
+#SBATCH --mem=40G                # Total memory allocated
+#SBATCH --hint=multithread       # we get physical cores not logical
+#SBATCH --time=24:00:00          # total run time limit (HH:MM:SS)
+#SBATCH --output=gpu_godel_ex1%j.out   # output file name
+#SBATCH --error=gpu_godel_ex1%j.err    # error file name
+
+echo "### Running Godel_t5_finetune_d1 Experiment ###"
+
+set -x
+#cd $"/home/mkapadni/scratch/finetuning_experiments/T5_code"
+
+module purge
+module load cuda/11.6
+
+# Set your conda environment
+source /home/mkapadni/.bashrc
+# tensorflow environment should be created previously
+source activate manav
+
+python finetune_godel_t5.py &>>./logs_folder/godel_t5_finetune_d1_logs_file.log
+
