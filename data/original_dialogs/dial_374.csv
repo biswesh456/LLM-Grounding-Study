@@ -1,0 +1,73 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / s/ street/ ADE_train_00018465.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, great_peak! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: a/ attic,,GM,A
+15,0 days 00:00:03,,,GM: url: / g/ game_room/ ADE_train_00008424.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, teeny_scotchtape! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: a/ attic,GM,B
+20,0 days 00:00:12,A: hi,,,A,All
+21,0 days 00:00:14,B: Hi,,,B,All
+22,0 days 00:00:20,B: right now I'm looking for the attic,,,B,All
+23,0 days 00:00:20,,A: cmd: s,,A,All
+24,0 days 00:00:20,,GM: url: / a/ attic/ ADE_train_00001960.jpg,,GM,A
+26,0 days 00:00:21,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+27,0 days 00:00:25,B: I just passed a pool table,,,B,All
+28,0 days 00:00:29,,,B: cmd: n,B,All
+29,0 days 00:00:30,,,GM: url: / s/ street/ ADE_train_00017789.jpg,GM,B
+31,0 days 00:00:30,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+32,0 days 00:00:33,,,B: cmd: e,B,All
+33,0 days 00:00:34,,,GM: url: / s/ street/ ADE_train_00018779.jpg,GM,B
+35,0 days 00:00:34,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+36,0 days 00:00:37,,,B: cmd: s,B,All
+37,0 days 00:00:37,,,GM: url: / a/ attic/ ADE_train_00001923.jpg,GM,B
+39,0 days 00:00:37,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+40,0 days 00:00:53,"A: i am in a very unfinished little attic, with a white door, empty metal bedframe on the ground and black little rocker chair like for a kid",,,A,All
+41,0 days 00:00:54,B: the room has a room fan and triangular wooden roof,,,B,All
+42,0 days 00:01:18,"A: ok one of us has to move, lol which?",,,A,All
+43,0 days 00:01:29,B: you could meet me here - it's a room with a nice bed,,,B,All
+44,0 days 00:01:33,A: ok ,,,A,All
+45,0 days 00:01:36,,A: cmd: s,,A,All
+46,0 days 00:01:36,,GM: Nothing happened.You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+47,0 days 00:01:39,,A: cmd: n,,A,All
+48,0 days 00:01:39,,GM: url: / s/ street/ ADE_train_00018465.jpg,,GM,A
+50,0 days 00:01:39,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+51,0 days 00:01:41,,A: cmd: e,,A,All
+52,0 days 00:01:41,,GM: url: / g/ game_room/ ADE_train_00008424.jpg,,GM,A
+54,0 days 00:01:41,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+55,0 days 00:01:44,,A: cmd: w,,A,All
+56,0 days 00:01:44,,GM: url: / s/ street/ ADE_train_00018465.jpg,,GM,A
+58,0 days 00:01:44,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+59,0 days 00:01:46,,A: cmd: e,,A,All
+60,0 days 00:01:46,,GM: url: / g/ game_room/ ADE_train_00008424.jpg,,GM,A
+62,0 days 00:01:47,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+63,0 days 00:01:48,,A: cmd: e,,A,All
+64,0 days 00:01:48,,GM: url: / a/ attic/ ADE_train_00001923.jpg,,GM,A
+66,0 days 00:01:48,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+67,0 days 00:01:51,A: found it,,,A,All
+68,0 days 00:01:53,,A: cmd: done,,A,All
+69,0 days 00:01:53,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+70,0 days 00:01:57,"B: if you can see a wooden frame, you're there!",,,B,All
+71,0 days 00:02:01,,,B: cmd: done,B,All
+72,0 days 00:02:01,GM: Well done! Both of you are                            indeed in the same room of type: a/attic!,GM: Well done! Both of you are                            indeed in the same room of type: a/ attic!,GM: Well done! Both of you are                            indeed in the same room of type: a/ attic!,GM,All
+73,0 days 00:02:02,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+74,0 days 00:02:02,GM: ,GM: ,GM: ,GM,All
+75,0 days 00:02:02,GM: Here's your token: 1082SFISGL,GM: Here's your token: 1082SFISGL,GM: Here's your token: 1082SFISGL,GM,All
+76,0 days 00:02:09,B: woo hoo! good job,,,B,All
+77,0 days 00:02:17,A: ,A: ,,A,All
+78,0 days 00:02:17,,,GM: great_peak has left the game.,GM,B
+79,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+80,0 days 00:03:19,B: ,,B: ,B,All
+81,0 days 00:03:19,,GM: teeny_scotchtape has left the game.,,GM,A
+82,0 days 00:27:28,GM: ,GM: ,GM: ,GM,All

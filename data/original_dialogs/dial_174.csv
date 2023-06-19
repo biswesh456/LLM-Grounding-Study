@@ -1,0 +1,72 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / p/ parlor/ ADE_train_00015159.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, frightened_arrow! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: b/ basement,,GM,A
+15,0 days 00:00:04,,,GM: url: / l/ living_room/ ADE_train_00000722.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:07,,,"GM: Welcome to the game, puny_marsh! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:07,,,GM: You have to meet in the room of type: b/ basement,GM,B
+20,0 days 00:00:15,,,B: cmd: n,B,All
+21,0 days 00:00:15,,,GM: url: / b/ basement/ ADE_train_00002494.jpg,GM,B
+23,0 days 00:00:15,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+24,0 days 00:00:16,,A: cmd: s,,A,All
+25,0 days 00:00:16,,GM: url: / k/ kitchen/ ADE_train_00010633.jpg,,GM,A
+27,0 days 00:00:16,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+28,0 days 00:00:22,,A: cmd: e,,A,All
+29,0 days 00:00:22,B: I am in a basement,,,B,All
+30,0 days 00:00:26,,GM: url: / b/ basement/ ADE_train_00002497.jpg,,GM,A
+32,0 days 00:00:26,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+33,0 days 00:00:29,"A: Ok, I am trying to find it",,,A,All
+34,0 days 00:00:33,A: is it a finished basement?,,,A,All
+35,0 days 00:00:40,A: I found one also,,,A,All
+36,0 days 00:00:41,A: tan couches,,,A,All
+37,0 days 00:00:46,A: a bar in the back corner,,,A,All
+38,0 days 00:00:48,"B: water heater on left, washer and dryer, white in color, white sink. stairs on right ",,,B,All
+39,0 days 00:00:53,A: Ok ,,,A,All
+40,0 days 00:01:00,,A: cmd: e,,A,All
+41,0 days 00:01:01,,GM: url: / k/ kitchen/ ADE_train_00010410.jpg,,GM,A
+43,0 days 00:01:01,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+44,0 days 00:01:06,,A: cmd: s,,A,All
+45,0 days 00:01:07,,GM: url: / p/ parking_garage/ outdoor/ ADE_train_00015104.jpg,,GM,A
+47,0 days 00:01:07,,GM: You can go: [/ n]orth,,GM,A
+48,0 days 00:01:12,A: Which direction were you headed in?,,,A,All
+49,0 days 00:01:14,,A: cmd: n,,A,All
+50,0 days 00:01:15,,GM: url: / k/ kitchen/ ADE_train_00010410.jpg,,GM,A
+52,0 days 00:01:15,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+53,0 days 00:01:16,B: north,,,B,All
+54,0 days 00:01:19,,A: cmd: w,,A,All
+55,0 days 00:01:19,,GM: url: / b/ basement/ ADE_train_00002497.jpg,,GM,A
+57,0 days 00:01:20,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+58,0 days 00:01:22,A: ok,,,A,All
+59,0 days 00:01:24,,A: cmd: n,,A,All
+60,0 days 00:01:25,,GM: url: / l/ living_room/ ADE_train_00000722.jpg,,GM,A
+62,0 days 00:01:25,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+63,0 days 00:01:28,,A: cmd: n,,A,All
+64,0 days 00:01:29,,GM: url: / b/ basement/ ADE_train_00002494.jpg,,GM,A
+66,0 days 00:01:30,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+67,0 days 00:01:34,A: I'm there,,,A,All
+68,0 days 00:01:35,,A: cmd: done,,A,All
+69,0 days 00:01:35,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+70,0 days 00:01:44,,,B: cmd: done,B,All
+71,0 days 00:01:45,GM: Well done! Both of you are                            indeed in the same room of type: b/basement!,GM: Well done! Both of you are                            indeed in the same room of type: b/ basement!,GM: Well done! Both of you are                            indeed in the same room of type: b/ basement!,GM,All
+72,0 days 00:01:45,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+73,0 days 00:01:45,GM: ,GM: ,GM: ,GM,All
+74,0 days 00:01:45,GM: Here's your token: 4862YSDPN,GM: Here's your token: 4862YSDPN,GM: Here's your token: 4862YSDPN,GM,All
+75,0 days 00:01:46,A: you can finish,,,A,All
+76,0 days 00:01:58,A: ,A: ,,A,All
+77,0 days 00:01:58,B: ,,B: ,B,All
+78,0 days 00:01:58,,,GM: frightened_arrow has left the game.,GM,B
+79,0 days 00:01:59,,GM: puny_marsh has left the game.,,GM,A
+80,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 02:18:41,GM: ,GM: ,GM: ,GM,All

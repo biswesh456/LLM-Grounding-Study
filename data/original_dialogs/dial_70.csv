@@ -1,0 +1,39 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / n/ newsstand/ outdoor/ ADE_train_00013839.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, gorgeous_puddle! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: d/ dining_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / d/ doorway/ outdoor/ ADE_train_00007348.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, steep_mallet! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: d/ dining_room,GM,B
+20,0 days 00:01:00,A: I am outside,,,A,All
+21,0 days 00:01:02,,A: cmd: s,,A,All
+22,0 days 00:01:03,,GM: url: / d/ dining_room/ ADE_train_00007097.jpg,,GM,A
+24,0 days 00:01:03,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+25,0 days 00:01:17,B: d/dining_room,,,B,All
+26,0 days 00:01:30,A: I am in the dinning room with a glass table with a view of the pool,,,A,All
+27,0 days 00:01:48,,A: cmd: done,,A,All
+28,0 days 00:01:50,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+29,0 days 00:02:32,A: you need to type /done,,,A,All
+30,0 days 00:02:46,,,B: cmd: done,B,All
+31,0 days 00:02:47,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type d/dining_room","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type d/ dining_room","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type d/ dining_room",GM,All
+32,0 days 00:02:47,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+33,0 days 00:02:47,GM: ,GM: ,GM: ,GM,All
+34,0 days 00:02:47,GM: Here's your token: 229JY8I4A,GM: Here's your token: 229JY8I4A,GM: Here's your token: 229JY8I4A,GM,All
+35,0 days 00:03:00,B: ,,B: ,B,All
+36,0 days 00:03:00,,GM: steep_mallet has left the game.,,GM,A
+37,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+38,0 days 00:03:20,A: ,A: ,,A,All
+39,0 days 00:03:20,,,GM: gorgeous_puddle has left the game.,GM,B
+40,0 days 01:32:51,GM: ,GM: ,GM: ,GM,All

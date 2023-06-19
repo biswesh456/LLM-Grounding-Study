@@ -1,0 +1,58 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001443.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, flowing_outlet! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: p/ playroom,,GM,A
+15,0 days 00:00:04,,,GM: url: / g/ garage/ indoor/ ADE_train_00008446.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, wealthy_tissuebox! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: p/ playroom,GM,B
+20,0 days 00:00:10,,,B: cmd: s,B,All
+21,0 days 00:00:10,,,GM: url: / p/ playroom/ ADE_train_00015416.jpg,GM,B
+23,0 days 00:00:10,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+24,0 days 00:00:13,,A: cmd: n,,A,All
+25,0 days 00:00:13,,GM: url: / p/ playroom/ ADE_train_00015390.jpg,,GM,A
+27,0 days 00:00:13,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+28,0 days 00:00:26,A: I'm in one right away. Let me know when you find one. ,,,A,All
+29,0 days 00:00:32,B: ok I am there I think,,,B,All
+30,0 days 00:00:38,"A: This one has a yellow, blue and purple play house. ",,,A,All
+31,0 days 00:00:40,B: actually - it looks like a classroom,,,B,All
+32,0 days 00:00:44,B: let me keep going,,,B,All
+33,0 days 00:00:48,,,B: cmd: s,B,All
+34,0 days 00:00:49,,,GM: url: / b/ bathroom/ ADE_train_00002780.jpg,GM,B
+36,0 days 00:00:49,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+37,0 days 00:00:49,A: Okay. ,,,A,All
+38,0 days 00:01:00,,,B: cmd: s,B,All
+39,0 days 00:01:00,,,GM: url: / p/ playroom/ ADE_train_00015391.jpg,GM,B
+41,0 days 00:01:00,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+42,0 days 00:01:07,,,B: cmd: s,B,All
+43,0 days 00:01:07,,,GM: Nothing happened.You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+44,0 days 00:01:08,A: This has a road map looking floor mat in the middle of the room. Two small windows on one wall. ,,,A,All
+45,0 days 00:01:11,,,B: cmd: e,B,All
+46,0 days 00:01:11,,,GM: url: / p/ playroom/ ADE_train_00015390.jpg,GM,B
+48,0 days 00:01:11,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+49,0 days 00:01:19,A: Long and narrow folding table in the back. ,,,A,All
+50,0 days 00:01:24,B: I found it,,,B,All
+51,0 days 00:01:25,,,B: cmd: done,B,All
+52,0 days 00:01:25,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+53,0 days 00:01:30,,A: cmd: done,,A,All
+54,0 days 00:01:30,GM: Well done! Both of you are                            indeed in the same room of type: p/playroom!,GM: Well done! Both of you are                            indeed in the same room of type: p/ playroom!,GM: Well done! Both of you are                            indeed in the same room of type: p/ playroom!,GM,All
+55,0 days 00:01:30,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+56,0 days 00:01:30,GM: ,GM: ,GM: ,GM,All
+57,0 days 00:01:31,GM: Here's your token: 355WSES77,GM: Here's your token: 355WSES77,GM: Here's your token: 355WSES77,GM,All
+58,0 days 00:01:52,B: ,,B: ,B,All
+59,0 days 00:01:52,,GM: wealthy_tissuebox has left the game.,,GM,A
+60,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+61,0 days 00:04:41,A: ,A: ,,A,All
+62,0 days 00:04:45,,,GM: flowing_outlet has left the game.,GM,B
+63,0 days 03:54:48,GM: ,GM: ,GM: ,GM,All

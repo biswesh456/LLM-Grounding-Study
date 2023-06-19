@@ -1,0 +1,124 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / d/ dining_room/ ADE_train_00006912.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, unwavering_hairtie! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: j/ jacuzzi/ indoor,,GM,A
+15,0 days 00:00:04,,,GM: url: / b/ bedroom/ ADE_train_00003752.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, unusual_lace! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: j/ jacuzzi/ indoor,GM,B
+20,0 days 00:00:15,A: Hi,,,A,All
+21,0 days 00:00:21,B: im in bedroom going east,,,B,All
+22,0 days 00:00:23,A: jacuzzi indoors it says,,,A,All
+23,0 days 00:00:25,,A: cmd: n,,A,All
+24,0 days 00:00:25,,GM: url: / b/ bedroom/ ADE_train_00003752.jpg,,GM,A
+26,0 days 00:00:25,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+27,0 days 00:00:26,,,B: cmd: e,B,All
+28,0 days 00:00:27,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009935.jpg,GM,B
+30,0 days 00:00:27,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+31,0 days 00:00:28,,A: cmd: s,,A,All
+32,0 days 00:00:29,,GM: url: / d/ dining_room/ ADE_train_00006912.jpg,,GM,A
+34,0 days 00:00:29,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+35,0 days 00:00:30,,A: cmd: s,,A,All
+36,0 days 00:00:32,,GM: url: / s/ street/ ADE_train_00017801.jpg,,GM,A
+38,0 days 00:00:32,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+39,0 days 00:00:32,,A: cmd: s,,A,All
+40,0 days 00:00:32,,A: cmd: ,,A,All
+41,0 days 00:00:34,,GM: Nothing happened.You can go: [/ n]orth [/ e]ast,,GM,A
+42,0 days 00:00:35,,A: cmd: e,,A,All
+43,0 days 00:00:35,,GM: url: / b/ bedroom/ ADE_train_00003527.jpg,,GM,A
+45,0 days 00:00:36,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+46,0 days 00:00:36,,A: cmd: e,,A,All
+47,0 days 00:00:36,,GM: url: / k/ kitchen/ ADE_train_00010349.jpg,,GM,A
+49,0 days 00:00:37,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+50,0 days 00:00:38,B: im at a jacuzzi now,,,B,All
+51,0 days 00:00:38,,A: cmd: e,,A,All
+52,0 days 00:00:38,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,,GM,A
+53,0 days 00:00:41,,A: cmd: n,,A,All
+54,0 days 00:00:42,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,,GM,A
+55,0 days 00:00:43,,A: cmd: w,,A,All
+56,0 days 00:00:43,,GM: url: / b/ bedroom/ ADE_train_00003527.jpg,,GM,A
+58,0 days 00:00:43,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+59,0 days 00:00:44,,A: cmd: w,,A,All
+60,0 days 00:00:45,,GM: url: / s/ street/ ADE_train_00017801.jpg,,GM,A
+62,0 days 00:00:45,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+63,0 days 00:00:45,,A: cmd: w,,A,All
+64,0 days 00:00:45,,GM: Nothing happened.You can go: [/ n]orth [/ e]ast,,GM,A
+65,0 days 00:00:47,,A: cmd: n,,A,All
+66,0 days 00:00:47,,GM: url: / d/ dining_room/ ADE_train_00006912.jpg,,GM,A
+68,0 days 00:00:47,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+69,0 days 00:00:48,,A: cmd: n,,A,All
+70,0 days 00:00:48,,GM: url: / b/ bedroom/ ADE_train_00003752.jpg,,GM,A
+72,0 days 00:00:48,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+73,0 days 00:00:49,,A: cmd: n,,A,All
+74,0 days 00:00:49,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009958.jpg,,GM,A
+76,0 days 00:00:51,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+77,0 days 00:00:51,,A: cmd: n,,A,All
+78,0 days 00:00:52,,A: cmd: n,,A,All
+79,0 days 00:00:52,,A: cmd: s,,A,All
+80,0 days 00:00:52,B: there is a wall so i assume it is indoors,,,B,All
+81,0 days 00:00:53,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,,GM,A
+82,0 days 00:00:53,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,,GM,A
+83,0 days 00:00:53,,GM: url: / b/ bedroom/ ADE_train_00003752.jpg,,GM,A
+85,0 days 00:00:54,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+86,0 days 00:00:55,,A: cmd: n,,A,All
+87,0 days 00:00:55,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009958.jpg,,GM,A
+89,0 days 00:00:55,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+90,0 days 00:01:02,A: I see a jacuzzi with chairs around it,,,A,All
+91,0 days 00:01:20,B: no mine has plants on it an a bottle of liqour,,,B,All
+92,0 days 00:01:31,A: ah,,,A,All
+93,0 days 00:01:31,,A: cmd: n,,A,All
+94,0 days 00:01:32,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,,GM,A
+95,0 days 00:01:32,,,B: cmd: s,B,All
+96,0 days 00:01:33,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009942.jpg,GM,B
+98,0 days 00:01:33,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+99,0 days 00:01:33,,A: cmd: n,,A,All
+100,0 days 00:01:33,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,,GM,A
+101,0 days 00:01:34,,A: cmd: w,,A,All
+102,0 days 00:01:34,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,,GM,A
+103,0 days 00:01:36,,A: cmd: e,,A,All
+104,0 days 00:01:37,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009941.jpg,,GM,A
+106,0 days 00:01:37,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+107,0 days 00:01:43,,A: cmd: e,,A,All
+108,0 days 00:01:45,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,,GM,A
+109,0 days 00:01:46,,A: cmd: s,,A,All
+110,0 days 00:01:46,,A: cmd: n,,A,All
+111,0 days 00:01:48,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009935.jpg,,GM,A
+113,0 days 00:01:48,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+114,0 days 00:01:49,B: ok im a jacuzzi with chairs,,,B,All
+115,0 days 00:01:50,,A: cmd: w,,A,All
+116,0 days 00:01:51,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009941.jpg,,GM,A
+118,0 days 00:01:51,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+119,0 days 00:01:51,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009958.jpg,,GM,A
+121,0 days 00:01:52,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+122,0 days 00:01:54,,A: cmd: e,,A,All
+123,0 days 00:01:55,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009941.jpg,,GM,A
+125,0 days 00:01:55,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+126,0 days 00:02:00,B: i think were there,,,B,All
+127,0 days 00:02:06,A: are the chairs lined up?,,,A,All
+128,0 days 00:02:06,B: we're,,,B,All
+129,0 days 00:02:18,B: yes against a wall,,,B,All
+130,0 days 00:02:25,A: yeah same one,,,A,All
+131,0 days 00:02:27,,A: cmd: done,,A,All
+132,0 days 00:02:28,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+133,0 days 00:02:34,,,B: cmd: done,B,All
+134,0 days 00:02:35,"GM: You have managed to meet in a room of type:                                                        j/jacuzzi/indoor, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        j/ jacuzzi/ indoor, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        j/ jacuzzi/ indoor, but unfortunately                                                        not in the same one.",GM,All
+135,0 days 00:02:35,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+136,0 days 00:02:35,GM: ,GM: ,GM: ,GM,All
+137,0 days 00:02:36,GM: Here's your token: 326RV6YAP,GM: Here's your token: 326RV6YAP,GM: Here's your token: 326RV6YAP,GM,All
+138,0 days 00:02:54,A: ,A: ,,A,All
+139,0 days 00:02:54,,,GM: unwavering_hairtie has left the game.,GM,B
+140,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+141,0 days 00:03:02,B: ,,B: ,B,All
+142,0 days 00:03:02,,GM: unusual_lace has left the game.,,GM,A
+143,0 days 04:10:56,GM: ,GM: ,GM: ,GM,All

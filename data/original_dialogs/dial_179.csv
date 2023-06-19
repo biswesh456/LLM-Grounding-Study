@@ -1,0 +1,57 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:02,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / b/ bedroom/ ADE_train_00003497.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:05,,"GM: Welcome to the game, prickly_mountain! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:05,,GM: You have to meet in the room of type: w/ waiting_room,,GM,A
+15,0 days 00:00:05,,,GM: url: / b/ bathroom/ ADE_train_00002934.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:06,,,"GM: Welcome to the game, breezy_summer! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: w/ waiting_room,GM,B
+20,0 days 00:00:12,,,B: cmd: n,B,All
+21,0 days 00:00:13,,,GM: url: / c/ cathedral/ outdoor/ ADE_train_00005313.jpg,GM,B
+23,0 days 00:00:13,,,GM: You can go: [/ s]outh,GM,B
+24,0 days 00:00:15,,,B: cmd: s,B,All
+25,0 days 00:00:16,,,GM: url: / b/ bathroom/ ADE_train_00002934.jpg,GM,B
+27,0 days 00:00:16,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+28,0 days 00:00:17,,,B: cmd: s,B,All
+29,0 days 00:00:17,,,GM: url: / b/ bedroom/ ADE_train_00003212.jpg,GM,B
+31,0 days 00:00:18,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+32,0 days 00:00:21,,,B: cmd: e,B,All
+33,0 days 00:00:21,,,GM: url: / w/ waiting_room/ ADE_train_00019630.jpg,GM,B
+35,0 days 00:00:21,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+36,0 days 00:00:27,B: i am in a wairing room,,,B,All
+37,0 days 00:00:36,A: describe it for me?,,,A,All
+38,0 days 00:00:39,,A: cmd: s,,A,All
+39,0 days 00:00:39,,GM: url: / w/ waiting_room/ ADE_train_00019630.jpg,,GM,A
+41,0 days 00:00:39,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+42,0 days 00:00:42,"B: black chairs, and a big class structure in the middle",,,B,All
+43,0 days 00:00:49,B: 3 frames on the white wAll,,,B,All
+44,0 days 00:00:53,A: three frames on the wall?,,,A,All
+45,0 days 00:00:57,B: coffee table of ,,,B,All
+46,0 days 00:01:04,B: spiral coffee table,,,B,All
+47,0 days 00:01:05,B: thats it,,,B,All
+48,0 days 00:01:14,"A: yep, that was fast",,,A,All
+49,0 days 00:01:15,B: plants on the left and right,,,B,All
+50,0 days 00:01:16,,A: cmd: done,,A,All
+51,0 days 00:01:17,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+52,0 days 00:01:23,,,B: cmd: done,B,All
+53,0 days 00:01:23,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM: Well done! Both of you are                            indeed in the same room of type: w/ waiting_room!,GM: Well done! Both of you are                            indeed in the same room of type: w/ waiting_room!,GM,All
+54,0 days 00:01:23,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+55,0 days 00:01:23,GM: ,GM: ,GM: ,GM,All
+56,0 days 00:01:24,GM: Here's your token: 8138I1C4P,GM: Here's your token: 8138I1C4P,GM: Here's your token: 8138I1C4P,GM,All
+57,0 days 00:01:42,A: ,A: ,,A,All
+58,0 days 00:01:42,,,GM: prickly_mountain has left the game.,GM,B
+59,0 days 00:02:27,B: ,,B: ,B,All
+60,0 days 00:02:27,,GM: breezy_summer has left the game.,,GM,A
+61,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+62,0 days 00:59:40,GM: ,GM: ,GM: ,GM,All

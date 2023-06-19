@@ -1,0 +1,62 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / l/ living_room/ ADE_train_00000716.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, solitary_canyon! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: k/ kitchen,,GM,A
+15,0 days 00:00:04,,,GM: url: / d/ dining_room/ ADE_train_00007209.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, stunning_clarinet! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: k/ kitchen,GM,B
+20,0 days 00:00:23,"B: hi, im in a dining room",,,B,All
+21,0 days 00:00:27,,,B: cmd: s,B,All
+22,0 days 00:00:27,,,GM: url: / d/ dining_room/ ADE_train_00007097.jpg,GM,B
+24,0 days 00:00:27,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+25,0 days 00:00:30,A: Hi there. I'm starting off in the living room area. There is wooden floors and there is a staircase on the right.,,,A,All
+26,0 days 00:00:36,,A: cmd: look,,A,All
+27,0 days 00:00:37,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+28,0 days 00:00:45,B: im in another dinning room it is all white and cream,,,B,All
+29,0 days 00:00:45,A: I'm going to try east first.,,,A,All
+30,0 days 00:00:55,,A: cmd: e,,A,All
+31,0 days 00:00:55,,GM: url: / r/ restroom/ outdoor/ ADE_train_00015844.jpg,,GM,A
+33,0 days 00:00:55,,GM: You can go: [/ w]est,,GM,A
+34,0 days 00:00:57,,,B: cmd: s,B,All
+35,0 days 00:00:58,,,GM: url: / k/ kitchen/ ADE_train_00010234.jpg,GM,B
+37,0 days 00:00:58,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+38,0 days 00:01:00,,A: cmd: w,,A,All
+39,0 days 00:01:01,,GM: url: / l/ living_room/ ADE_train_00000716.jpg,,GM,A
+41,0 days 00:01:01,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+42,0 days 00:01:04,,A: cmd: look,,A,All
+43,0 days 00:01:04,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+44,0 days 00:01:07,,A: cmd: w,,A,All
+45,0 days 00:01:07,,GM: url: / k/ kitchen/ ADE_train_00010234.jpg,,GM,A
+47,0 days 00:01:07,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+48,0 days 00:01:08,B: Im in the kitchen now I went south,,,B,All
+49,0 days 00:01:27,B: dark brown cupboards on the bottom and cream on the top ones,,,B,All
+50,0 days 00:01:29,"A: Okay, I've been brought to the kitchen. It looks like ivory colored cabinetry.",,,A,All
+51,0 days 00:01:42,B: darrk ones on the bottom?,,,B,All
+52,0 days 00:01:46,A: Yes.,,,A,All
+53,0 days 00:01:50,,,B: cmd: done,B,All
+54,0 days 00:01:50,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+55,0 days 00:01:52,,A: cmd: look,,A,All
+56,0 days 00:01:52,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+57,0 days 00:02:09,,A: cmd: done,,A,All
+58,0 days 00:02:10,GM: Well done! Both of you are                            indeed in the same room of type: k/kitchen!,GM: Well done! Both of you are                            indeed in the same room of type: k/ kitchen!,GM: Well done! Both of you are                            indeed in the same room of type: k/ kitchen!,GM,All
+59,0 days 00:02:10,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+60,0 days 00:02:10,GM: ,GM: ,GM: ,GM,All
+61,0 days 00:02:10,GM: Here's your token: 188NZ2R1Z,GM: Here's your token: 188NZ2R1Z,GM: Here's your token: 188NZ2R1Z,GM,All
+62,0 days 00:02:54,A: ,A: ,,A,All
+63,0 days 00:02:55,,,GM: solitary_canyon has left the game.,GM,B
+64,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+65,0 days 00:12:05,B: ,,B: ,B,All
+66,0 days 00:12:06,,GM: stunning_clarinet has left the game.,,GM,A
+67,0 days 01:54:34,GM: ,GM: ,GM: ,GM,All

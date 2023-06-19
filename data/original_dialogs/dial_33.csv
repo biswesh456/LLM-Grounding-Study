@@ -1,0 +1,47 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001432.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, broken_slipper! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: w/ wine_cellar/ bottle_storage,,GM,A
+15,0 days 00:00:04,,,GM: url: / b/ bedroom/ ADE_train_00004206.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, exuberant_abyss! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: w/ wine_cellar/ bottle_storage,GM,B
+20,0 days 00:00:13,,A: cmd: e,,A,All
+21,0 days 00:00:13,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+22,0 days 00:00:18,,A: cmd: s,,A,All
+23,0 days 00:00:19,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00020063.jpg,,GM,A
+25,0 days 00:00:19,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+26,0 days 00:00:20,B: hello there,,,B,All
+27,0 days 00:00:24,,,B: cmd: n,B,All
+28,0 days 00:00:25,,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00020064.jpg,GM,B
+30,0 days 00:00:25,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+31,0 days 00:00:27,A: hello,,,A,All
+32,0 days 00:00:31,B: i've found it.,,,B,All
+33,0 days 00:00:31,A: i/m in the cellar,,,A,All
+34,0 days 00:00:40,B: there's a ton of bottles?,,,B,All
+35,0 days 00:00:44,A: yes,,,A,All
+36,0 days 00:00:47,,,B: cmd: done,B,All
+37,0 days 00:00:47,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+38,0 days 00:00:52,A: done,,,A,All
+39,0 days 00:00:56,,A: cmd: done,,A,All
+40,0 days 00:00:57,"GM: You have managed to meet in a room of type:                                                        w/wine_cellar/bottle_storage, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        w/ wine_cellar/ bottle_storage, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        w/ wine_cellar/ bottle_storage, but unfortunately                                                        not in the same one.",GM,All
+41,0 days 00:00:57,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+42,0 days 00:00:57,GM: ,GM: ,GM: ,GM,All
+43,0 days 00:00:57,GM: Here's your token: 155ZKB121,GM: Here's your token: 155ZKB121,GM: Here's your token: 155ZKB121,GM,All
+44,0 days 00:01:22,B: ,,B: ,B,All
+45,0 days 00:01:23,,GM: exuberant_abyss has left the game.,,GM,A
+46,0 days 00:02:45,A: ,A: ,,A,All
+47,0 days 00:02:45,,,GM: broken_slipper has left the game.,GM,B
+48,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+49,0 days 02:11:24,GM: ,GM: ,GM: ,GM,All

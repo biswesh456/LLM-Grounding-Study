@@ -1,0 +1,72 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:04,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / d/ doorway/ outdoor/ ADE_train_00007350.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, prickly_firefly! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: k/ kitchen,,GM,A
+15,0 days 00:00:04,,,GM: url: / a/ art_studio/ ADE_train_00001779.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, mellow_mountain! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: k/ kitchen,GM,B
+20,0 days 00:00:10,,,B: cmd: n,B,All
+21,0 days 00:00:10,,,GM: url: / s/ street/ ADE_train_00018291.jpg,GM,B
+23,0 days 00:00:10,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+24,0 days 00:00:15,,,B: cmd: n,B,All
+25,0 days 00:00:15,,,GM: url: / d/ doorway/ outdoor/ ADE_train_00007350.jpg,GM,B
+27,0 days 00:00:15,,,GM: You can go: [/ s]outh,GM,B
+28,0 days 00:00:19,,,B: cmd: s,B,All
+29,0 days 00:00:20,,,GM: url: / s/ street/ ADE_train_00018291.jpg,GM,B
+31,0 days 00:00:20,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+32,0 days 00:00:21,,,B: cmd: s,B,All
+33,0 days 00:00:21,,,GM: url: / a/ art_studio/ ADE_train_00001779.jpg,GM,B
+35,0 days 00:00:22,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+36,0 days 00:00:24,,,B: cmd: e,B,All
+37,0 days 00:00:24,,,GM: url: / b/ bedroom/ ADE_train_00003814.jpg,GM,B
+39,0 days 00:00:25,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+40,0 days 00:00:30,,,B: cmd: n,B,All
+41,0 days 00:00:30,,,GM: url: / k/ kitchen/ ADE_train_00010251.jpg,GM,B
+43,0 days 00:00:30,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+44,0 days 00:00:38,B: OKay I'm in a kitchen,,,B,All
+45,0 days 00:00:45,,A: cmd: s,,A,All
+46,0 days 00:00:45,,GM: url: / s/ street/ ADE_train_00018291.jpg,,GM,A
+48,0 days 00:00:45,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+49,0 days 00:00:49,,A: cmd: s,,A,All
+50,0 days 00:00:49,,GM: url: / a/ art_studio/ ADE_train_00001779.jpg,,GM,A
+52,0 days 00:00:49,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+53,0 days 00:00:50,B: black counter tops,,,B,All
+54,0 days 00:00:53,,A: cmd: e,,A,All
+55,0 days 00:00:53,,GM: url: / b/ bedroom/ ADE_train_00003814.jpg,,GM,A
+57,0 days 00:00:54,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+58,0 days 00:00:57,,A: cmd: n,,A,All
+59,0 days 00:00:58,,GM: url: / k/ kitchen/ ADE_train_00010251.jpg,,GM,A
+61,0 days 00:00:58,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+62,0 days 00:01:02,B: light tan cabinets,,,B,All
+63,0 days 00:01:07,A: i am in a kitchen,,,A,All
+64,0 days 00:01:09,B: window over sink,,,B,All
+65,0 days 00:01:12,A: black counter top?,,,A,All
+66,0 days 00:01:15,A: yes,,,A,All
+67,0 days 00:01:28,B: microwave on shelf next to windo?,,,B,All
+68,0 days 00:01:32,A: yes,,,A,All
+69,0 days 00:01:33,,A: cmd: done,,A,All
+70,0 days 00:01:33,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+71,0 days 00:01:36,B: okay,,,B,All
+72,0 days 00:01:40,,,B: cmd: done,B,All
+73,0 days 00:01:41,GM: Well done! Both of you are                            indeed in the same room of type: k/kitchen!,GM: Well done! Both of you are                            indeed in the same room of type: k/ kitchen!,GM: Well done! Both of you are                            indeed in the same room of type: k/ kitchen!,GM,All
+74,0 days 00:01:41,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+75,0 days 00:01:41,GM: ,GM: ,GM: ,GM,All
+76,0 days 00:01:41,GM: Here's your token: 741PAXV4I,GM: Here's your token: 741PAXV4I,GM: Here's your token: 741PAXV4I,GM,All
+77,0 days 00:02:01,B: ,,B: ,B,All
+78,0 days 00:02:03,,GM: mellow_mountain has left the game.,,GM,A
+79,0 days 00:02:06,A: ,A: ,,A,All
+80,0 days 00:02:06,,,GM: prickly_firefly has left the game.,GM,B
+81,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+82,0 days 02:10:19,GM: ,GM: ,GM: ,GM,All

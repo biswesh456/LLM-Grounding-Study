@@ -1,0 +1,85 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:04,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:05,,GM: url: / d/ doorway/ indoor/ ADE_train_00007335.jpg,,GM,A
+12,0 days 00:00:05,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+13,0 days 00:00:05,,"GM: Welcome to the game, uplifting_cove! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:05,,GM: You have to meet in the room of type: p/ playroom,,GM,A
+15,0 days 00:00:05,,,GM: url: / s/ street/ ADE_train_00017809.jpg,GM,B
+17,0 days 00:00:06,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:06,,,"GM: Welcome to the game, deep_radio! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: p/ playroom,GM,B
+20,0 days 00:00:19,B: Hello,,,B,All
+21,0 days 00:00:20,,,B: cmd: e,B,All
+22,0 days 00:00:20,,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,GM,B
+23,0 days 00:00:22,,,B: cmd: s,B,All
+24,0 days 00:00:23,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007335.jpg,GM,B
+26,0 days 00:00:23,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+27,0 days 00:00:25,,,B: cmd: w,B,All
+28,0 days 00:00:25,,,GM: url: / p/ playroom/ ADE_train_00015412.jpg,GM,B
+30,0 days 00:00:25,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+31,0 days 00:00:39,B: I found a room with play items,,,B,All
+32,0 days 00:00:40,A: hi im there,,,A,All
+33,0 days 00:00:49,A: i too ,,,A,All
+34,0 days 00:00:51,"B: is there a green, blue and yellow chair there?",,,B,All
+35,0 days 00:01:01,A: no ,,,A,All
+36,0 days 00:01:05,B: let me keep going,,,B,All
+37,0 days 00:01:08,,,B: cmd: e,B,All
+38,0 days 00:01:09,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007335.jpg,GM,B
+40,0 days 00:01:09,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+41,0 days 00:01:12,,,B: cmd: w,B,All
+42,0 days 00:01:12,,,GM: url: / p/ playroom/ ADE_train_00015412.jpg,GM,B
+44,0 days 00:01:12,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+45,0 days 00:01:12,A: ok,,,A,All
+46,0 days 00:01:14,,,B: cmd: n,B,All
+47,0 days 00:01:14,,,GM: url: / b/ bedroom/ ADE_train_00003957.jpg,GM,B
+49,0 days 00:01:14,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+50,0 days 00:01:18,,,B: cmd: e,B,All
+51,0 days 00:01:19,,,GM: url: / s/ street/ ADE_train_00017809.jpg,GM,B
+53,0 days 00:01:19,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+54,0 days 00:01:21,,,B: cmd: w,B,All
+55,0 days 00:01:22,,,GM: url: / b/ bedroom/ ADE_train_00003957.jpg,GM,B
+57,0 days 00:01:22,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+58,0 days 00:01:23,,,B: cmd: s,B,All
+59,0 days 00:01:23,,,GM: url: / p/ playroom/ ADE_train_00015412.jpg,GM,B
+61,0 days 00:01:24,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+62,0 days 00:01:26,,,B: cmd: w,B,All
+63,0 days 00:01:27,,,GM: url: / p/ playroom/ ADE_train_00015390.jpg,GM,B
+65,0 days 00:01:27,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+66,0 days 00:01:35,B: found it,,,B,All
+67,0 days 00:01:41,B: purple stairs on that one toy?,,,B,All
+68,0 days 00:01:42,A: not yet,,,A,All
+69,0 days 00:02:01,B: I thought you were there,,,B,All
+70,0 days 00:02:02,A: i have seen only a door and garden,,,A,All
+71,0 days 00:02:08,B: stay in the house,,,B,All
+72,0 days 00:02:15,A: okay,,,A,All
+73,0 days 00:02:28,,,B: cmd: e,B,All
+74,0 days 00:02:28,,,GM: url: / p/ playroom/ ADE_train_00015412.jpg,GM,B
+76,0 days 00:02:29,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+77,0 days 00:02:32,,,B: cmd: w,B,All
+78,0 days 00:02:32,,,GM: url: / p/ playroom/ ADE_train_00015390.jpg,GM,B
+80,0 days 00:02:33,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+81,0 days 00:02:39,"B: if you're in the room with the tv, go west",,,B,All
+82,0 days 00:02:59,A: no i am not there,,,A,All
+83,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+84,0 days 00:03:10,A: okay,,,A,All
+85,0 days 00:03:29,,,B: cmd: done,B,All
+86,0 days 00:03:29,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+87,0 days 00:03:43,,A: cmd: done,,A,All
+88,0 days 00:03:43,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type p/playroom","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type p/ playroom","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type p/ playroom",GM,All
+89,0 days 00:03:43,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+90,0 days 00:03:43,GM: ,GM: ,GM: ,GM,All
+91,0 days 00:03:43,GM: Here's your token: 658RNN0LV,GM: Here's your token: 658RNN0LV,GM: Here's your token: 658RNN0LV,GM,All
+92,0 days 00:04:18,B: ,,B: ,B,All
+93,0 days 00:04:18,,GM: deep_radio has left the game.,,GM,A
+94,0 days 00:04:47,A: ,A: ,,A,All
+95,0 days 00:04:48,,,GM: uplifting_cove has left the game.,GM,B
+96,0 days 03:39:51,GM: ,GM: ,GM: ,GM,All

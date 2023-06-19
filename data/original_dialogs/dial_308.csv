@@ -1,0 +1,59 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:00,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:04,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / d/ dining_room/ ADE_train_00006849.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, small_bathtub! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:05,,GM: You have to meet in the room of type: d/ doorway/ indoor,,GM,A
+15,0 days 00:00:05,,,GM: url: / h/ hotel_room/ ADE_train_00009572.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, round_sanctuary! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: d/ doorway/ indoor,GM,B
+20,0 days 00:00:11,,,B: cmd: n,B,All
+21,0 days 00:00:11,,,GM: url: / r/ restroom/ outdoor/ ADE_train_00015845.jpg,GM,B
+23,0 days 00:00:11,,,GM: You can go: [/ s]outh,GM,B
+24,0 days 00:00:15,,,B: cmd: s,B,All
+25,0 days 00:00:15,,,GM: url: / h/ hotel_room/ ADE_train_00009572.jpg,GM,B
+27,0 days 00:00:15,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+28,0 days 00:00:16,,A: cmd: n,,A,All
+29,0 days 00:00:16,,GM: url: / d/ doorway/ indoor/ ADE_train_00007335.jpg,,GM,A
+31,0 days 00:00:17,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+32,0 days 00:00:17,,,B: cmd: s,B,All
+33,0 days 00:00:18,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007330.jpg,GM,B
+35,0 days 00:00:18,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+36,0 days 00:00:25,A: im in a doorway,,,A,All
+37,0 days 00:00:25,B: okay I'm in a doorway,,,B,All
+38,0 days 00:00:32,A: caution tape across?,,,A,All
+39,0 days 00:00:40,B: nope I'll find you,,,B,All
+40,0 days 00:00:46,,,B: cmd: e,B,All
+41,0 days 00:00:47,,,GM: url: / d/ dining_room/ ADE_train_00006849.jpg,GM,B
+43,0 days 00:00:47,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+44,0 days 00:00:51,,,B: cmd: n,B,All
+45,0 days 00:00:51,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007335.jpg,GM,B
+47,0 days 00:00:51,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+48,0 days 00:00:58,"A: mine is indoor, pointing to the outside",,,A,All
+49,0 days 00:01:05,A: so i dont know if it is the correct one,,,A,All
+50,0 days 00:01:22,B: caution tape tied around the door handle?,,,B,All
+51,0 days 00:01:26,A: yes,,,A,All
+52,0 days 00:01:30,B: okay.,,,B,All
+53,0 days 00:01:33,,A: cmd: done,,A,All
+54,0 days 00:01:33,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+55,0 days 00:01:35,,,B: cmd: done,B,All
+56,0 days 00:01:35,GM: Well done! Both of you are                            indeed in the same room of type: d/doorway/indoor!,GM: Well done! Both of you are                            indeed in the same room of type: d/ doorway/ indoor!,GM: Well done! Both of you are                            indeed in the same room of type: d/ doorway/ indoor!,GM,All
+57,0 days 00:01:35,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+58,0 days 00:01:35,GM: ,GM: ,GM: ,GM,All
+59,0 days 00:01:36,GM: Here's your token: 747AEZ12I,GM: Here's your token: 747AEZ12I,GM: Here's your token: 747AEZ12I,GM,All
+60,0 days 00:01:56,A: ,A: ,,A,All
+61,0 days 00:01:56,,,GM: small_bathtub has left the game.,GM,B
+62,0 days 00:01:58,B: ,,B: ,B,All
+63,0 days 00:01:58,,GM: round_sanctuary has left the game.,,GM,A
+64,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+65,0 days 02:03:57,GM: ,GM: ,GM: ,GM,All

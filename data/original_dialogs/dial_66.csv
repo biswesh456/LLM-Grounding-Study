@@ -1,0 +1,73 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001451.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, sunset_arrow! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: h/ home_office,,GM,A
+15,0 days 00:00:03,,,GM: url: / c/ casino/ outdoor/ ADE_train_00005211.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, blessed_hurricane! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: h/ home_office,GM,B
+20,0 days 00:00:11,,,B: cmd: n,B,All
+21,0 days 00:00:11,,,GM: Nothing happened.You can go: [/ s]outh,GM,B
+22,0 days 00:00:14,,,B: cmd: s,B,All
+23,0 days 00:00:14,,,GM: url: / h/ home_office/ ADE_train_00009329.jpg,GM,B
+25,0 days 00:00:14,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+26,0 days 00:00:19,A: Hello,,,A,All
+27,0 days 00:00:24,B: i went south once,,,B,All
+28,0 days 00:00:24,B: hi,,,B,All
+29,0 days 00:00:34,"B: im in an office, two blue chairs",,,B,All
+30,0 days 00:00:35,,A: cmd: s,,A,All
+31,0 days 00:00:35,,GM: Nothing happened.You can go: [/ n]orth,,GM,A
+32,0 days 00:00:41,,A: cmd: n,,A,All
+33,0 days 00:00:43,,GM: url: / k/ kindergarden_classroom/ ADE_train_00010120.jpg,,GM,A
+35,0 days 00:00:43,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+36,0 days 00:00:48,,A: cmd: w,,A,All
+37,0 days 00:00:48,,GM: url: / h/ home_office/ ADE_train_00009360.jpg,,GM,A
+39,0 days 00:00:48,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+40,0 days 00:00:54,B: a blue statue of a horse head on the table,,,B,All
+41,0 days 00:01:01,A: found an office,,,A,All
+42,0 days 00:01:22,B: does it have two blue chairs in it?,,,B,All
+43,0 days 00:01:29,A: not seeing the horse head,,,A,All
+44,0 days 00:01:40,A: one black chair,,,A,All
+45,0 days 00:01:46,,A: cmd: w,,A,All
+46,0 days 00:01:46,,GM: url: / h/ home_office/ ADE_train_00009388.jpg,,GM,A
+48,0 days 00:01:46,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+49,0 days 00:01:48,B: wait and ill find you,,,B,All
+50,0 days 00:01:55,,A: cmd: e,,A,All
+51,0 days 00:01:55,,,B: cmd: e,B,All
+52,0 days 00:01:55,,GM: url: / h/ home_office/ ADE_train_00009360.jpg,,GM,A
+54,0 days 00:01:55,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+55,0 days 00:01:56,,,GM: url: / h/ home_office/ ADE_train_00009388.jpg,GM,B
+57,0 days 00:01:56,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+58,0 days 00:02:03,,,B: cmd: e,B,All
+59,0 days 00:02:04,,,GM: url: / h/ home_office/ ADE_train_00009360.jpg,GM,B
+61,0 days 00:02:04,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+62,0 days 00:02:19,B: white file cabinets?,,,B,All
+63,0 days 00:02:23,B: kinda messy?,,,B,All
+64,0 days 00:02:33,B: blue bin under the desk?,,,B,All
+65,0 days 00:02:37,A: yes and window on right,,,A,All
+66,0 days 00:02:39,A: yes,,,A,All
+67,0 days 00:02:42,,A: cmd: done,,A,All
+68,0 days 00:02:42,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+69,0 days 00:02:44,"B: yes, thats the one",,,B,All
+70,0 days 00:02:46,,,B: cmd: done,B,All
+71,0 days 00:02:46,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM,All
+72,0 days 00:02:46,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+73,0 days 00:02:46,GM: ,GM: ,GM: ,GM,All
+74,0 days 00:02:46,GM: Here's your token: 6872Q13TF,GM: Here's your token: 6872Q13TF,GM: Here's your token: 6872Q13TF,GM,All
+75,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+76,0 days 00:03:05,A: ,A: ,,A,All
+77,0 days 00:03:06,,,GM: sunset_arrow has left the game.,GM,B
+78,0 days 00:03:07,B: ,,B: ,B,All
+79,0 days 00:03:08,,GM: blessed_hurricane has left the game.,,GM,A
+80,0 days 03:15:22,GM: ,GM: ,GM: ,GM,All

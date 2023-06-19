@@ -1,0 +1,76 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001446.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, solitary_leg_warmers! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: l/ locker_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / h/ home_office/ ADE_train_00009338.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, large_winds! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: l/ locker_room,GM,B
+20,0 days 00:00:12,B: hello,,,B,All
+21,0 days 00:00:13,,,B: cmd: look,B,All
+22,0 days 00:00:13,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+23,0 days 00:00:15,,,B: cmd: n,B,All
+24,0 days 00:00:16,,,GM: url: / l/ locker_room/ ADE_train_00011587.jpg,GM,B
+26,0 days 00:00:16,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+27,0 days 00:00:25,A: hi there,,,A,All
+28,0 days 00:00:26,B: i found a locker room,,,B,All
+29,0 days 00:00:29,B: alternating red and white lockers,,,B,All
+30,0 days 00:00:32,B: bench in the middle,,,B,All
+31,0 days 00:00:37,,A: cmd: n,,A,All
+32,0 days 00:00:37,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+33,0 days 00:00:43,,A: cmd: n,,A,All
+34,0 days 00:00:44,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+35,0 days 00:00:48,,A: cmd: s,,A,All
+36,0 days 00:00:49,,GM: url: / l/ locker_room/ ADE_train_00011599.jpg,,GM,A
+38,0 days 00:00:49,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+39,0 days 00:00:57,A: i see a brazil flag,,,A,All
+40,0 days 00:01:09,B: go to a locker room and describe it,,,B,All
+41,0 days 00:01:13,A: nope,,,A,All
+42,0 days 00:01:19,B: proceed to a locker room,,,B,All
+43,0 days 00:01:32,A: yellow paint clock on the wall brazilianflag,,,A,All
+44,0 days 00:01:42,B: what color are the lockers,,,B,All
+45,0 days 00:01:45,A: want me to stay here ?,,,A,All
+46,0 days 00:01:51,,,B: cmd: look,B,All
+47,0 days 00:01:51,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+48,0 days 00:01:54,,,B: cmd: w,B,All
+49,0 days 00:01:55,,,GM: url: / l/ locker_room/ ADE_train_00011590.jpg,GM,B
+51,0 days 00:01:55,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+52,0 days 00:01:57,A: white with a yellow jersey in every locker,,,A,All
+53,0 days 00:02:04,,,B: cmd: n,B,All
+54,0 days 00:02:04,,,GM: url: / p/ poolroom/ home/ ADE_train_00015554.jpg,GM,B
+56,0 days 00:02:04,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+57,0 days 00:02:08,,,B: cmd: e,B,All
+58,0 days 00:02:08,,,GM: url: / s/ street/ ADE_train_00017574.jpg,GM,B
+60,0 days 00:02:08,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+61,0 days 00:02:14,,,B: cmd: n,B,All
+62,0 days 00:02:14,,,GM: url: / s/ street/ ADE_train_00017744.jpg,GM,B
+64,0 days 00:02:14,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+65,0 days 00:02:17,A: theres a blue seat below every jersey,,,A,All
+66,0 days 00:02:18,,,B: cmd: w,B,All
+67,0 days 00:02:18,,,GM: url: / l/ locker_room/ ADE_train_00011599.jpg,GM,B
+69,0 days 00:02:18,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+70,0 days 00:02:22,B: found it,,,B,All
+71,0 days 00:02:25,,,B: cmd: done,B,All
+72,0 days 00:02:25,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+73,0 days 00:02:34,,A: cmd: done,,A,All
+74,0 days 00:02:34,GM: Well done! Both of you are                            indeed in the same room of type: l/locker_room!,GM: Well done! Both of you are                            indeed in the same room of type: l/ locker_room!,GM: Well done! Both of you are                            indeed in the same room of type: l/ locker_room!,GM,All
+75,0 days 00:02:34,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+76,0 days 00:02:35,GM: ,GM: ,GM: ,GM,All
+77,0 days 00:02:35,GM: Here's your token: 197PL4R8I,GM: Here's your token: 197PL4R8I,GM: Here's your token: 197PL4R8I,GM,All
+78,0 days 00:02:51,B: ,,B: ,B,All
+79,0 days 00:02:54,,GM: large_winds has left the game.,,GM,A
+80,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 00:03:04,A: ,A: ,,A,All
+82,0 days 00:03:04,,,GM: solitary_leg_warmers has left the game.,GM,B
+83,0 days 01:49:16,GM: ,GM: ,GM: ,GM,All

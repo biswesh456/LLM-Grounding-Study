@@ -1,0 +1,59 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / p/ poolroom/ home/ ADE_train_00015495.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, cute_briars! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: d/ dining_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / g/ garage/ outdoor/ ADE_train_00008502.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, frightened_waterfall! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: d/ dining_room,GM,B
+20,0 days 00:00:11,,A: cmd: e,,A,All
+21,0 days 00:00:11,,GM: url: / d/ dining_room/ ADE_train_00007180.jpg,,GM,A
+23,0 days 00:00:11,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+24,0 days 00:00:18,,,B: cmd: s,B,All
+25,0 days 00:00:19,,,GM: url: / h/ hotel_room/ ADE_train_00009661.jpg,GM,B
+27,0 days 00:00:19,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+28,0 days 00:00:30,,,B: cmd: e,B,All
+29,0 days 00:00:30,,,GM: url: / p/ poolroom/ home/ ADE_train_00015495.jpg,GM,B
+31,0 days 00:00:30,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+32,0 days 00:00:34,A: i'm in one with a little table. where are you?,,,A,All
+33,0 days 00:00:36,,,B: cmd: e,B,All
+34,0 days 00:00:36,,,GM: url: / d/ dining_room/ ADE_train_00007180.jpg,GM,B
+36,0 days 00:00:36,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+37,0 days 00:00:50,,A: cmd: s,,A,All
+38,0 days 00:00:50,,GM: url: / d/ dining_room/ ADE_train_00007133.jpg,,GM,A
+40,0 days 00:00:51,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+41,0 days 00:01:01,A: and here is one with yellow walls,,,A,All
+42,0 days 00:01:11,"B: i found one with the table in the corner, looks like a glass table with 4 chairs",,,B,All
+43,0 days 00:01:21,A: ok hold on i'm coming,,,A,All
+44,0 days 00:01:26,A: ?n,,,A,All
+45,0 days 00:01:30,B: 2 windows and a mirror on the far wall,,,B,All
+46,0 days 00:01:31,,A: cmd: n,,A,All
+47,0 days 00:01:32,,GM: url: / d/ dining_room/ ADE_train_00007180.jpg,,GM,A
+49,0 days 00:01:32,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+50,0 days 00:01:48,A: yes with a burnt orange blanket,,,A,All
+51,0 days 00:01:52,A: on the chair,,,A,All
+52,0 days 00:01:53,B: and a little black chandelier with 4 lights on the ceiling,,,B,All
+53,0 days 00:01:57,A: yes,,,A,All
+54,0 days 00:01:59,,A: cmd: done,,A,All
+55,0 days 00:01:59,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+56,0 days 00:02:03,,,B: cmd: done,B,All
+57,0 days 00:02:03,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM,All
+58,0 days 00:02:03,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+59,0 days 00:02:03,GM: ,GM: ,GM: ,GM,All
+60,0 days 00:02:04,GM: Here's your token: 874RS4XSY,GM: Here's your token: 874RS4XSY,GM: Here's your token: 874RS4XSY,GM,All
+61,0 days 00:02:12,A: ,A: ,,A,All
+62,0 days 00:02:12,,,GM: cute_briars has left the game.,GM,B
+63,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+64,0 days 00:05:20,B: ,,B: ,B,All
+65,0 days 00:05:20,,GM: frightened_waterfall has left the game.,,GM,A

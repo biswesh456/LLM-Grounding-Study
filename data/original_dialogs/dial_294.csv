@@ -1,0 +1,108 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:00,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:00,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:04,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:04,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / w/ waiting_room/ ADE_train_00019686.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, flat_cha! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: b/ bathroom,,GM,A
+15,0 days 00:00:05,,,GM: url: / k/ kiosk/ outdoor/ ADE_train_00010148.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ s]outh,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, blessed_whiteout! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: b/ bathroom,GM,B
+20,0 days 00:00:12,B: hi,,,B,All
+21,0 days 00:00:15,,,B: cmd: n,B,All
+22,0 days 00:00:16,,,GM: Nothing happened.You can go: [/ s]outh,GM,B
+23,0 days 00:00:20,,,B: cmd: s,B,All
+24,0 days 00:00:20,,,GM: url: / s/ street/ ADE_train_00017806.jpg,GM,B
+26,0 days 00:00:20,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+27,0 days 00:00:34,,,B: cmd: w,B,All
+28,0 days 00:00:35,,,GM: url: / w/ waiting_room/ ADE_train_00019686.jpg,GM,B
+30,0 days 00:00:36,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+31,0 days 00:00:43,A: hey,,,A,All
+32,0 days 00:00:53,,,B: cmd: w,B,All
+33,0 days 00:00:53,,,GM: url: / s/ street/ ADE_train_00017401.jpg,GM,B
+35,0 days 00:00:54,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+36,0 days 00:00:55,,A: cmd: e,,A,All
+37,0 days 00:00:55,,GM: url: / s/ street/ ADE_train_00017806.jpg,,GM,A
+39,0 days 00:00:55,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+40,0 days 00:00:58,,A: cmd: n,,A,All
+41,0 days 00:00:58,,GM: url: / k/ kiosk/ outdoor/ ADE_train_00010148.jpg,,GM,A
+43,0 days 00:00:58,,GM: You can go: [/ s]outh,,GM,A
+44,0 days 00:01:00,,,B: cmd: e,B,All
+45,0 days 00:01:00,,,GM: url: / w/ waiting_room/ ADE_train_00019686.jpg,GM,B
+47,0 days 00:01:00,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+48,0 days 00:01:01,,A: cmd: s,,A,All
+49,0 days 00:01:01,,GM: url: / s/ street/ ADE_train_00017806.jpg,,GM,A
+51,0 days 00:01:01,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+52,0 days 00:01:02,,A: cmd: e,,A,All
+53,0 days 00:01:02,,GM: url: / b/ bathroom/ ADE_train_00002607.jpg,,GM,A
+55,0 days 00:01:02,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+56,0 days 00:01:04,,,B: cmd: e,B,All
+57,0 days 00:01:04,,,GM: url: / s/ street/ ADE_train_00017806.jpg,GM,B
+59,0 days 00:01:04,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+60,0 days 00:01:08,A: im in a bathroom,,,A,All
+61,0 days 00:01:12,A: white tub with grey tiles,,,A,All
+62,0 days 00:01:33,,,B: cmd: w,B,All
+63,0 days 00:01:33,,,GM: url: / w/ waiting_room/ ADE_train_00019686.jpg,GM,B
+65,0 days 00:01:33,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+66,0 days 00:01:43,B: w/,,,B,All
+67,0 days 00:01:47,,,B: cmd: w,B,All
+68,0 days 00:01:48,,,GM: url: / s/ street/ ADE_train_00017401.jpg,GM,B
+70,0 days 00:01:48,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+71,0 days 00:01:54,,,B: cmd: w,B,All
+72,0 days 00:01:54,,,GM: url: / p/ parking_garage/ outdoor/ ADE_train_00015112.jpg,GM,B
+74,0 days 00:01:54,,,GM: You can go: [/ e]ast,GM,B
+75,0 days 00:01:59,,,B: cmd: e,B,All
+76,0 days 00:01:59,,,GM: url: / s/ street/ ADE_train_00017401.jpg,GM,B
+78,0 days 00:01:59,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+79,0 days 00:02:04,,,B: cmd: e,B,All
+80,0 days 00:02:05,,,GM: url: / w/ waiting_room/ ADE_train_00019686.jpg,GM,B
+82,0 days 00:02:05,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+83,0 days 00:02:10,,,B: cmd: e,B,All
+84,0 days 00:02:10,,,GM: url: / s/ street/ ADE_train_00017806.jpg,GM,B
+86,0 days 00:02:10,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+87,0 days 00:02:14,,,B: cmd: n,B,All
+88,0 days 00:02:14,,,GM: url: / k/ kiosk/ outdoor/ ADE_train_00010148.jpg,GM,B
+90,0 days 00:02:15,,,GM: You can go: [/ s]outh,GM,B
+91,0 days 00:02:15,,A: cmd: w,,A,All
+92,0 days 00:02:15,,GM: url: / s/ street/ ADE_train_00017806.jpg,,GM,A
+94,0 days 00:02:15,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+95,0 days 00:02:17,,,B: cmd: s,B,All
+96,0 days 00:02:17,,,GM: url: / s/ street/ ADE_train_00017806.jpg,GM,B
+98,0 days 00:02:18,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+99,0 days 00:02:18,,A: cmd: e,,A,All
+100,0 days 00:02:18,,GM: url: / b/ bathroom/ ADE_train_00002607.jpg,,GM,A
+102,0 days 00:02:19,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+103,0 days 00:02:28,,,B: cmd: e,B,All
+104,0 days 00:02:28,,,GM: url: / b/ bathroom/ ADE_train_00002607.jpg,GM,B
+106,0 days 00:02:29,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+107,0 days 00:02:45,,A: cmd: w,,A,All
+108,0 days 00:02:46,,GM: url: / s/ street/ ADE_train_00017806.jpg,,GM,A
+110,0 days 00:02:46,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+111,0 days 00:02:48,,A: cmd: e,,A,All
+112,0 days 00:02:48,,GM: url: / b/ bathroom/ ADE_train_00002607.jpg,,GM,A
+114,0 days 00:02:48,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+115,0 days 00:02:52,A: to the east of the city,,,A,All
+116,0 days 00:02:52,B: i am in bathroom grey tiles on wall and tub,,,B,All
+117,0 days 00:02:55,A: perfect,,,A,All
+118,0 days 00:02:55,A: done,,,A,All
+119,0 days 00:02:57,,A: cmd: done,,A,All
+120,0 days 00:02:57,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+121,0 days 00:03:00,,,B: cmd: done,B,All
+122,0 days 00:03:00,GM: Well done! Both of you are                            indeed in the same room of type: b/bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM,All
+123,0 days 00:03:00,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+124,0 days 00:03:00,GM: ,GM: ,GM: ,GM,All
+125,0 days 00:03:01,GM: Here's your token: 8955T4SR7,GM: Here's your token: 8955T4SR7,GM: Here's your token: 8955T4SR7,GM,All
+126,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+127,0 days 00:03:05,A: ,A: ,,A,All
+128,0 days 00:03:05,,,GM: flat_cha has left the game.,GM,B
+129,0 days 00:03:32,B: ,,B: ,B,All
+130,0 days 00:03:32,,GM: blessed_whiteout has left the game.,,GM,A

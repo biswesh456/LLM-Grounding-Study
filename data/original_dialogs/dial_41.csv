@@ -1,0 +1,82 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / b/ bathroom/ ADE_train_00002555.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, snowy_map! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: b/ balcony/ interior,,GM,A
+15,0 days 00:00:03,,,GM: url: / k/ kitchen/ ADE_train_00010162.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, natural_stone! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: b/ balcony/ interior,GM,B
+20,0 days 00:00:15,,,B: cmd: e,B,All
+21,0 days 00:00:15,,,GM: url: / b/ balcony/ interior/ ADE_train_00002215.jpg,GM,B
+23,0 days 00:00:15,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+24,0 days 00:00:22,B: in the balcony,,,B,All
+25,0 days 00:00:35,B: overlooking the water,,,B,All
+26,0 days 00:00:49,"A: Hi there. So it looks like I'm starting in a bathroom. I see a poster with Albert Arthur Allen on it. Looks like I can go south or west, I'm going to try south.",,,A,All
+27,0 days 00:00:56,,A: cmd: south,,A,All
+28,0 days 00:00:59,,A: cmd: s,,A,All
+29,0 days 00:00:59,,GM: url: / s/ street/ ADE_train_00018712.jpg,,GM,A
+31,0 days 00:00:59,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+32,0 days 00:01:10,,A: cmd: look,,A,All
+33,0 days 00:01:11,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+34,0 days 00:01:17,,A: cmd: n,,A,All
+35,0 days 00:01:18,,GM: url: / b/ bathroom/ ADE_train_00002555.jpg,,GM,A
+37,0 days 00:01:18,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+38,0 days 00:01:27,B: where are you now?,,,B,All
+39,0 days 00:01:32,"A: Going South brought me to a street, so I'm going to try west now that I'm back at the bathroom.",,,A,All
+40,0 days 00:01:35,,A: cmd: w,,A,All
+41,0 days 00:01:35,,GM: url: / b/ balcony/ interior/ ADE_train_00002246.jpg,,GM,A
+43,0 days 00:01:36,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+44,0 days 00:02:09,A: It looks like I'm on the balcony. Do you see two beige colored rocker chairs and a blue lounge chair?,,,A,All
+45,0 days 00:02:31,,,B: cmd: w,B,All
+46,0 days 00:02:31,,,GM: url: / k/ kitchen/ ADE_train_00010162.jpg,GM,B
+48,0 days 00:02:31,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+49,0 days 00:02:36,B: n,,,B,All
+50,0 days 00:02:41,,,B: cmd: n,B,All
+51,0 days 00:02:41,,,GM: url: / b/ balcony/ interior/ ADE_train_00002239.jpg,GM,B
+53,0 days 00:02:41,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+54,0 days 00:02:58,,,B: cmd: w,B,All
+55,0 days 00:02:59,,,GM: url: / b/ balcony/ interior/ ADE_train_00002225.jpg,GM,B
+57,0 days 00:02:59,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+58,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+59,0 days 00:03:11,,,B: cmd: e,B,All
+60,0 days 00:03:11,,,GM: url: / b/ balcony/ interior/ ADE_train_00002239.jpg,GM,B
+62,0 days 00:03:11,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+63,0 days 00:03:15,B: s,,,B,All
+64,0 days 00:03:16,,A: cmd: look,,A,All
+65,0 days 00:03:17,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+66,0 days 00:03:19,,,B: cmd: s,B,All
+67,0 days 00:03:19,,,GM: url: / k/ kitchen/ ADE_train_00010162.jpg,GM,B
+69,0 days 00:03:19,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+70,0 days 00:03:23,,,B: cmd: n,B,All
+71,0 days 00:03:24,,,GM: url: / b/ balcony/ interior/ ADE_train_00002239.jpg,GM,B
+73,0 days 00:03:24,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+74,0 days 00:03:28,B: done,,,B,All
+75,0 days 00:03:38,,,B: cmd: done,B,All
+76,0 days 00:03:38,"A: I'm still in the same place. Again, there are three chairs total. Two are beige and a blue lounge chair.",,,A,All
+77,0 days 00:03:39,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+78,0 days 00:03:57,A: Are we in the same spot?,,,A,All
+79,0 days 00:04:02,B: hold on,,,B,All
+80,0 days 00:04:12,,,B: cmd: s,B,All
+81,0 days 00:04:12,,,GM: You said you're done. You can't move anymore.,GM,B
+82,0 days 00:04:41,B: white chair,,,B,All
+83,0 days 00:05:08,B: ,,B: ,B,All
+84,0 days 00:05:08,,GM: natural_stone has left the game.,,GM,A
+85,0 days 00:06:05,,A: cmd: done,,A,All
+86,0 days 00:06:05,"GM: You have managed to meet in a room of type:                                                        b/balcony/interior, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        b/ balcony/ interior, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        b/ balcony/ interior, but unfortunately                                                        not in the same one.",GM,All
+87,0 days 00:06:06,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+88,0 days 00:06:06,GM: ,GM: ,GM: ,GM,All
+89,0 days 00:06:06,GM: Here's your token: 160GLVX7Q,GM: Here's your token: 160GLVX7Q,GM: Here's your token: 160GLVX7Q,GM,All
+90,0 days 00:08:17,A: ,A: ,,A,All
+91,0 days 00:08:17,,,GM: snowy_map has left the game.,GM,B
+92,0 days 02:07:17,GM: ,GM: ,GM: ,GM,All

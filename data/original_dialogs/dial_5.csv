@@ -1,0 +1,66 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / l/ living_room/ ADE_train_00000671.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, sticky_grid_paper! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: n/ nursery,,GM,A
+15,0 days 00:00:03,,,GM: url: / a/ attic/ ADE_train_00001957.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, fluffy_galaxy! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: n/ nursery,GM,B
+20,0 days 00:00:35,,,B: cmd: s,B,All
+21,0 days 00:00:36,,,GM: url: / n/ nursery/ ADE_train_00013904.jpg,GM,B
+23,0 days 00:00:36,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+24,0 days 00:00:39,,A: cmd: look,,A,All
+25,0 days 00:00:39,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+26,0 days 00:00:56,A: go /south,,,A,All
+27,0 days 00:01:20,B: I am in a nursery,,,B,All
+28,0 days 00:01:50,A: I am in the living room,,,A,All
+29,0 days 00:02:01,,A: cmd: look,,A,All
+30,0 days 00:02:01,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+31,0 days 00:02:12,A: go /south,,,A,All
+32,0 days 00:02:21,A: go /south,,,A,All
+33,0 days 00:02:29,"B: We're supposed to meet in the nursery, correct?",,,B,All
+34,0 days 00:02:39,"A: yes, that is correct",,,A,All
+35,0 days 00:02:44,A: I am in the living room,,,A,All
+36,0 days 00:03:01,B: Try to find your way to me,,,B,All
+37,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+38,0 days 00:03:14,A: go /east,,,A,All
+39,0 days 00:03:22,A: go /east,,,A,All
+40,0 days 00:03:28,,A: cmd: look,,A,All
+41,0 days 00:03:29,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+42,0 days 00:03:33,,A: cmd: e,,A,All
+43,0 days 00:03:33,,GM: url: / a/ attic/ ADE_train_00001957.jpg,,GM,A
+45,0 days 00:03:33,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+46,0 days 00:03:39,,A: cmd: s,,A,All
+47,0 days 00:03:39,,GM: url: / n/ nursery/ ADE_train_00013904.jpg,,GM,A
+49,0 days 00:03:39,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+50,0 days 00:03:42,B: Now where are you?,,,B,All
+51,0 days 00:03:48,A: I am in the nursery now!,,,A,All
+52,0 days 00:03:52,A: what do we type?,,,A,All
+53,0 days 00:03:56,,A: cmd: done,,A,All
+54,0 days 00:03:56,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+55,0 days 00:04:01,,,B: cmd: done,B,All
+56,0 days 00:04:01,GM: Well done! Both of you are                            indeed in the same room of type: n/nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM,All
+57,0 days 00:04:01,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+58,0 days 00:04:02,GM: ,GM: ,GM: ,GM,All
+59,0 days 00:04:02,GM: Here's your token: 58KOJHHF,GM: Here's your token: 58KOJHHF,GM: Here's your token: 58KOJHHF,GM,All
+60,0 days 00:04:02,,A: cmd: done,,A,All
+61,0 days 00:04:02,GM: Well done! Both of you are                            indeed in the same room of type: n/nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM,All
+62,0 days 00:04:02,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+63,0 days 00:04:03,GM: ,GM: ,GM: ,GM,All
+64,0 days 00:04:03,GM: Here's your token: 578VD4OV,GM: Here's your token: 578VD4OV,GM: Here's your token: 578VD4OV,GM,All
+65,0 days 00:04:31,B: ,,B: ,B,All
+66,0 days 00:04:31,,GM: fluffy_galaxy has left the game.,,GM,A
+67,0 days 00:04:48,A: ,A: ,,A,All
+68,0 days 00:04:48,,,GM: sticky_grid_paper has left the game.,GM,B
+69,0 days 01:26:29,GM: ,GM: ,GM: ,GM,All

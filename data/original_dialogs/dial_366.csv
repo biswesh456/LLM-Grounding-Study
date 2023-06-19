@@ -1,0 +1,57 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009939.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, pacific_button! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: b/ basement,,GM,A
+15,0 days 00:00:03,,,GM: url: / g/ garage/ indoor/ ADE_train_00008448.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, chubby_fern! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: b/ basement,GM,B
+20,0 days 00:00:07,A: Hello,,,A,All
+21,0 days 00:00:09,,A: cmd: e,,A,All
+22,0 days 00:00:09,,GM: url: / b/ basement/ ADE_train_00002482.jpg,,GM,A
+24,0 days 00:00:09,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+25,0 days 00:00:30,"B: Hi :) I am in a garage...with cars in it, so probably not a basement right? lol tho my uncle has a drive in basement...",,,B,All
+26,0 days 00:00:31,A: Found a basement. It's unfinished.,,,A,All
+27,0 days 00:00:35,B: ok i'll look,,,B,All
+28,0 days 00:00:36,"A: Yes, I think this is it",,,A,All
+29,0 days 00:00:36,,,B: cmd: n,B,All
+30,0 days 00:00:36,,,GM: url: / b/ basement/ ADE_train_00002482.jpg,GM,B
+32,0 days 00:00:36,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,GM,B
+33,0 days 00:00:41,"A: Yes, looks like a garage",,,A,All
+34,0 days 00:00:46,,,B: cmd: s,B,All
+35,0 days 00:00:47,,,GM: url: / g/ garage/ indoor/ ADE_train_00008448.jpg,GM,B
+37,0 days 00:00:47,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+38,0 days 00:01:01,,A: cmd: Done,,A,All
+39,0 days 00:01:03,,A: cmd: done,,A,All
+40,0 days 00:01:04,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+41,0 days 00:01:07,B: I found a room that looks more basementy...when i went north...,,,B,All
+42,0 days 00:01:08,,,B: cmd: n,B,All
+43,0 days 00:01:08,,,GM: url: / b/ basement/ ADE_train_00002482.jpg,GM,B
+45,0 days 00:01:08,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,GM,B
+46,0 days 00:01:22,B: what room did you finish in?,,,B,All
+47,0 days 00:01:22,A: I stopped at that garage/basement,,,A,All
+48,0 days 00:01:28,,,B: cmd: s,B,All
+49,0 days 00:01:28,,,GM: url: / g/ garage/ indoor/ ADE_train_00008448.jpg,GM,B
+51,0 days 00:01:28,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+52,0 days 00:01:31,,,B: cmd: done,B,All
+53,0 days 00:01:31,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type b/basement","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type b/ basement","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type b/ basement",GM,All
+54,0 days 00:01:31,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+55,0 days 00:01:31,GM: ,GM: ,GM: ,GM,All
+56,0 days 00:01:32,GM: Here's your token: 1059BASOQY,GM: Here's your token: 1059BASOQY,GM: Here's your token: 1059BASOQY,GM,All
+57,0 days 00:01:42,A: ,A: ,,A,All
+58,0 days 00:01:42,,,GM: pacific_button has left the game.,GM,B
+59,0 days 00:01:44,B: ,,B: ,B,All
+60,0 days 00:01:45,,GM: chubby_fern has left the game.,,GM,A
+61,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+62,0 days 00:46:33,GM: ,GM: ,GM: ,GM,All

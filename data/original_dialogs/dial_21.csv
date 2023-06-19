@@ -1,0 +1,66 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:00,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:00,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / c/ carport/ outdoor/ ADE_train_00005138.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ w]est,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, unwavering_flowers! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:02,,GM: You have to meet in the room of type: p/ playroom,,GM,A
+15,0 days 00:00:03,,,GM: url: / b/ bedroom/ ADE_train_00004066.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, jubilant_glowstick! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: p/ playroom,GM,B
+20,0 days 00:00:13,,A: cmd: n,,A,All
+21,0 days 00:00:13,,GM: Nothing happened.You can go: [/ w]est,,GM,A
+22,0 days 00:00:19,,A: cmd: w,,A,All
+23,0 days 00:00:19,,GM: url: / b/ bedroom/ ADE_train_00000319.jpg,,GM,A
+25,0 days 00:00:19,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+26,0 days 00:00:25,,A: cmd: e,,A,All
+27,0 days 00:00:25,,GM: url: / c/ carport/ outdoor/ ADE_train_00005138.jpg,,GM,A
+29,0 days 00:00:25,,GM: You can go: [/ w]est,,GM,A
+30,0 days 00:00:28,,A: cmd: w,,A,All
+31,0 days 00:00:28,,GM: url: / b/ bedroom/ ADE_train_00000319.jpg,,GM,A
+33,0 days 00:00:28,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+34,0 days 00:00:31,,A: cmd: w,,A,All
+35,0 days 00:00:31,,GM: url: / p/ playroom/ ADE_train_00015414.jpg,,GM,A
+37,0 days 00:00:31,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+38,0 days 00:00:32,B: Hi,,,B,All
+39,0 days 00:00:37,A: hi,,,A,All
+40,0 days 00:00:45,B: ?N,,,B,All
+41,0 days 00:00:47,A: i am already here lol this is a simple one,,,A,All
+42,0 days 00:00:51,,A: cmd: done,,A,All
+43,0 days 00:00:51,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+44,0 days 00:00:57,B: I need to figure out how to move,,,B,All
+45,0 days 00:01:02,,,B: cmd: n,B,All
+46,0 days 00:01:02,,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,GM,B
+47,0 days 00:01:07,A: slash and then one letter for direction,,,A,All
+48,0 days 00:01:09,,,B: cmd: s,B,All
+49,0 days 00:01:09,,,GM: url: / p/ playroom/ ADE_train_00015390.jpg,GM,B
+51,0 days 00:01:09,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+52,0 days 00:01:17,A: i think you can only go east and west,,,A,All
+53,0 days 00:01:21,,,B: cmd: e,B,All
+54,0 days 00:01:21,,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+55,0 days 00:01:25,"A: so ""/e"" and ""/w""",,,A,All
+56,0 days 00:01:41,"B: I am now in a playroom too, with a plastic slide with a yellow top and blue roof",,,B,All
+57,0 days 00:01:49,A: then type slash done,,,A,All
+58,0 days 00:01:51,A: yay!,,,A,All
+59,0 days 00:01:54,B: is that the one you are in?,,,B,All
+60,0 days 00:01:57,A: yes,,,A,All
+61,0 days 00:01:59,,,B: cmd: done,B,All
+62,0 days 00:01:59,"GM: You have managed to meet in a room of type:                                                        p/playroom, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        p/ playroom, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        p/ playroom, but unfortunately                                                        not in the same one.",GM,All
+63,0 days 00:02:00,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+64,0 days 00:02:00,GM: ,GM: ,GM: ,GM,All
+65,0 days 00:02:00,GM: Here's your token: 162J6MZRN,GM: Here's your token: 162J6MZRN,GM: Here's your token: 162J6MZRN,GM,All
+66,0 days 00:02:24,A: ,A: ,,A,All
+67,0 days 00:02:24,,,GM: unwavering_flowers has left the game.,GM,B
+68,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+69,0 days 00:23:35,B: ,,B: ,B,All
+70,0 days 00:23:35,,GM: jubilant_glowstick has left the game.,,GM,A
+71,0 days 02:06:23,GM: ,GM: ,GM: ,GM,All

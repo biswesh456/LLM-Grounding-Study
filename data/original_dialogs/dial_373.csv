@@ -1,0 +1,64 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / p/ parlor/ ADE_train_00015190.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, energized_eraser! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: s/ staircase,,GM,A
+15,0 days 00:00:03,,,GM: url: / b/ bedroom/ ADE_train_00003613.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, skinny_temple! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: s/ staircase,GM,B
+20,0 days 00:00:12,A: hi,,,A,All
+21,0 days 00:00:15,B: Hi,,,B,All
+22,0 days 00:00:17,,,B: cmd: n,B,All
+23,0 days 00:00:18,,,GM: url: / s/ staircase/ ADE_train_00016799.jpg,GM,B
+25,0 days 00:00:18,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+26,0 days 00:00:26,,A: cmd: s,,A,All
+27,0 days 00:00:26,,GM: url: / s/ street/ ADE_train_00018249.jpg,,GM,A
+29,0 days 00:00:26,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+30,0 days 00:00:28,B: I went west from the bedroom and found the staircase,,,B,All
+31,0 days 00:00:32,,A: cmd: n,,A,All
+32,0 days 00:00:32,,GM: url: / p/ parlor/ ADE_train_00015190.jpg,,GM,A
+34,0 days 00:00:32,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+35,0 days 00:00:35,,A: cmd: e,,A,All
+36,0 days 00:00:35,,GM: url: / s/ staircase/ ADE_train_00016816.jpg,,GM,A
+38,0 days 00:00:36,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+39,0 days 00:00:38,B: That is where we should meet I do believe,,,B,All
+40,0 days 00:00:51,A: i am see the staircase.,,,A,All
+41,0 days 00:00:58,B: Let's meet there,,,B,All
+42,0 days 00:01:07,,,B: cmd: look,B,All
+43,0 days 00:01:07,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+44,0 days 00:01:07,A: yes,,,A,All
+45,0 days 00:01:10,,,B: cmd: s,B,All
+46,0 days 00:01:12,,,GM: url: / b/ bedroom/ ADE_train_00003613.jpg,GM,B
+48,0 days 00:01:13,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+49,0 days 00:01:13,B: ok,,,B,All
+50,0 days 00:01:19,,,B: cmd: n,B,All
+51,0 days 00:01:19,,,GM: url: / s/ staircase/ ADE_train_00016799.jpg,GM,B
+53,0 days 00:01:20,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+54,0 days 00:01:24,,,B: cmd: done,B,All
+55,0 days 00:01:24,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+56,0 days 00:01:27,A: have you got it?,,,A,All
+57,0 days 00:01:29,B: yes,,,B,All
+58,0 days 00:01:35,,A: cmd: done,,A,All
+59,0 days 00:01:35,"GM: You have managed to meet in a room of type:                                                        s/staircase, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        s/ staircase, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        s/ staircase, but unfortunately                                                        not in the same one.",GM,All
+60,0 days 00:01:35,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+61,0 days 00:01:35,GM: ,GM: ,GM: ,GM,All
+62,0 days 00:01:35,GM: Here's your token: 1072PZ0M8W,GM: Here's your token: 1072PZ0M8W,GM: Here's your token: 1072PZ0M8W,GM,All
+63,0 days 00:01:37,B: I see a pillar in the middle of the image,,,B,All
+64,0 days 00:02:11,B: bye,,,B,All
+65,0 days 00:02:13,A: ,A: ,,A,All
+66,0 days 00:02:13,,,GM: energized_eraser has left the game.,GM,B
+67,0 days 00:02:19,B: ,,B: ,B,All
+68,0 days 00:02:19,,GM: skinny_temple has left the game.,,GM,A
+69,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+70,0 days 00:36:39,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,83 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / k/ kitchen/ ADE_train_00010552.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, high_leaves! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: w/ waiting_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / b/ bedroom/ ADE_train_00004213.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, whispering_soap! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: w/ waiting_room,GM,B
+20,0 days 00:00:10,,,B: cmd: e,B,All
+21,0 days 00:00:10,,,GM: url: / k/ kitchen/ ADE_train_00010552.jpg,GM,B
+23,0 days 00:00:11,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+24,0 days 00:00:13,,,B: cmd: e,B,All
+25,0 days 00:00:14,,,GM: url: / w/ waiting_room/ ADE_train_00019673.jpg,GM,B
+27,0 days 00:00:14,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+28,0 days 00:00:16,,A: cmd: e,,A,All
+29,0 days 00:00:16,,GM: url: / w/ waiting_room/ ADE_train_00019673.jpg,,GM,A
+31,0 days 00:00:16,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+32,0 days 00:00:19,,,B: cmd: e,B,All
+33,0 days 00:00:19,,,GM: url: / g/ garage/ indoor/ ADE_train_00008470.jpg,GM,B
+35,0 days 00:00:19,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+36,0 days 00:00:21,,,B: cmd: e,B,All
+37,0 days 00:00:21,,,GM: url: / w/ waiting_room/ ADE_train_00019625.jpg,GM,B
+39,0 days 00:00:22,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+40,0 days 00:00:34,A: ok it seems i found a waiting room,,,A,All
+41,0 days 00:00:35,B: i found a waiting room with green chairs and flower art on the wall,,,B,All
+42,0 days 00:00:42,B: whats yours look like?,,,B,All
+43,0 days 00:00:46,,,B: cmd: e,B,All
+44,0 days 00:00:46,,,GM: url: / w/ waiting_room/ ADE_train_00019693.jpg,GM,B
+46,0 days 00:00:46,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+47,0 days 00:01:04,B: found another one with green chairs and a stripe on the wall on left,,,B,All
+48,0 days 00:01:07,,,B: cmd: e,B,All
+49,0 days 00:01:08,,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,GM,B
+50,0 days 00:01:10,,,B: cmd: w,B,All
+51,0 days 00:01:11,,,GM: url: / w/ waiting_room/ ADE_train_00019625.jpg,GM,B
+53,0 days 00:01:11,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+54,0 days 00:01:17,,,B: cmd: s,B,All
+55,0 days 00:01:17,,,GM: url: / k/ kitchen/ ADE_train_00010514.jpg,GM,B
+57,0 days 00:01:18,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+58,0 days 00:01:20,,,B: cmd: e,B,All
+59,0 days 00:01:21,,,GM: url: / w/ waiting_room/ ADE_train_00019637.jpg,GM,B
+61,0 days 00:01:21,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+62,0 days 00:01:28,"A: there are 3 double seat couches in a concave with 4 yellow pillows on them, a tv is on the back wall, alont iwth a small tree plant in the right corner, the floor is wooden",,,A,All
+63,0 days 00:01:35,B: ok,,,B,All
+64,0 days 00:01:36,B: stay there,,,B,All
+65,0 days 00:01:38,,,B: cmd: n,B,All
+66,0 days 00:01:38,,,GM: url: / w/ waiting_room/ ADE_train_00019693.jpg,GM,B
+68,0 days 00:01:39,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+69,0 days 00:01:41,,,B: cmd: w,B,All
+70,0 days 00:01:41,,,GM: url: / w/ waiting_room/ ADE_train_00019625.jpg,GM,B
+72,0 days 00:01:41,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+73,0 days 00:01:42,,,B: cmd: w,B,All
+74,0 days 00:01:43,,,GM: url: / g/ garage/ indoor/ ADE_train_00008470.jpg,GM,B
+76,0 days 00:01:43,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+77,0 days 00:01:44,,,B: cmd: w,B,All
+78,0 days 00:01:44,,,GM: url: / w/ waiting_room/ ADE_train_00019673.jpg,GM,B
+80,0 days 00:01:44,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+81,0 days 00:01:49,B: im there,,,B,All
+82,0 days 00:01:50,,,B: cmd: done,B,All
+83,0 days 00:01:50,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+84,0 days 00:01:55,B: tv screen on wall,,,B,All
+85,0 days 00:01:55,,A: cmd: done,,A,All
+86,0 days 00:01:55,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM: Well done! Both of you are                            indeed in the same room of type: w/ waiting_room!,GM: Well done! Both of you are                            indeed in the same room of type: w/ waiting_room!,GM,All
+87,0 days 00:01:55,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+88,0 days 00:01:55,GM: ,GM: ,GM: ,GM,All
+89,0 days 00:01:56,GM: Here's your token: 856WBAIVS,GM: Here's your token: 856WBAIVS,GM: Here's your token: 856WBAIVS,GM,All
+90,0 days 00:01:57,B: plant in right corber,,,B,All
+91,0 days 00:02:03,B: ,,B: ,B,All
+92,0 days 00:02:03,,GM: whispering_soap has left the game.,,GM,A
+93,0 days 00:02:05,A: yes good job,,,A,All
+94,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+95,0 days 00:03:58,A: ,A: ,,A,All
+96,0 days 00:03:58,,,GM: high_leaves has left the game.,GM,B

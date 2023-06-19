@@ -1,0 +1,45 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / b/ bedroom/ ADE_train_00003213.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, teal_grove! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: d/ doorway/ indoor,,GM,A
+15,0 days 00:00:03,,,GM: url: / b/ bathroom/ ADE_train_00003019.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, affectionate_sunrise! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: d/ doorway/ indoor,GM,B
+20,0 days 00:00:10,,A: cmd: s,,A,All
+21,0 days 00:00:10,,GM: url: / d/ doorway/ indoor/ ADE_train_00007338.jpg,,GM,A
+23,0 days 00:00:10,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+24,0 days 00:00:13,,,B: cmd: w,B,All
+25,0 days 00:00:14,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007338.jpg,GM,B
+27,0 days 00:00:14,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+28,0 days 00:00:19,A: in door way,,,A,All
+29,0 days 00:00:21,B: I am at a doorway,,,B,All
+30,0 days 00:00:22,A: no plant ,,,A,All
+31,0 days 00:00:34,A: window on either side of door,,,A,All
+32,0 days 00:00:39,A: brown floor,,,A,All
+33,0 days 00:00:42,B: yes we are at the same one,,,B,All
+34,0 days 00:00:45,,,B: cmd: done,B,All
+35,0 days 00:00:45,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+36,0 days 00:00:49,A: yellow wall,,,A,All
+37,0 days 00:00:52,,A: cmd: done,,A,All
+38,0 days 00:00:52,B: yes,,,B,All
+39,0 days 00:00:52,GM: Well done! Both of you are                            indeed in the same room of type: d/doorway/indoor!,GM: Well done! Both of you are                            indeed in the same room of type: d/ doorway/ indoor!,GM: Well done! Both of you are                            indeed in the same room of type: d/ doorway/ indoor!,GM,All
+40,0 days 00:00:52,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+41,0 days 00:00:53,GM: ,GM: ,GM: ,GM,All
+42,0 days 00:00:53,GM: Here's your token: 864N8SPLR,GM: Here's your token: 864N8SPLR,GM: Here's your token: 864N8SPLR,GM,All
+43,0 days 00:01:18,B: ,,B: ,B,All
+44,0 days 00:01:18,,GM: affectionate_sunrise has left the game.,,GM,A
+45,0 days 00:01:19,A: ,A: ,,A,All
+46,0 days 00:01:19,,,GM: teal_grove has left the game.,GM,B
+47,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All

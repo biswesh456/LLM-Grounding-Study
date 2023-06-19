@@ -1,0 +1,78 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / s/ street/ ADE_train_00017206.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, calm_mousepad! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: n/ nursery,,GM,A
+15,0 days 00:00:03,,,GM: url: / b/ bathroom/ ADE_train_00002848.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, long_icecube! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: n/ nursery,GM,B
+20,0 days 00:00:11,,,B: cmd: n,B,All
+21,0 days 00:00:11,,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,GM,B
+23,0 days 00:00:11,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+24,0 days 00:00:12,,A: cmd: s,,A,All
+25,0 days 00:00:12,,GM: url: / i/ inn/ outdoor/ ADE_train_00009880.jpg,,GM,A
+27,0 days 00:00:12,,GM: You can go: [/ n]orth,,GM,A
+28,0 days 00:00:17,,A: cmd: n,,A,All
+29,0 days 00:00:17,,GM: url: / s/ street/ ADE_train_00017206.jpg,,GM,A
+31,0 days 00:00:17,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+32,0 days 00:00:21,,A: cmd: w,,A,All
+33,0 days 00:00:21,,GM: url: / b/ bathroom/ ADE_train_00002848.jpg,,GM,A
+35,0 days 00:00:21,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+36,0 days 00:00:22,B: I'm at the nursery,,,B,All
+37,0 days 00:00:30,"A: Okay, I'm still looking. ",,,A,All
+38,0 days 00:00:31,B: There are toys on the floor,,,B,All
+39,0 days 00:00:33,,A: cmd: w,,A,All
+40,0 days 00:00:33,,GM: url: / n/ nursery/ ADE_train_00013873.jpg,,GM,A
+42,0 days 00:00:33,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+43,0 days 00:00:41,,A: cmd: n,,A,All
+44,0 days 00:00:41,,GM: url: / n/ nursery/ ADE_train_00013926.jpg,,GM,A
+46,0 days 00:00:42,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+47,0 days 00:00:48,,A: cmd: n,,A,All
+48,0 days 00:00:48,,GM: url: / n/ nursery/ ADE_train_00013868.jpg,,GM,A
+50,0 days 00:00:48,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+51,0 days 00:01:03,A: What sort of toys? What else can you tell me about it?,,,A,All
+52,0 days 00:01:10,B: It has Disney Baby stickers on the wall,,,B,All
+53,0 days 00:01:16,B: or pictures,,,B,All
+54,0 days 00:01:17,A: Okay,,,A,All
+55,0 days 00:01:19,,A: cmd: n,,A,All
+56,0 days 00:01:19,,GM: url: / b/ bedroom/ ADE_train_00004182.jpg,,GM,A
+58,0 days 00:01:19,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+59,0 days 00:01:25,,A: cmd: e,,A,All
+60,0 days 00:01:26,,GM: url: / k/ kitchen/ ADE_train_00010544.jpg,,GM,A
+62,0 days 00:01:26,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+63,0 days 00:01:33,,A: cmd: s,,A,All
+64,0 days 00:01:34,,GM: url: / b/ bathroom/ ADE_train_00000036.jpg,,GM,A
+66,0 days 00:01:34,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+67,0 days 00:01:34,B: There is a dark gray rocking horse,,,B,All
+68,0 days 00:01:39,,A: cmd: s,,A,All
+69,0 days 00:01:40,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,,GM,A
+71,0 days 00:01:40,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+72,0 days 00:01:56,B: There are like three stuffed bears,,,B,All
+73,0 days 00:02:03,"A: Red ball, yellow train? Little white stool?",,,A,All
+74,0 days 00:02:05,B: There is a window,,,B,All
+75,0 days 00:02:11,B: Yes,,,B,All
+76,0 days 00:02:18,"A: Perfect, found it!",,,A,All
+77,0 days 00:02:24,,A: cmd: done,,A,All
+78,0 days 00:02:24,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+79,0 days 00:02:27,,,B: cmd: done,B,All
+80,0 days 00:02:28,GM: Well done! Both of you are                            indeed in the same room of type: n/nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM,All
+81,0 days 00:02:28,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+82,0 days 00:02:28,GM: ,GM: ,GM: ,GM,All
+83,0 days 00:02:28,GM: Here's your token: 398VAGOQH,GM: Here's your token: 398VAGOQH,GM: Here's your token: 398VAGOQH,GM,All
+84,0 days 00:03:00,B: ,,B: ,B,All
+85,0 days 00:03:00,,GM: long_icecube has left the game.,,GM,A
+86,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+87,0 days 00:03:09,A: ,A: ,,A,All
+88,0 days 00:03:09,,,GM: calm_mousepad has left the game.,GM,B
+89,0 days 03:19:18,GM: ,GM: ,GM: ,GM,All

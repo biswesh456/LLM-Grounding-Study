@@ -1,0 +1,75 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:02,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / b/ bedroom/ ADE_train_00003379.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, beautiful_willow! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: d/ dining_room,,GM,A
+15,0 days 00:00:04,,,GM: url: / u/ utility_room/ ADE_train_00019411.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, scenic_iceberg! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: d/ dining_room,GM,B
+20,0 days 00:00:11,,A: cmd: s,,A,All
+21,0 days 00:00:11,,GM: url: / l/ living_room/ ADE_train_00011101.jpg,,GM,A
+23,0 days 00:00:11,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+24,0 days 00:00:15,,A: cmd: e,,A,All
+25,0 days 00:00:15,,GM: url: / d/ dining_room/ ADE_train_00006872.jpg,,GM,A
+27,0 days 00:00:16,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+28,0 days 00:00:17,,,B: cmd: look,B,All
+29,0 days 00:00:17,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+30,0 days 00:00:20,,,B: cmd: s,B,All
+31,0 days 00:00:20,,,GM: url: / d/ dining_room/ ADE_train_00006933.jpg,GM,B
+33,0 days 00:00:21,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+34,0 days 00:00:28,A: found one with candles and a painting on wall,,,A,All
+35,0 days 00:00:33,B: I'm in what looks like a dining room too,,,B,All
+36,0 days 00:00:36,A: white mugs on table,,,A,All
+37,0 days 00:00:39,A: describe,,,A,All
+38,0 days 00:00:43,A: .e,,,A,All
+39,0 days 00:00:44,,A: cmd: e,,A,All
+40,0 days 00:00:44,,GM: url: / k/ kitchen/ ADE_train_00010440.jpg,,GM,A
+42,0 days 00:00:44,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+43,0 days 00:00:45,B: What do the candles look like? Ah okay no mine's different,,,B,All
+44,0 days 00:00:51,A: describe,,,A,All
+45,0 days 00:00:55,A: i'll look for yours,,,A,All
+46,0 days 00:00:57,,A: cmd: n,,A,All
+47,0 days 00:00:57,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,,GM,A
+48,0 days 00:00:59,,A: cmd: s,,A,All
+49,0 days 00:00:59,,GM: url: / h/ hunting_lodge/ outdoor/ ADE_train_00009739.jpg,,GM,A
+51,0 days 00:00:59,,GM: You can go: [/ n]orth,,GM,A
+52,0 days 00:01:02,,A: cmd: n,,A,All
+53,0 days 00:01:02,,GM: url: / k/ kitchen/ ADE_train_00010440.jpg,,GM,A
+55,0 days 00:01:03,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+56,0 days 00:01:04,,A: cmd: w,,A,All
+57,0 days 00:01:05,,GM: url: / d/ dining_room/ ADE_train_00006872.jpg,,GM,A
+59,0 days 00:01:05,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+60,0 days 00:01:06,"B: Mine has super ornate rug on the floor and chairs, wooden bench",,,B,All
+61,0 days 00:01:10,,A: cmd: n,,A,All
+62,0 days 00:01:10,,GM: url: / s/ street/ ADE_train_00018242.jpg,,GM,A
+64,0 days 00:01:11,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+65,0 days 00:01:15,,A: cmd: n,,A,All
+66,0 days 00:01:15,,GM: url: / d/ dining_room/ ADE_train_00006933.jpg,,GM,A
+68,0 days 00:01:16,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+69,0 days 00:01:16,B: Artwork on wall is nine circles in a grid,,,B,All
+70,0 days 00:01:19,A: ok,,,A,All
+71,0 days 00:01:21,A: im there,,,A,All
+72,0 days 00:01:22,,A: cmd: done,,A,All
+73,0 days 00:01:23,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+74,0 days 00:01:29,,,B: cmd: done,B,All
+75,0 days 00:01:30,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM,All
+76,0 days 00:01:31,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+77,0 days 00:01:31,GM: ,GM: ,GM: ,GM,All
+78,0 days 00:01:31,GM: Here's your token: 549J2FMTO,GM: Here's your token: 549J2FMTO,GM: Here's your token: 549J2FMTO,GM,All
+79,0 days 00:01:36,A: ,A: ,,A,All
+80,0 days 00:01:37,,,GM: beautiful_willow has left the game.,GM,B
+81,0 days 00:02:01,B: ,,B: ,B,All
+82,0 days 00:02:01,,GM: scenic_iceberg has left the game.,,GM,A
+83,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+84,0 days 01:40:18,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,86 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / b/ bedroom/ ADE_train_00003348.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, stunning_meadow! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: r/ reading_room,,GM,A
+15,0 days 00:00:04,,,GM: url: / b/ bathroom/ ADE_train_00002983.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, beautiful_bible! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: r/ reading_room,GM,B
+20,0 days 00:00:12,,,B: cmd: n,B,All
+21,0 days 00:00:13,,,GM: url: / c/ childs_room/ ADE_train_00005516.jpg,GM,B
+23,0 days 00:00:13,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+24,0 days 00:00:16,,,B: cmd: s,B,All
+25,0 days 00:00:16,,,GM: url: / b/ bathroom/ ADE_train_00002983.jpg,GM,B
+27,0 days 00:00:16,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+28,0 days 00:00:17,,,B: cmd: s,B,All
+29,0 days 00:00:18,,,GM: url: / l/ living_room/ ADE_train_00000705.jpg,GM,B
+31,0 days 00:00:18,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+32,0 days 00:00:20,,,B: cmd: s,B,All
+33,0 days 00:00:21,,,GM: url: / b/ bedroom/ ADE_train_00003348.jpg,GM,B
+35,0 days 00:00:21,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+36,0 days 00:00:25,,,B: cmd: e,B,All
+37,0 days 00:00:25,,,GM: url: / r/ reading_room/ ADE_train_00015704.jpg,GM,B
+39,0 days 00:00:26,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+40,0 days 00:00:26,,A: cmd: n,,A,All
+41,0 days 00:00:26,,GM: url: / l/ living_room/ ADE_train_00000705.jpg,,GM,A
+43,0 days 00:00:26,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+44,0 days 00:00:32,,A: cmd: n,,A,All
+45,0 days 00:00:32,,GM: url: / b/ bathroom/ ADE_train_00002983.jpg,,GM,A
+47,0 days 00:00:32,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+48,0 days 00:00:33,"B: ok, i think im here in the reading room",,,B,All
+49,0 days 00:00:42,B: big wood tables with lots of chairs,,,B,All
+50,0 days 00:00:46,B: 4 bookcases,,,B,All
+51,0 days 00:00:54,A: I'm still looking,,,A,All
+52,0 days 00:00:56,,A: cmd: n,,A,All
+53,0 days 00:00:57,,GM: url: / c/ childs_room/ ADE_train_00005516.jpg,,GM,A
+55,0 days 00:00:57,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+56,0 days 00:01:00,,A: cmd: n,,A,All
+57,0 days 00:01:00,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,,GM,A
+58,0 days 00:01:01,B: a light on the table in center with two lamps on it,,,B,All
+59,0 days 00:01:08,,A: cmd: n,,A,All
+60,0 days 00:01:08,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,,GM,A
+61,0 days 00:01:12,,A: cmd: s,,A,All
+62,0 days 00:01:13,,GM: url: / b/ bathroom/ ADE_train_00002983.jpg,,GM,A
+64,0 days 00:01:13,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+65,0 days 00:01:16,,A: cmd: s,,A,All
+66,0 days 00:01:16,,GM: url: / l/ living_room/ ADE_train_00000705.jpg,,GM,A
+68,0 days 00:01:16,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+69,0 days 00:01:19,,A: cmd: s,,A,All
+70,0 days 00:01:19,,GM: url: / b/ bedroom/ ADE_train_00003348.jpg,,GM,A
+72,0 days 00:01:19,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+73,0 days 00:01:25,,A: cmd: e,,A,All
+74,0 days 00:01:26,,GM: url: / r/ reading_room/ ADE_train_00015704.jpg,,GM,A
+76,0 days 00:01:26,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+77,0 days 00:01:27,B: red timestamp on bottom right,,,B,All
+78,0 days 00:01:47,A: does is look like a library?,,,A,All
+79,0 days 00:01:56,B: kinda yeah,,,B,All
+80,0 days 00:02:03,B: like 7 chairs,,,B,All
+81,0 days 00:02:05,B: wooden,,,B,All
+82,0 days 00:02:09,A: yes,,,A,All
+83,0 days 00:02:10,B: lamp on table,,,B,All
+84,0 days 00:02:14,"B: okay, think we;re done",,,B,All
+85,0 days 00:02:15,A: I'm there,,,A,All
+86,0 days 00:02:15,,,B: cmd: done,B,All
+87,0 days 00:02:15,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+88,0 days 00:02:19,,A: cmd: done,,A,All
+89,0 days 00:02:19,GM: Well done! Both of you are                            indeed in the same room of type: r/reading_room!,GM: Well done! Both of you are                            indeed in the same room of type: r/ reading_room!,GM: Well done! Both of you are                            indeed in the same room of type: r/ reading_room!,GM,All
+90,0 days 00:02:19,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+91,0 days 00:02:19,GM: ,GM: ,GM: ,GM,All
+92,0 days 00:02:20,GM: Here's your token: 373PN0JH6,GM: Here's your token: 373PN0JH6,GM: Here's your token: 373PN0JH6,GM,All
+93,0 days 00:02:30,B: ,,B: ,B,All
+94,0 days 00:02:30,,GM: beautiful_bible has left the game.,,GM,A
+95,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+96,0 days 00:03:20,A: ,A: ,,A,All
+97,0 days 00:03:20,,,GM: stunning_meadow has left the game.,GM,B
+98,0 days 03:36:57,GM: ,GM: ,GM: ,GM,All

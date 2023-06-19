@@ -1,0 +1,64 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / s/ street/ ADE_train_00017528.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, fancy_sponge! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: b/ bathroom,,GM,A
+15,0 days 00:00:04,,,GM: url: / u/ utility_room/ ADE_train_00019410.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, steep_pencil! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: b/ bathroom,GM,B
+20,0 days 00:00:13,,,B: cmd: look,B,All
+21,0 days 00:00:13,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+22,0 days 00:00:20,,,B: cmd: n,B,All
+23,0 days 00:00:21,,,GM: url: / b/ bathroom/ ADE_train_00002911.jpg,GM,B
+25,0 days 00:00:21,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+26,0 days 00:00:29,,,B: cmd: n,B,All
+27,0 days 00:00:29,,,GM: url: / b/ bathroom/ ADE_train_00002945.jpg,GM,B
+29,0 days 00:00:30,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+30,0 days 00:00:44,,A: cmd: e,,A,All
+31,0 days 00:00:44,,,B: cmd: n,B,All
+32,0 days 00:00:44,,GM: url: / b/ bathroom/ ADE_train_00002945.jpg,,GM,A
+34,0 days 00:00:45,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+35,0 days 00:00:45,,,GM: url: / k/ kitchen/ ADE_train_00010664.jpg,GM,B
+37,0 days 00:00:45,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+38,0 days 00:00:51,,,B: cmd: w,B,All
+39,0 days 00:00:52,,,GM: url: / b/ bathroom/ ADE_train_00002721.jpg,GM,B
+41,0 days 00:00:52,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+42,0 days 00:00:54,A: I see a sink,,,A,All
+43,0 days 00:01:08,B: Okay I think I remember that room,,,B,All
+44,0 days 00:01:11,A: with a hair dryer hooked up,,,A,All
+45,0 days 00:01:13,"B: Hang on, I'll try to find it",,,B,All
+46,0 days 00:01:18,,,B: cmd: e,B,All
+47,0 days 00:01:18,,,GM: url: / k/ kitchen/ ADE_train_00010664.jpg,GM,B
+49,0 days 00:01:19,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+50,0 days 00:01:21,,,B: cmd: s,B,All
+51,0 days 00:01:21,,,GM: url: / b/ bathroom/ ADE_train_00002945.jpg,GM,B
+53,0 days 00:01:22,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+54,0 days 00:01:29,A: ok.  i started outside and just went east,,,A,All
+55,0 days 00:01:41,"B: Yep, got it! are there three little pink bottles on right?",,,B,All
+56,0 days 00:01:47,A: yes,,,A,All
+57,0 days 00:01:55,B: Awesome :),,,B,All
+58,0 days 00:01:59,A: nice!,,,A,All
+59,0 days 00:02:02,,,B: cmd: done,B,All
+60,0 days 00:02:02,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+61,0 days 00:02:05,,A: cmd: done,,A,All
+62,0 days 00:02:05,GM: Well done! Both of you are                            indeed in the same room of type: b/bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM,All
+63,0 days 00:02:06,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+64,0 days 00:02:06,GM: ,GM: ,GM: ,GM,All
+65,0 days 00:02:06,GM: Here's your token: 5949T0SUS,GM: Here's your token: 5949T0SUS,GM: Here's your token: 5949T0SUS,GM,All
+66,0 days 00:02:25,B: ,,B: ,B,All
+67,0 days 00:02:25,,GM: steep_pencil has left the game.,,GM,A
+68,0 days 00:02:35,A: ,A: ,,A,All
+69,0 days 00:02:35,,,GM: fancy_sponge has left the game.,GM,B
+70,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+71,0 days 01:06:57,GM: ,GM: ,GM: ,GM,All

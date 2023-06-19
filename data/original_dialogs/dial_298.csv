@@ -1,0 +1,57 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:02,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / g/ game_room/ ADE_train_00008374.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, curved_shoelace! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: w/ wine_cellar/ bottle_storage,,GM,A
+15,0 days 00:00:04,,,GM: url: / s/ swimming_pool/ outdoor/ ADE_train_00019041.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, damaged_pillow! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: w/ wine_cellar/ bottle_storage,GM,B
+20,0 days 00:00:15,,A: cmd: s,,A,All
+21,0 days 00:00:16,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00020071.jpg,,GM,A
+23,0 days 00:00:16,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+24,0 days 00:00:21,"A: okay, i'm here",,,A,All
+25,0 days 00:00:31,A: yellow/orange lighting,,,A,All
+26,0 days 00:00:40,A: cavernous hallway with curved ceiling,,,A,All
+27,0 days 00:00:51,,,B: cmd: n,B,All
+28,0 days 00:00:51,,,GM: url: / c/ corridor/ ADE_train_00006325.jpg,GM,B
+30,0 days 00:00:52,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+31,0 days 00:00:57,A: lots of rows of black bottles along the hallway,,,A,All
+32,0 days 00:00:59,,,B: cmd: w,B,All
+33,0 days 00:00:59,,,GM: url: / s/ street/ ADE_train_00017374.jpg,GM,B
+35,0 days 00:01:00,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+36,0 days 00:01:04,B: still looking,,,B,All
+37,0 days 00:01:09,,,B: cmd: e,B,All
+38,0 days 00:01:10,,,GM: url: / c/ corridor/ ADE_train_00006325.jpg,GM,B
+40,0 days 00:01:10,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+41,0 days 00:01:14,,,B: cmd: w,B,All
+42,0 days 00:01:14,,,GM: url: / s/ street/ ADE_train_00017374.jpg,GM,B
+44,0 days 00:01:15,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+45,0 days 00:01:17,,,B: cmd: w,B,All
+46,0 days 00:01:17,,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00020067.jpg,GM,B
+48,0 days 00:01:17,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+49,0 days 00:01:56,B: okay I believe I'm there,,,B,All
+50,0 days 00:02:00,A: cool,,,A,All
+51,0 days 00:02:01,,A: cmd: done,,A,All
+52,0 days 00:02:01,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+53,0 days 00:02:05,,,B: cmd: done,B,All
+54,0 days 00:02:05,"GM: You have managed to meet in a room of type:                                                        w/wine_cellar/bottle_storage, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        w/ wine_cellar/ bottle_storage, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        w/ wine_cellar/ bottle_storage, but unfortunately                                                        not in the same one.",GM,All
+55,0 days 00:02:05,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+56,0 days 00:02:06,GM: ,GM: ,GM: ,GM,All
+57,0 days 00:02:06,GM: Here's your token: 38046DRMY,GM: Here's your token: 38046DRMY,GM: Here's your token: 38046DRMY,GM,All
+58,0 days 00:02:12,A: ,A: ,,A,All
+59,0 days 00:02:12,,,GM: curved_shoelace has left the game.,GM,B
+60,0 days 00:02:47,B: ,,B: ,B,All
+61,0 days 00:02:49,,GM: damaged_pillow has left the game.,,GM,A
+62,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+63,0 days 03:33:09,GM: ,GM: ,GM: ,GM,All

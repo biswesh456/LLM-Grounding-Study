@@ -1,0 +1,73 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / p/ poolroom/ home/ ADE_train_00015575.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, beautiful_sticky_note! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: b/ bathroom,,GM,A
+15,0 days 00:00:04,,,GM: url: / s/ street/ ADE_train_00018320.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, radioactive_geyser! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: b/ bathroom,GM,B
+20,0 days 00:00:10,,A: cmd: e,,A,All
+21,0 days 00:00:10,,GM: url: / b/ bathroom/ ADE_train_00002851.jpg,,GM,A
+23,0 days 00:00:10,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+24,0 days 00:00:15,,,B: cmd: w,B,All
+25,0 days 00:00:15,,,GM: url: / p/ playroom/ ADE_train_00015396.jpg,GM,B
+27,0 days 00:00:15,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+28,0 days 00:00:17,,A: cmd: s,,A,All
+29,0 days 00:00:17,,GM: url: / s/ street/ ADE_train_00018320.jpg,,GM,A
+31,0 days 00:00:17,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+32,0 days 00:00:19,,,B: cmd: s,B,All
+33,0 days 00:00:20,,,GM: url: / b/ bathroom/ ADE_train_00002729.jpg,GM,B
+35,0 days 00:00:20,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+36,0 days 00:00:21,,A: cmd: s,,A,All
+37,0 days 00:00:21,,GM: url: / b/ bathroom/ ADE_train_00002823.jpg,,GM,A
+39,0 days 00:00:22,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+40,0 days 00:00:26,B: I am in the bathroom,,,B,All
+41,0 days 00:00:27,A: I found a bathroom,,,A,All
+42,0 days 00:00:32,A: what does yours look like?,,,A,All
+43,0 days 00:00:38,A: old school bath tub with feet?,,,A,All
+44,0 days 00:00:44,A: cream colored?,,,A,All
+45,0 days 00:00:44,B: marble counter - double sink,,,B,All
+46,0 days 00:00:49,"A: ok, I'm not there",,,A,All
+47,0 days 00:00:51,B: no tub in mine,,,B,All
+48,0 days 00:00:53,A: I'll keep going,,,A,All
+49,0 days 00:01:00,,A: cmd: s,,A,All
+50,0 days 00:01:00,,GM: url: / b/ bathroom/ ADE_train_00002905.jpg,,GM,A
+52,0 days 00:01:00,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+53,0 days 00:01:09,,A: cmd: w,,A,All
+54,0 days 00:01:10,,GM: url: / b/ bedroom/ ADE_train_00003344.jpg,,GM,A
+56,0 days 00:01:10,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+57,0 days 00:01:14,B: shelf on wall with towels hanging from it,,,B,All
+58,0 days 00:01:16,,A: cmd: n,,A,All
+59,0 days 00:01:17,,GM: url: / b/ bathroom/ ADE_train_00002729.jpg,,GM,A
+61,0 days 00:01:17,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+62,0 days 00:01:28,A: Is there a phone cord?,,,A,All
+63,0 days 00:01:30,A: on the right side?,,,A,All
+64,0 days 00:01:44,B: toilet in back?,,,B,All
+65,0 days 00:01:50,A: in the mirror?,,,A,All
+66,0 days 00:01:50,B: yes,,,B,All
+67,0 days 00:01:54,B: you're there,,,B,All
+68,0 days 00:01:57,A: yeah,,,A,All
+69,0 days 00:01:58,,A: cmd: done,,A,All
+70,0 days 00:01:58,,,B: cmd: done,B,All
+71,0 days 00:01:58,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+72,0 days 00:01:59,GM: Well done! Both of you are                            indeed in the same room of type: b/bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM,All
+73,0 days 00:01:59,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+74,0 days 00:01:59,GM: ,GM: ,GM: ,GM,All
+75,0 days 00:02:00,GM: Here's your token: 5383NJB90,GM: Here's your token: 5383NJB90,GM: Here's your token: 5383NJB90,GM,All
+76,0 days 00:02:07,A: ,A: ,,A,All
+77,0 days 00:02:08,,,GM: beautiful_sticky_note has left the game.,GM,B
+78,0 days 00:02:19,B: ,,B: ,B,All
+79,0 days 00:02:20,,GM: radioactive_geyser has left the game.,,GM,A
+80,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 01:48:27,GM: ,GM: ,GM: ,GM,All

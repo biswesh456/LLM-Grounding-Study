@@ -1,0 +1,107 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / k/ kitchen/ ADE_train_00000602.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, tranquil_pencil! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: b/ basement,,GM,A
+15,0 days 00:00:04,,,GM: url: / c/ cathedral/ outdoor/ ADE_train_00005317.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, little_drylands! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: b/ basement,GM,B
+20,0 days 00:00:22,A: I'm in the kitchen. ,,,A,All
+21,0 days 00:00:29,A: Where are you?,,,A,All
+22,0 days 00:00:31,B: I;m outside,,,B,All
+23,0 days 00:00:42,,A: cmd: n,,A,All
+24,0 days 00:00:42,,GM: url: / c/ cathedral/ outdoor/ ADE_train_00005317.jpg,,GM,A
+26,0 days 00:00:42,,GM: You can go: [/ s]outh,,GM,A
+27,0 days 00:00:49,,A: cmd: s,,A,All
+28,0 days 00:00:49,,GM: url: / k/ kitchen/ ADE_train_00000602.jpg,,GM,A
+30,0 days 00:00:49,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+31,0 days 00:00:54,,A: cmd: e,,A,All
+32,0 days 00:00:54,,GM: url: / c/ corridor/ ADE_train_00006262.jpg,,GM,A
+34,0 days 00:00:54,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+35,0 days 00:01:02,,A: cmd: s,,A,All
+36,0 days 00:01:02,,GM: url: / b/ basement/ ADE_train_00002480.jpg,,GM,A
+38,0 days 00:01:03,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+39,0 days 00:01:12,,A: cmd: w,,A,All
+40,0 days 00:01:13,,GM: url: / b/ basement/ ADE_train_00002497.jpg,,GM,A
+42,0 days 00:01:13,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+43,0 days 00:01:19,,A: cmd: l,,A,All
+44,0 days 00:01:24,,A: cmd: l,,A,All
+45,0 days 00:01:29,,A: cmd: look,,A,All
+46,0 days 00:01:29,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+47,0 days 00:01:37,,A: cmd: e,,A,All
+48,0 days 00:01:37,,GM: url: / b/ basement/ ADE_train_00002480.jpg,,GM,A
+50,0 days 00:01:37,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+51,0 days 00:01:51,,A: cmd: s,,A,All
+52,0 days 00:01:52,,GM: url: / l/ living_room/ ADE_train_00011190.jpg,,GM,A
+54,0 days 00:01:52,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+55,0 days 00:01:57,,A: cmd: e,,A,All
+56,0 days 00:01:58,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+57,0 days 00:02:02,,A: cmd: w,,A,All
+58,0 days 00:02:02,,GM: url: / b/ basement/ ADE_train_00002479.jpg,,GM,A
+60,0 days 00:02:02,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+61,0 days 00:02:06,B: move north,,,B,All
+62,0 days 00:02:12,A: I'm in the basement,,,A,All
+63,0 days 00:02:27,A: I can see a big green and white box,,,A,All
+64,0 days 00:02:42,A: There are stairs and a cement floor.,,,A,All
+65,0 days 00:02:53,,,B: cmd: s,B,All
+66,0 days 00:02:54,,,GM: url: / k/ kitchen/ ADE_train_00000602.jpg,GM,B
+68,0 days 00:02:56,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+69,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+70,0 days 00:03:18,,,B: cmd: s,B,All
+71,0 days 00:03:19,,,GM: url: / b/ basement/ ADE_train_00002497.jpg,GM,B
+73,0 days 00:03:19,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+74,0 days 00:03:29,B: i/m in the basement,,,B,All
+75,0 days 00:03:30,"A: There is a water heater and a cement support beam to the ceiling, and ductwork for the heater.",,,A,All
+76,0 days 00:03:41,,A: cmd: done,,A,All
+77,0 days 00:03:41,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+78,0 days 00:03:43,B: there is a tv,,,B,All
+79,0 days 00:03:52,A: I don't see a tv,,,A,All
+80,0 days 00:03:56,B: and bar,,,B,All
+81,0 days 00:04:04,B: and couch,,,B,All
+82,0 days 00:04:18,,,B: cmd: l,B,All
+83,0 days 00:04:23,,,B: cmd: e,B,All
+84,0 days 00:04:23,,,GM: url: / b/ basement/ ADE_train_00002480.jpg,GM,B
+86,0 days 00:04:23,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+87,0 days 00:04:31,"A: I see the furnace and a water heater, wooden stairs leading up, a cement floor",,,A,All
+88,0 days 00:04:34,B: washer dryer,,,B,All
+89,0 days 00:04:44,,,B: cmd: w,B,All
+90,0 days 00:04:45,,,GM: url: / b/ basement/ ADE_train_00002497.jpg,GM,B
+92,0 days 00:04:45,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+93,0 days 00:04:49,A: I was in that rooom. It isn't the basement.,,,A,All
+94,0 days 00:04:50,,,B: cmd: e,B,All
+95,0 days 00:04:50,,,GM: url: / b/ basement/ ADE_train_00002480.jpg,GM,B
+97,0 days 00:04:50,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+98,0 days 00:05:07,"A: It has a brown carpet floor and a sink, right?",,,A,All
+99,0 days 00:05:14,B: yes,,,B,All
+100,0 days 00:05:19,,,B: cmd: w,B,All
+101,0 days 00:05:20,,,GM: url: / b/ basement/ ADE_train_00002497.jpg,GM,B
+103,0 days 00:05:20,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+104,0 days 00:05:28,A: keep going,,,A,All
+105,0 days 00:05:28,,,B: cmd: s,B,All
+106,0 days 00:05:28,,,GM: url: / b/ basement/ ADE_train_00002479.jpg,GM,B
+108,0 days 00:05:29,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+109,0 days 00:05:39,B: got it furnace,,,B,All
+110,0 days 00:05:46,A: great!,,,A,All
+111,0 days 00:05:49,,A: cmd: done,,A,All
+112,0 days 00:05:49,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+113,0 days 00:05:51,,,B: cmd: done,B,All
+114,0 days 00:05:51,GM: Well done! Both of you are                            indeed in the same room of type: b/basement!,GM: Well done! Both of you are                            indeed in the same room of type: b/ basement!,GM: Well done! Both of you are                            indeed in the same room of type: b/ basement!,GM,All
+115,0 days 00:05:51,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+116,0 days 00:05:52,GM: ,GM: ,GM: ,GM,All
+117,0 days 00:05:52,GM: Here's your token: 150IQOE0O,GM: Here's your token: 150IQOE0O,GM: Here's your token: 150IQOE0O,GM,All
+118,0 days 00:07:15,A: ,A: ,,A,All
+119,0 days 00:07:15,,,GM: tranquil_pencil has left the game.,GM,B
+120,0 days 00:10:35,B: ,,B: ,B,All
+121,0 days 00:10:35,,GM: little_drylands has left the game.,,GM,A
+122,0 days 02:18:14,GM: ,GM: ,GM: ,GM,All

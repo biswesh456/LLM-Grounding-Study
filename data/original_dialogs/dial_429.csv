@@ -1,0 +1,78 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / c/ carport/ outdoor/ ADE_train_00005143.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, charming_knife! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: b/ basement,,GM,A
+15,0 days 00:00:04,,,GM: url: / b/ bathroom/ ADE_train_00002995.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, warm_suitcase! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: b/ basement,GM,B
+20,0 days 00:00:22,,A: cmd: n,,A,All
+21,0 days 00:00:22,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+22,0 days 00:00:30,,A: cmd: s,,A,All
+23,0 days 00:00:30,,GM: url: / s/ street/ ADE_train_00018701.jpg,,GM,A
+25,0 days 00:00:31,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+26,0 days 00:00:44,,A: cmd: w,,A,All
+27,0 days 00:00:45,,GM: url: / k/ kiosk/ outdoor/ ADE_train_00010143.jpg,,GM,A
+29,0 days 00:00:45,,GM: You can go: [/ e]ast,,GM,A
+30,0 days 00:00:49,,A: cmd: e,,A,All
+31,0 days 00:00:49,,GM: url: / s/ street/ ADE_train_00018701.jpg,,GM,A
+33,0 days 00:00:50,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+34,0 days 00:00:53,,A: cmd: e,,A,All
+35,0 days 00:00:54,,GM: url: / l/ living_room/ ADE_train_00000892.jpg,,GM,A
+37,0 days 00:00:54,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+38,0 days 00:00:59,,A: cmd: s,,A,All
+39,0 days 00:00:59,,GM: url: / d/ dining_room/ ADE_train_00006999.jpg,,GM,A
+41,0 days 00:00:59,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+42,0 days 00:01:03,,A: cmd: s,,A,All
+43,0 days 00:01:04,,GM: url: / b/ basement/ ADE_train_00002494.jpg,,GM,A
+45,0 days 00:01:04,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+46,0 days 00:01:13,,A: cmd: done,,A,All
+47,0 days 00:01:13,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+48,0 days 00:01:31,,A: cmd: look,,A,All
+49,0 days 00:01:31,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+50,0 days 00:01:39,,A: cmd: look,,A,All
+51,0 days 00:01:40,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+52,0 days 00:01:46,,A: cmd: done,,A,All
+53,0 days 00:01:47,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+54,0 days 00:02:19,A: I am in the basement are u?,,,A,All
+55,0 days 00:02:34,A: I see a water heater and stairs and a sin,,,A,All
+56,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+57,0 days 00:03:05,,A: cmd: done,,A,All
+58,0 days 00:03:06,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+59,0 days 00:03:09,B: i will find i,,,B,All
+60,0 days 00:03:10,B: it,,,B,All
+61,0 days 00:03:13,A: ok,,,A,All
+62,0 days 00:03:17,,,B: cmd: s,B,All
+63,0 days 00:03:17,,,GM: url: / b/ basement/ ADE_train_00002474.jpg,GM,B
+65,0 days 00:03:18,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+66,0 days 00:03:33,B: is there a jeep in thre,,,B,All
+67,0 days 00:03:35,A: I went south to find it,,,A,All
+68,0 days 00:03:35,B: toy jeep?,,,B,All
+69,0 days 00:03:37,A: no,,,A,All
+70,0 days 00:03:40,,,B: cmd: w,B,All
+71,0 days 00:03:41,,,GM: url: / b/ basement/ ADE_train_00002494.jpg,GM,B
+73,0 days 00:03:41,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+74,0 days 00:03:45,A: just water heater and stairs,,,A,All
+75,0 days 00:03:50,B: found it,,,B,All
+76,0 days 00:03:51,A: no,,,A,All
+77,0 days 00:03:51,,,B: cmd: done,B,All
+78,0 days 00:03:52,GM: Well done! Both of you are                            indeed in the same room of type: b/basement!,GM: Well done! Both of you are                            indeed in the same room of type: b/ basement!,GM: Well done! Both of you are                            indeed in the same room of type: b/ basement!,GM,All
+79,0 days 00:03:52,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+80,0 days 00:03:52,GM: ,GM: ,GM: ,GM,All
+81,0 days 00:03:52,GM: Here's your token: 1134LBY8G6,GM: Here's your token: 1134LBY8G6,GM: Here's your token: 1134LBY8G6,GM,All
+82,0 days 00:04:35,A: ,A: ,,A,All
+83,0 days 00:04:36,,,GM: charming_knife has left the game.,GM,B
+84,0 days 00:13:24,B: ,,B: ,B,All
+85,0 days 00:13:24,,GM: warm_suitcase has left the game.,,GM,A
+86,0 days 00:30:24,GM: ,GM: ,GM: ,GM,All

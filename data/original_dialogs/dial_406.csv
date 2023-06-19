@@ -1,0 +1,66 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / g/ garage/ outdoor/ ADE_train_00008499.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, khaki_farm! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: s/ staircase,,GM,A
+15,0 days 00:00:03,,,GM: url: / h/ hotel_room/ ADE_train_00009649.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, radioactive_iceberg! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: s/ staircase,GM,B
+20,0 days 00:00:10,,A: cmd: n,,A,All
+21,0 days 00:00:10,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+22,0 days 00:00:13,,A: cmd: s,,A,All
+23,0 days 00:00:13,,GM: url: / s/ staircase/ ADE_train_00016775.jpg,,GM,A
+25,0 days 00:00:13,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+26,0 days 00:00:34,"B: Hello, I'm in a bedroom with two beds and a small kitchenette. Looking around..",,,B,All
+27,0 days 00:00:39,,,B: cmd: s,B,All
+28,0 days 00:00:39,,,GM: url: / s/ staircase/ ADE_train_00016790.jpg,GM,B
+30,0 days 00:00:39,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,GM,B
+31,0 days 00:01:06,B: Just South of that bedroom is a wide staircase--white stairs with horizontal metal bar railings,,,B,All
+32,0 days 00:01:37,A: stay at the stairway I'll find you,,,A,All
+33,0 days 00:01:41,,A: cmd: n,,A,All
+34,0 days 00:01:41,,GM: url: / g/ garage/ outdoor/ ADE_train_00008499.jpg,,GM,A
+36,0 days 00:01:41,,GM: You can go: [/ s]outh,,GM,A
+37,0 days 00:01:43,B: ok,,,B,All
+38,0 days 00:01:44,,A: cmd: s,,A,All
+39,0 days 00:01:44,,GM: url: / s/ staircase/ ADE_train_00016775.jpg,,GM,A
+41,0 days 00:01:44,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+42,0 days 00:01:49,,A: cmd: e,,A,All
+43,0 days 00:01:49,,GM: url: / h/ hotel_room/ ADE_train_00009649.jpg,,GM,A
+45,0 days 00:01:49,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+46,0 days 00:01:53,A: e,,,A,All
+47,0 days 00:01:56,B: It also has a dark blue column next to it,,,B,All
+48,0 days 00:02:05,,A: cmd: e,,A,All
+49,0 days 00:02:06,,GM: url: / d/ dining_room/ ADE_train_00007054.jpg,,GM,A
+51,0 days 00:02:06,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+52,0 days 00:02:11,,A: cmd: s,,A,All
+53,0 days 00:02:11,,GM: url: / s/ staircase/ ADE_train_00016825.jpg,,GM,A
+55,0 days 00:02:11,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+56,0 days 00:02:40,,A: cmd: w,,A,All
+57,0 days 00:02:40,,GM: url: / s/ staircase/ ADE_train_00016790.jpg,,GM,A
+59,0 days 00:02:41,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+60,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+61,0 days 00:03:06,A: is there a payphone on the right and a blue double doorway?,,,A,All
+62,0 days 00:03:12,"B: yes, still there",,,B,All
+63,0 days 00:03:20,,,B: cmd: done,B,All
+64,0 days 00:03:21,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+65,0 days 00:03:26,,A: cmd: done,,A,All
+66,0 days 00:03:26,GM: Well done! Both of you are                            indeed in the same room of type: s/staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM,All
+67,0 days 00:03:27,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+68,0 days 00:03:27,GM: ,GM: ,GM: ,GM,All
+69,0 days 00:03:27,GM: Here's your token: 1136M1XQ65,GM: Here's your token: 1136M1XQ65,GM: Here's your token: 1136M1XQ65,GM,All
+70,0 days 00:03:43,B: ,,B: ,B,All
+71,0 days 00:03:43,,GM: radioactive_iceberg has left the game.,,GM,A
+72,0 days 00:03:45,A: ,A: ,,A,All
+73,0 days 00:03:45,,,GM: khaki_farm has left the game.,GM,B
+74,0 days 00:27:36,GM: ,GM: ,GM: ,GM,All

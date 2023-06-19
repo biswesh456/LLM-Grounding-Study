@@ -1,0 +1,99 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:02,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:06,,GM: url: / b/ bedroom/ ADE_train_00000329.jpg,,GM,A
+12,0 days 00:00:06,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:06,,"GM: Welcome to the game, merciful_briars! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:06,,GM: You have to meet in the room of type: d/ doorway/ indoor,,GM,A
+15,0 days 00:00:06,,,GM: url: / g/ garage/ outdoor/ ADE_train_00008510.jpg,GM,B
+17,0 days 00:00:07,,,GM: You can go: [/ n]orth,GM,B
+18,0 days 00:00:07,,,"GM: Welcome to the game, indigo_wheelbarrow! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:07,,,GM: You have to meet in the room of type: d/ doorway/ indoor,GM,B
+20,0 days 00:00:23,,,B: cmd: n,B,All
+21,0 days 00:00:23,A: Hi,,,A,All
+22,0 days 00:00:23,,,GM: url: / l/ living_room/ ADE_train_00000727.jpg,GM,B
+24,0 days 00:00:23,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+25,0 days 00:00:25,,A: cmd: look,,A,All
+26,0 days 00:00:26,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+27,0 days 00:00:27,B: Hey,,,B,All
+28,0 days 00:00:29,,,B: cmd: w,B,All
+29,0 days 00:00:29,,,GM: url: / d/ dining_room/ ADE_train_00007061.jpg,GM,B
+31,0 days 00:00:29,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+32,0 days 00:00:31,,A: cmd: n,,A,All
+33,0 days 00:00:31,,GM: url: / d/ doorway/ indoor/ ADE_train_00007335.jpg,,GM,A
+35,0 days 00:00:31,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+36,0 days 00:00:32,,,B: cmd: w,B,All
+37,0 days 00:00:32,,,GM: url: / b/ bathroom/ ADE_train_00000008.jpg,GM,B
+39,0 days 00:00:33,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+40,0 days 00:00:36,,,B: cmd: n,B,All
+41,0 days 00:00:37,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007331.jpg,GM,B
+43,0 days 00:00:37,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+44,0 days 00:00:42,,,B: cmd: n,B,All
+45,0 days 00:00:43,,,GM: url: / b/ bedroom/ ADE_train_00000329.jpg,GM,B
+47,0 days 00:00:44,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+48,0 days 00:00:55,,,B: cmd: n,B,All
+49,0 days 00:00:56,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007335.jpg,GM,B
+51,0 days 00:00:56,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+52,0 days 00:00:57,A: I'm outside with a crime scene tape... let me know if you find the door,,,A,All
+53,0 days 00:01:02,,A: cmd: e,,A,All
+54,0 days 00:01:03,,GM: url: / b/ bedroom/ ADE_train_00003295.jpg,,GM,A
+56,0 days 00:01:03,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+57,0 days 00:01:06,B: I found one like that too. ,,,B,All
+58,0 days 00:01:14,,A: cmd: s,,A,All
+59,0 days 00:01:14,,GM: url: / d/ doorway/ indoor/ ADE_train_00007323.jpg,,GM,A
+61,0 days 00:01:15,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+62,0 days 00:01:20,B: Lots of green tree leaves outside the doorway?,,,B,All
+63,0 days 00:01:26,B: Windows on the door?,,,B,All
+64,0 days 00:01:29,A: Yeah exactly,,,A,All
+65,0 days 00:01:35,B: Perfect!,,,B,All
+66,0 days 00:01:37,,,B: cmd: done,B,All
+67,0 days 00:01:37,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+68,0 days 00:01:38,A: I just headed east now going directly south,,,A,All
+69,0 days 00:01:55,"A: Oh wait, I misunderstood lol",,,A,All
+70,0 days 00:01:59,B: I thought that was it!,,,B,All
+71,0 days 00:02:09,"A: Hang on, still looking",,,A,All
+72,0 days 00:02:13,,A: cmd: s,,A,All
+73,0 days 00:02:14,,GM: url: / d/ doorway/ indoor/ ADE_train_00007340.jpg,,GM,A
+75,0 days 00:02:15,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+76,0 days 00:02:27,B: Go back where you came from. ,,,B,All
+77,0 days 00:02:31,"A: Sorry, wrong color",,,A,All
+78,0 days 00:02:36,B: I'll stay here with the crime tape. ,,,B,All
+79,0 days 00:02:43,B: Wrong color of what?,,,B,All
+80,0 days 00:02:47,A: Okay cool,,,A,All
+81,0 days 00:02:56,A: Wrong color leaves,,,A,All
+82,0 days 00:03:00,A: Did you find the red door?,,,A,All
+83,0 days 00:03:03,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+84,0 days 00:03:07,"B: No, this door is white. ",,,B,All
+85,0 days 00:03:09,,A: cmd: north,,A,All
+86,0 days 00:03:14,,A: cmd: n,,A,All
+87,0 days 00:03:14,,GM: url: / d/ doorway/ indoor/ ADE_train_00007323.jpg,,GM,A
+89,0 days 00:03:15,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+90,0 days 00:03:19,,A: cmd: n,,A,All
+91,0 days 00:03:20,,GM: url: / b/ bedroom/ ADE_train_00003295.jpg,,GM,A
+93,0 days 00:03:20,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+94,0 days 00:03:26,,A: cmd: w,,A,All
+95,0 days 00:03:26,,GM: url: / d/ doorway/ indoor/ ADE_train_00007335.jpg,,GM,A
+97,0 days 00:03:27,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+98,0 days 00:03:40,A: Okay found the door again,,,A,All
+99,0 days 00:03:45,A: Do you reckon it counts as indoor?,,,A,All
+100,0 days 00:03:56,"B: Yes, I can see indoor wall. ",,,B,All
+101,0 days 00:04:05,"A: Okay, that's fair :)",,,A,All
+102,0 days 00:04:10,B: Looks like a bit of a light switch on the right. ,,,B,All
+103,0 days 00:04:10,,A: cmd: done,,A,All
+104,0 days 00:04:10,GM: Well done! Both of you are                            indeed in the same room of type: d/doorway/indoor!,GM: Well done! Both of you are                            indeed in the same room of type: d/ doorway/ indoor!,GM: Well done! Both of you are                            indeed in the same room of type: d/ doorway/ indoor!,GM,All
+105,0 days 00:04:11,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+106,0 days 00:04:11,GM: ,GM: ,GM: ,GM,All
+107,0 days 00:04:11,GM: Here's your token: 4894N6AZ7,GM: Here's your token: 4894N6AZ7,GM: Here's your token: 4894N6AZ7,GM,All
+108,0 days 00:04:31,A: ,A: ,,A,All
+109,0 days 00:04:32,,,GM: merciful_briars has left the game.,GM,B
+110,0 days 00:04:52,B: ,,B: ,B,All
+111,0 days 00:04:52,,GM: indigo_wheelbarrow has left the game.,,GM,A
+112,0 days 02:18:23,GM: ,GM: ,GM: ,GM,All

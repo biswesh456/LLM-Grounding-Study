@@ -1,0 +1,61 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:00,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / s/ street/ ADE_train_00017414.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, limitless_atoll! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:02,,GM: You have to meet in the room of type: b/ bathroom,,GM,A
+15,0 days 00:00:02,,,GM: url: / l/ library/ outdoor/ ADE_train_00010992.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, merciful_seatbelt! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: b/ bathroom,GM,B
+20,0 days 00:00:08,,,B: cmd: n,B,All
+21,0 days 00:00:08,,,GM: Nothing happened.You can go: [/ s]outh,GM,B
+22,0 days 00:00:10,,,B: cmd: s,B,All
+23,0 days 00:00:10,,,GM: url: / b/ bathroom/ ADE_train_00002668.jpg,GM,B
+25,0 days 00:00:11,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,GM,B
+26,0 days 00:00:16,A: b/bathroom,,,A,All
+27,0 days 00:00:18,B: I'm in a bathroom,,,B,All
+28,0 days 00:00:20,A: wut,,,A,All
+29,0 days 00:00:24,,A: cmd: b,,A,All
+30,0 days 00:00:30,,A: cmd: bathroom,,A,All
+31,0 days 00:00:37,,A: cmd: n,,A,All
+32,0 days 00:00:37,,GM: url: / k/ kitchen/ ADE_train_00010637.jpg,,GM,A
+34,0 days 00:00:37,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+35,0 days 00:00:43,B: it's got an underwater scene painted,,,B,All
+36,0 days 00:00:48,,A: cmd: s,,A,All
+37,0 days 00:00:48,,GM: url: / s/ street/ ADE_train_00017414.jpg,,GM,A
+39,0 days 00:00:48,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+40,0 days 00:00:52,,A: cmd: w,,A,All
+41,0 days 00:00:52,,GM: url: / s/ street/ ADE_train_00018647.jpg,,GM,A
+43,0 days 00:00:52,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+44,0 days 00:00:57,,A: cmd: n,,A,All
+45,0 days 00:00:57,,GM: url: / b/ bathroom/ ADE_train_00002668.jpg,,GM,A
+47,0 days 00:00:57,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+48,0 days 00:00:59,B: on the ceiling and upper walls,,,B,All
+49,0 days 00:01:09,"A: guess im here, something blue?",,,A,All
+50,0 days 00:01:22,B: hanging towels on the right ,,,B,All
+51,0 days 00:01:29,A: yeah im here,,,A,All
+52,0 days 00:01:40,B: okay. good job,,,B,All
+53,0 days 00:01:44,,,B: cmd: done,B,All
+54,0 days 00:01:45,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+55,0 days 00:01:53,,A: cmd: d,,A,All
+56,0 days 00:01:59,,A: cmd: done,,A,All
+57,0 days 00:01:59,GM: Well done! Both of you are                            indeed in the same room of type: b/bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM,All
+58,0 days 00:01:59,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+59,0 days 00:02:00,GM: ,GM: ,GM: ,GM,All
+60,0 days 00:02:00,GM: Here's your token: 1109P6CZM6,GM: Here's your token: 1109P6CZM6,GM: Here's your token: 1109P6CZM6,GM,All
+61,0 days 00:02:27,B: ,,B: ,B,All
+62,0 days 00:02:27,,GM: merciful_seatbelt has left the game.,,GM,A
+63,0 days 00:02:31,A: ,A: ,,A,All
+64,0 days 00:02:32,,,GM: limitless_atoll has left the game.,GM,B
+65,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+66,0 days 01:22:17,GM: ,GM: ,GM: ,GM,All

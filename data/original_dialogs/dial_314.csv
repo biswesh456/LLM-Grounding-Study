@@ -1,0 +1,75 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:02,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / b/ bathroom/ ADE_train_00000042.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, inquisitive_dusk! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: h/ home_office,,GM,A
+15,0 days 00:00:04,,,GM: url: / k/ kitchen/ ADE_train_00010160.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, colorful_zipper! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: h/ home_office,GM,B
+20,0 days 00:00:09,B: n,,,B,All
+21,0 days 00:00:17,,,B: cmd: n,B,All
+22,0 days 00:00:17,,,GM: url: / p/ patio/ ADE_train_00015288.jpg,GM,B
+24,0 days 00:00:17,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+25,0 days 00:00:22,,,B: cmd: w,B,All
+26,0 days 00:00:22,,,GM: url: / l/ living_room/ ADE_train_00011426.jpg,GM,B
+28,0 days 00:00:22,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+29,0 days 00:00:31,,,B: cmd: s,B,All
+30,0 days 00:00:31,,,GM: url: / h/ home_office/ ADE_train_00009334.jpg,GM,B
+32,0 days 00:00:32,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+33,0 days 00:00:40,,A: cmd: w,,A,All
+34,0 days 00:00:42,,GM: url: / h/ home_office/ ADE_train_00009408.jpg,,GM,A
+36,0 days 00:00:43,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+37,0 days 00:00:45,B: Im in a home office,,,B,All
+38,0 days 00:00:54,A: white walls?,,,A,All
+39,0 days 00:00:57,B: wooden desk,,,B,All
+40,0 days 00:01:04,A: coat on chair?,,,A,All
+41,0 days 00:01:05,B: metal bookshelf,,,B,All
+42,0 days 00:01:09,B: no coat,,,B,All
+43,0 days 00:01:13,A: ok let me find you,,,A,All
+44,0 days 00:01:15,B: you want to find me ,,,B,All
+45,0 days 00:01:20,,A: cmd: s,,A,All
+46,0 days 00:01:21,,GM: url: / h/ home_office/ ADE_train_00009343.jpg,,GM,A
+48,0 days 00:01:21,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+49,0 days 00:01:25,,A: cmd: e,,A,All
+50,0 days 00:01:25,,GM: url: / h/ home_office/ ADE_train_00009378.jpg,,GM,A
+52,0 days 00:01:25,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+53,0 days 00:01:27,B: black bag by the door,,,B,All
+54,0 days 00:01:31,B: white walls,,,B,All
+55,0 days 00:01:38,B: wooden floors,,,B,All
+56,0 days 00:01:40,,A: cmd: n,,A,All
+57,0 days 00:01:40,,GM: url: / b/ bathroom/ ADE_train_00000042.jpg,,GM,A
+59,0 days 00:01:41,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+60,0 days 00:01:44,,A: cmd: e,,A,All
+61,0 days 00:01:44,,GM: url: / h/ home_office/ ADE_train_00009334.jpg,,GM,A
+63,0 days 00:01:44,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+64,0 days 00:01:49,B: rug on floor right handside,,,B,All
+65,0 days 00:02:04,B: part of a couch is visable,,,B,All
+66,0 days 00:02:11,B: large paint on the was,,,B,All
+67,0 days 00:02:16,A: huge picture on wall?,,,A,All
+68,0 days 00:02:17,B: black lamp on desk,,,B,All
+69,0 days 00:02:26,A: cross near window/,,,A,All
+70,0 days 00:02:31,B: yes,,,B,All
+71,0 days 00:02:32,,,B: cmd: done,B,All
+72,0 days 00:02:32,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+73,0 days 00:02:36,,A: cmd: done,,A,All
+74,0 days 00:02:36,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM,All
+75,0 days 00:02:37,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+76,0 days 00:02:37,GM: ,GM: ,GM: ,GM,All
+77,0 days 00:02:37,GM: Here's your token: 798T4WLNA,GM: Here's your token: 798T4WLNA,GM: Here's your token: 798T4WLNA,GM,All
+78,0 days 00:02:58,A: ,A: ,,A,All
+79,0 days 00:02:58,,,GM: inquisitive_dusk has left the game.,GM,B
+80,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 00:05:19,B: ,,B: ,B,All
+82,0 days 00:05:19,,GM: colorful_zipper has left the game.,,GM,A
+83,0 days 01:06:27,GM: ,GM: ,GM: ,GM,All

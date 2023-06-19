@@ -1,0 +1,63 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / s/ street/ ADE_train_00018565.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, placid_cookie_jar! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: b/ bathroom,,GM,A
+15,0 days 00:00:03,,,GM: url: / b/ bedroom/ ADE_train_00000388.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, tasteless_marsh! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: b/ bathroom,GM,B
+20,0 days 00:00:10,,A: cmd: n,,A,All
+21,0 days 00:00:11,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,,GM,A
+22,0 days 00:00:15,,A: cmd: s,,A,All
+23,0 days 00:00:15,,GM: url: / s/ street/ ADE_train_00017953.jpg,,GM,A
+25,0 days 00:00:15,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+26,0 days 00:00:19,,A: cmd: s,,A,All
+27,0 days 00:00:19,,GM: url: / b/ bathroom/ ADE_train_00002546.jpg,,GM,A
+29,0 days 00:00:20,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+30,0 days 00:00:25,,,B: cmd: n,B,All
+31,0 days 00:00:25,,,GM: url: / b/ bathroom/ ADE_train_00000158.jpg,GM,B
+33,0 days 00:00:26,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+34,0 days 00:00:51,A: ok i am in bathroom.  You can see sink and mirror with a jar with a couple of flowers in a lefthand side of sink,,,A,All
+35,0 days 00:01:15,"B: Okay, I'm in a different bathroom. I'll keep looking, you can stay there. ",,,B,All
+36,0 days 00:01:28,B: Can you describe it a bit more so I know when I get to the correct one?,,,B,All
+37,0 days 00:01:42,A: ok. Sink is white with white cabinet on lefthandside with glass at front and blue round handle.,,,A,All
+38,0 days 00:01:42,,,B: cmd: n,B,All
+39,0 days 00:01:42,,,GM: url: / b/ bathroom/ ADE_train_00002598.jpg,GM,B
+41,0 days 00:01:43,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+42,0 days 00:01:51,,,B: cmd: e,B,All
+43,0 days 00:01:51,,,GM: url: / s/ street/ ADE_train_00018565.jpg,GM,B
+45,0 days 00:01:51,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+46,0 days 00:01:55,A: white towel on righthand side of pic.,,,A,All
+47,0 days 00:01:57,,,B: cmd: s,B,All
+48,0 days 00:01:58,,,GM: url: / s/ street/ ADE_train_00017953.jpg,GM,B
+50,0 days 00:01:58,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+51,0 days 00:02:06,,,B: cmd: s,B,All
+52,0 days 00:02:07,,,GM: url: / b/ bathroom/ ADE_train_00002546.jpg,GM,B
+54,0 days 00:02:08,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+55,0 days 00:02:38,B: Is is marble counter? Orange flowers? Little pump bottle on the right side?,,,B,All
+56,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+57,0 days 00:03:23,A: yes,,,A,All
+58,0 days 00:03:29,"B: Okay, I'm done. ",,,B,All
+59,0 days 00:03:31,,,B: cmd: done,B,All
+60,0 days 00:03:32,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+61,0 days 00:03:36,,A: cmd: done,,A,All
+62,0 days 00:03:39,GM: Well done! Both of you are                            indeed in the same room of type: b/bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM,All
+63,0 days 00:03:39,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+64,0 days 00:03:39,GM: ,GM: ,GM: ,GM,All
+65,0 days 00:03:41,GM: Here's your token: 25845OBKP,GM: Here's your token: 25845OBKP,GM: Here's your token: 25845OBKP,GM,All
+66,0 days 00:04:00,A: ,A: ,,A,All
+67,0 days 00:04:01,,,GM: placid_cookie_jar has left the game.,GM,B
+68,0 days 00:04:05,B: ,,B: ,B,All
+69,0 days 00:04:06,,GM: tasteless_marsh has left the game.,,GM,A
+70,0 days 00:55:49,GM: ,GM: ,GM: ,GM,All

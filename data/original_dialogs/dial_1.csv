@@ -1,0 +1,82 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / i/ inn/ outdoor/ ADE_train_00009889.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, amiable_screw! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: r/ reading_room,,GM,A
+15,0 days 00:00:04,,,GM: url: / s/ street/ ADE_train_00017760.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, limitless_keychain! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: r/ reading_room,GM,B
+20,0 days 00:00:16,,,B: cmd: e,B,All
+21,0 days 00:00:16,,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,GM,B
+22,0 days 00:00:18,,,B: cmd: w,B,All
+23,0 days 00:00:18,,,GM: url: / r/ reading_room/ ADE_train_00015707.jpg,GM,B
+25,0 days 00:00:18,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+26,0 days 00:00:24,B: i'm in a reading room with a red carpet,,,B,All
+27,0 days 00:00:46,A: im outside.  I will move.,,,A,All
+28,0 days 00:00:51,,A: cmd: n,,A,All
+29,0 days 00:00:51,,GM: Nothing happened.You can go: [/ w]est,,GM,A
+30,0 days 00:00:59,,A: cmd: w,,A,All
+31,0 days 00:00:59,,GM: url: / m/ music_studio/ ADE_train_00012274.jpg,,GM,A
+33,0 days 00:00:59,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+34,0 days 00:01:03,,A: cmd: w,,A,All
+35,0 days 00:01:03,,GM: url: / b/ bedroom/ ADE_train_00003439.jpg,,GM,A
+37,0 days 00:01:03,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+38,0 days 00:01:03,B: i had to go west,,,B,All
+39,0 days 00:01:08,,A: cmd: n,,A,All
+40,0 days 00:01:09,,GM: url: / r/ reading_room/ ADE_train_00015704.jpg,,GM,A
+42,0 days 00:01:09,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+43,0 days 00:01:29,A: i am in a reading room but no red carpet will move again.,,,A,All
+44,0 days 00:01:33,,A: cmd: w,,A,All
+45,0 days 00:01:33,,GM: url: / r/ reading_room/ ADE_train_00015702.jpg,,GM,A
+47,0 days 00:01:33,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+48,0 days 00:01:40,,A: cmd: n,,A,All
+49,0 days 00:01:40,,GM: url: / r/ reading_room/ ADE_train_00015701.jpg,,GM,A
+51,0 days 00:01:40,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+52,0 days 00:01:46,B: with bookshelves?,,,B,All
+53,0 days 00:01:46,,A: cmd: e,,A,All
+54,0 days 00:01:50,,GM: url: / s/ street/ ADE_train_00018187.jpg,,GM,A
+56,0 days 00:01:50,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+57,0 days 00:01:51,,,B: cmd: w,B,All
+58,0 days 00:01:51,,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+59,0 days 00:01:53,,,B: cmd: s,B,All
+60,0 days 00:01:54,,,GM: url: / r/ reading_room/ ADE_train_00015701.jpg,GM,B
+62,0 days 00:01:54,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+63,0 days 00:01:54,A: yes but cannot see carpet,,,A,All
+64,0 days 00:02:02,B: do you see people?,,,B,All
+65,0 days 00:02:04,,A: cmd: n,,A,All
+66,0 days 00:02:05,,GM: url: / s/ street/ ADE_train_00017760.jpg,,GM,A
+68,0 days 00:02:05,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+69,0 days 00:02:15,,A: cmd: w,,A,All
+70,0 days 00:02:16,,GM: url: / r/ reading_room/ ADE_train_00015707.jpg,,GM,A
+72,0 days 00:02:16,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+73,0 days 00:02:34,A: right in another reading room.  no people though just lots of books?,,,A,All
+74,0 days 00:02:45,,,B: cmd: n,B,All
+75,0 days 00:02:47,,,GM: url: / r/ reading_room/ ADE_train_00015707.jpg,GM,B
+77,0 days 00:02:47,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+78,0 days 00:02:52,,,B: cmd: done,B,All
+79,0 days 00:02:52,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+80,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 00:03:04,A: are you in the same room as me????,,,A,All
+82,0 days 00:03:13,B: i think so!,,,B,All
+83,0 days 00:03:17,A: ok,,,A,All
+84,0 days 00:03:20,,A: cmd: done,,A,All
+85,0 days 00:03:20,GM: Well done! Both of you are                            indeed in the same room of type: r/reading_room!,GM: Well done! Both of you are                            indeed in the same room of type: r/ reading_room!,GM: Well done! Both of you are                            indeed in the same room of type: r/ reading_room!,GM,All
+86,0 days 00:03:21,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+87,0 days 00:03:21,GM: ,GM: ,GM: ,GM,All
+88,0 days 00:03:21,GM: Here's your token: 201KDC19Y,GM: Here's your token: 201KDC19Y,GM: Here's your token: 201KDC19Y,GM,All
+89,0 days 00:03:42,B: ,,B: ,B,All
+90,0 days 00:03:42,,GM: limitless_keychain has left the game.,,GM,A
+91,0 days 00:03:48,A: ,A: ,,A,All
+92,0 days 00:03:48,,,GM: amiable_screw has left the game.,GM,B
+93,0 days 01:48:13,GM: ,GM: ,GM: ,GM,All

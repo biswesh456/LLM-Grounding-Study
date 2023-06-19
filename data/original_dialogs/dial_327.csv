@@ -1,0 +1,50 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:02,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:04,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:05,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:06,,GM: url: / m/ music_studio/ ADE_train_00012282.jpg,,GM,A
+12,0 days 00:00:06,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:06,,"GM: Welcome to the game, dusty_dove! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:07,,GM: You have to meet in the room of type: s/ staircase,,GM,A
+15,0 days 00:00:07,,,GM: url: / s/ street/ ADE_train_00017734.jpg,GM,B
+17,0 days 00:00:07,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:07,,,"GM: Welcome to the game, mammoth_card! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:08,,,GM: You have to meet in the room of type: s/ staircase,GM,B
+20,0 days 00:00:19,,A: cmd: n,,A,All
+21,0 days 00:00:20,,GM: url: / s/ staircase/ ADE_train_00016795.jpg,,GM,A
+23,0 days 00:00:21,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+24,0 days 00:00:21,B: hello,,,B,All
+25,0 days 00:00:25,A: hi,,,A,All
+26,0 days 00:00:25,,,B: cmd: e,B,All
+27,0 days 00:00:25,,,GM: url: / b/ bathroom/ ADE_train_00002540.jpg,GM,B
+29,0 days 00:00:26,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+30,0 days 00:00:32,,,B: cmd: s,B,All
+31,0 days 00:00:33,,,GM: url: / s/ staircase/ ADE_train_00016795.jpg,GM,B
+33,0 days 00:00:33,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+34,0 days 00:00:33,A: found staircase,,,A,All
+35,0 days 00:00:39,B: I'm there too,,,B,All
+36,0 days 00:00:42,A: spiral stairs,,,A,All
+37,0 days 00:00:43,B: good job ;-),,,B,All
+38,0 days 00:00:46,B: right,,,B,All
+39,0 days 00:00:47,,,B: cmd: done,B,All
+40,0 days 00:00:47,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+41,0 days 00:00:49,A: dark brown rails,,,A,All
+42,0 days 00:00:53,B: yes,,,B,All
+43,0 days 00:00:54,,A: cmd: done,,A,All
+44,0 days 00:00:55,GM: Well done! Both of you are                            indeed in the same room of type: s/staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM,All
+45,0 days 00:00:55,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+46,0 days 00:00:55,GM: ,GM: ,GM: ,GM,All
+47,0 days 00:00:55,GM: Here's your token: 4964A6V6W,GM: Here's your token: 4964A6V6W,GM: Here's your token: 4964A6V6W,GM,All
+48,0 days 00:01:15,A: ,A: ,,A,All
+49,0 days 00:01:15,,,GM: dusty_dove has left the game.,GM,B
+50,0 days 00:01:17,B: ,,B: ,B,All
+51,0 days 00:01:18,,GM: mammoth_card has left the game.,,GM,A
+52,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+53,0 days 02:15:58,GM: ,GM: ,GM: ,GM,All

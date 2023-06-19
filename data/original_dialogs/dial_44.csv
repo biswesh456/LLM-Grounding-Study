@@ -1,0 +1,54 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001420.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, grieving_pencil! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: j/ jacuzzi/ indoor,,GM,A
+15,0 days 00:00:03,,,GM: url: / a/ attic/ ADE_train_00001887.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, mirthful_quilt! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: j/ jacuzzi/ indoor,GM,B
+20,0 days 00:00:11,B: hello there :),,,B,All
+21,0 days 00:00:15,,,B: cmd: north,B,All
+22,0 days 00:00:22,,,B: cmd: s,B,All
+23,0 days 00:00:22,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009955.jpg,GM,B
+25,0 days 00:00:23,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+26,0 days 00:00:27,"A: Hi, it says we need to find a jacuzzi that is indoors",,,A,All
+27,0 days 00:00:31,,A: cmd: n,,A,All
+28,0 days 00:00:32,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+29,0 days 00:00:34,,A: cmd: s,,A,All
+30,0 days 00:00:34,,GM: url: / b/ bedroom/ ADE_train_00003616.jpg,,GM,A
+32,0 days 00:00:34,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+33,0 days 00:00:36,B: I am in what looks like a jacuzzi room now .. ,,,B,All
+34,0 days 00:00:37,,A: cmd: e,,A,All
+35,0 days 00:00:37,,GM: url: / a/ attic/ ADE_train_00001887.jpg,,GM,A
+37,0 days 00:00:37,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+38,0 days 00:00:42,,A: cmd: s,,A,All
+39,0 days 00:00:43,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009955.jpg,,GM,A
+41,0 days 00:00:43,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+42,0 days 00:01:00,B: at least I think it is :) It has light coloured tiles and says 3 1/2 on the floor (for some reason!),,,B,All
+43,0 days 00:01:02,A: I found one. It's an indoor room with windows and steps,,,A,All
+44,0 days 00:01:09,A: yeah same,,,A,All
+45,0 days 00:01:11,,A: cmd: done,,A,All
+46,0 days 00:01:11,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+47,0 days 00:01:13,B: cool ,,,B,All
+48,0 days 00:01:15,,,B: cmd: done,B,All
+49,0 days 00:01:15,GM: Well done! Both of you are                            indeed in the same room of type: j/jacuzzi/indoor!,GM: Well done! Both of you are                            indeed in the same room of type: j/ jacuzzi/ indoor!,GM: Well done! Both of you are                            indeed in the same room of type: j/ jacuzzi/ indoor!,GM,All
+50,0 days 00:01:15,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+51,0 days 00:01:15,GM: ,GM: ,GM: ,GM,All
+52,0 days 00:01:15,GM: Here's your token: 1291J0Y4N,GM: Here's your token: 1291J0Y4N,GM: Here's your token: 1291J0Y4N,GM,All
+53,0 days 00:01:30,A: ,A: ,,A,All
+54,0 days 00:01:30,,,GM: grieving_pencil has left the game.,GM,B
+55,0 days 00:01:36,B: ,,B: ,B,All
+56,0 days 00:01:37,,GM: mirthful_quilt has left the game.,,GM,A
+57,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+58,0 days 02:43:17,GM: ,GM: ,GM: ,GM,All

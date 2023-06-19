@@ -1,0 +1,70 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / s/ street/ ADE_train_00018324.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:05,,"GM: Welcome to the game, placid_clock! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:05,,GM: You have to meet in the room of type: h/ home_office,,GM,A
+15,0 days 00:00:05,,,GM: url: / h/ home_theater/ ADE_train_00009428.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, combative_crayons! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: h/ home_office,GM,B
+20,0 days 00:00:12,,A: cmd: n,,A,All
+21,0 days 00:00:12,,GM: url: / h/ home_theater/ ADE_train_00009428.jpg,,GM,A
+23,0 days 00:00:13,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+24,0 days 00:00:19,,,B: cmd: n,B,All
+25,0 days 00:00:20,,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,GM,B
+26,0 days 00:00:22,A: .e,,,A,All
+27,0 days 00:00:25,,,B: cmd: s,B,All
+28,0 days 00:00:25,,,GM: url: / s/ street/ ADE_train_00018324.jpg,GM,B
+30,0 days 00:00:25,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+31,0 days 00:00:27,,A: cmd: e,,A,All
+32,0 days 00:00:28,,GM: url: / h/ home_office/ ADE_train_00009392.jpg,,GM,A
+34,0 days 00:00:28,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+35,0 days 00:00:32,,,B: cmd: s,B,All
+36,0 days 00:00:32,,,GM: url: / h/ home_office/ ADE_train_00009379.jpg,GM,B
+38,0 days 00:00:33,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+39,0 days 00:00:45,A: in an office with a red chair,,,A,All
+40,0 days 00:00:46,B: in office,,,B,All
+41,0 days 00:00:51,B: brown chairs,,,B,All
+42,0 days 00:01:01,,,B: cmd: n,B,All
+43,0 days 00:01:01,,,GM: url: / s/ street/ ADE_train_00018324.jpg,GM,B
+45,0 days 00:01:01,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+46,0 days 00:01:01,"A: different office,",,,A,All
+47,0 days 00:01:09,,,B: cmd: n,B,All
+48,0 days 00:01:11,,,GM: url: / h/ home_theater/ ADE_train_00009428.jpg,GM,B
+50,0 days 00:01:11,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+51,0 days 00:01:14,A: you want to find me or me find you,,,A,All
+52,0 days 00:01:15,B: i will find you,,,B,All
+53,0 days 00:01:19,,,B: cmd: e,B,All
+54,0 days 00:01:19,,,GM: url: / h/ home_office/ ADE_train_00009392.jpg,GM,B
+56,0 days 00:01:19,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+57,0 days 00:01:25,A: the wall is green,,,A,All
+58,0 days 00:01:41,A: the desk is brown and curved,,,A,All
+59,0 days 00:01:42,"B: red chairs, two computer",,,B,All
+60,0 days 00:01:53,A: only one chair,,,A,All
+61,0 days 00:02:01,B: one chair ,,,B,All
+62,0 days 00:02:10,A: a desk top and lap top,,,A,All
+63,0 days 00:02:12,B: we in same room,,,B,All
+64,0 days 00:02:14,B: yes,,,B,All
+65,0 days 00:02:18,,A: cmd: done,,A,All
+66,0 days 00:02:18,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+67,0 days 00:02:22,,,B: cmd: done,B,All
+68,0 days 00:02:23,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM,All
+69,0 days 00:02:23,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+70,0 days 00:02:23,GM: ,GM: ,GM: ,GM,All
+71,0 days 00:02:24,GM: Here's your token: 453XR2HXX,GM: Here's your token: 453XR2HXX,GM: Here's your token: 453XR2HXX,GM,All
+72,0 days 00:02:46,A: ,A: ,,A,All
+73,0 days 00:02:46,,,GM: placid_clock has left the game.,GM,B
+74,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+75,0 days 00:03:04,B: ,,B: ,B,All
+76,0 days 00:03:05,,GM: combative_crayons has left the game.,,GM,A
+77,0 days 02:37:08,GM: ,GM: ,GM: ,GM,All

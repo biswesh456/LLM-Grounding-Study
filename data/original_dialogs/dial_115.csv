@@ -1,0 +1,115 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:02,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:04,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:04,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:06,,GM: url: / s/ street/ ADE_train_00018741.jpg,,GM,A
+12,0 days 00:00:06,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+13,0 days 00:00:07,,"GM: Welcome to the game, limitless_hanger! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:07,,GM: You have to meet in the room of type: s/ staircase,,GM,A
+15,0 days 00:00:07,,,GM: url: / l/ living_room/ ADE_train_00011146.jpg,GM,B
+17,0 days 00:00:07,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:07,,,"GM: Welcome to the game, pleasant_pine! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:08,,,GM: You have to meet in the room of type: s/ staircase,GM,B
+20,0 days 00:00:10,B: Hello are you here?,,,B,All
+21,0 days 00:00:13,A: hi,,,A,All
+22,0 days 00:00:15,A: lets go,,,A,All
+23,0 days 00:00:20,,A: cmd: s,,A,All
+24,0 days 00:00:20,,GM: url: / s/ staircase/ ADE_train_00016836.jpg,,GM,A
+26,0 days 00:00:20,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+27,0 days 00:00:28,B: command/look,,,B,All
+28,0 days 00:00:28,A: found a circular staircase ,,,A,All
+29,0 days 00:00:33,A: looking down into it,,,A,All
+30,0 days 00:00:40,,,B: cmd: look,B,All
+31,0 days 00:00:41,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+32,0 days 00:00:43,A: people on the bottom floor,,,A,All
+33,0 days 00:00:50,,A: cmd: e,,A,All
+34,0 days 00:00:51,,GM: url: / l/ living_room/ ADE_train_00011146.jpg,,GM,A
+36,0 days 00:00:51,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+37,0 days 00:00:54,,A: cmd: w,,A,All
+38,0 days 00:00:54,,GM: url: / s/ staircase/ ADE_train_00016836.jpg,,GM,A
+40,0 days 00:00:55,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+41,0 days 00:00:57,,A: cmd: w,,A,All
+42,0 days 00:00:58,,GM: url: / d/ dining_room/ ADE_train_00007040.jpg,,GM,A
+44,0 days 00:00:58,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+45,0 days 00:01:04,,A: cmd: e,,A,All
+46,0 days 00:01:05,,GM: url: / s/ staircase/ ADE_train_00016836.jpg,,GM,A
+48,0 days 00:01:05,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+49,0 days 00:01:05,,,B: cmd: look,B,All
+50,0 days 00:01:06,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+51,0 days 00:01:09,,A: cmd: n,,A,All
+52,0 days 00:01:11,,GM: url: / s/ street/ ADE_train_00018741.jpg,,GM,A
+54,0 days 00:01:11,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+55,0 days 00:01:13,,A: cmd: n,,A,All
+56,0 days 00:01:13,,,B: cmd: south,B,All
+57,0 days 00:01:14,,GM: url: / s/ staircase/ ADE_train_00016833.jpg,,GM,A
+59,0 days 00:01:15,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+60,0 days 00:01:21,A: found another curby staircase,,,A,All
+61,0 days 00:01:27,A: with chandelier,,,A,All
+62,0 days 00:01:33,B: s/staircase,,,B,All
+63,0 days 00:01:37,,,B: cmd: staircase,B,All
+64,0 days 00:01:38,,A: cmd: s,,A,All
+65,0 days 00:01:38,,GM: url: / s/ street/ ADE_train_00018741.jpg,,GM,A
+67,0 days 00:01:39,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+68,0 days 00:01:40,,A: cmd: s,,A,All
+69,0 days 00:01:41,,GM: url: / s/ staircase/ ADE_train_00016836.jpg,,GM,A
+71,0 days 00:01:42,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+72,0 days 00:01:47,,,B: cmd: n,B,All
+73,0 days 00:01:48,,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,GM,B
+74,0 days 00:01:51,A: have you found any staircases?,,,A,All
+75,0 days 00:02:01,B: No no staircases yet,,,B,All
+76,0 days 00:02:05,A: ok,,,A,All
+77,0 days 00:02:12,A: let me know when you find one and i'll come to where you are,,,A,All
+78,0 days 00:02:15,B: I am in the living room I see a couple chairs and a fireplace,,,B,All
+79,0 days 00:02:16,,A: cmd: n,,A,All
+80,0 days 00:02:16,,GM: url: / s/ street/ ADE_train_00018741.jpg,,GM,A
+82,0 days 00:02:16,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+83,0 days 00:02:22,A: keep looking,,,A,All
+84,0 days 00:02:22,,A: cmd: n,,A,All
+85,0 days 00:02:23,,GM: url: / s/ staircase/ ADE_train_00016833.jpg,,GM,A
+87,0 days 00:02:23,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+88,0 days 00:02:26,,A: cmd: n,,A,All
+89,0 days 00:02:27,,GM: url: / s/ staircase/ ADE_train_00016800.jpg,,GM,A
+91,0 days 00:02:27,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+92,0 days 00:02:39,,A: cmd: w,,A,All
+93,0 days 00:02:40,,GM: url: / s/ staircase/ ADE_train_00016799.jpg,,GM,A
+95,0 days 00:02:40,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+96,0 days 00:02:40,,,B: cmd: w,B,All
+97,0 days 00:02:41,,,GM: url: / s/ staircase/ ADE_train_00016836.jpg,GM,B
+99,0 days 00:02:41,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+100,0 days 00:02:45,,A: cmd: s,,A,All
+101,0 days 00:02:46,,GM: url: / h/ hotel_room/ ADE_train_00009601.jpg,,GM,A
+103,0 days 00:02:46,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+104,0 days 00:02:50,,A: cmd: e,,A,All
+105,0 days 00:02:51,,GM: url: / s/ staircase/ ADE_train_00016833.jpg,,GM,A
+107,0 days 00:02:51,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+108,0 days 00:02:54,B: Okay I see spiral staircase now,,,B,All
+109,0 days 00:02:56,,A: cmd: s,,A,All
+110,0 days 00:02:57,,GM: url: / s/ street/ ADE_train_00018741.jpg,,GM,A
+112,0 days 00:02:58,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+113,0 days 00:02:59,,A: cmd: s,,A,All
+114,0 days 00:03:00,,GM: url: / s/ staircase/ ADE_train_00016836.jpg,,GM,A
+116,0 days 00:03:00,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+117,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+118,0 days 00:03:07,A: looking down into the spiral?,,,A,All
+119,0 days 00:03:12,A: with people on the bottom?,,,A,All
+120,0 days 00:03:15,B: Yes on top looking down,,,B,All
+121,0 days 00:03:17,A: ok,,,A,All
+122,0 days 00:03:18,,A: cmd: done,,A,All
+123,0 days 00:03:19,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+124,0 days 00:03:30,,,B: cmd: done,B,All
+125,0 days 00:03:32,GM: Well done! Both of you are                            indeed in the same room of type: s/staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM,All
+126,0 days 00:03:32,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+127,0 days 00:03:32,GM: ,GM: ,GM: ,GM,All
+128,0 days 00:03:33,GM: Here's your token: 466ZNHL7O,GM: Here's your token: 466ZNHL7O,GM: Here's your token: 466ZNHL7O,GM,All
+129,0 days 00:03:39,A: ,A: ,,A,All
+130,0 days 00:03:39,,,GM: limitless_hanger has left the game.,GM,B
+131,0 days 00:04:28,B: ,,B: ,B,All
+132,0 days 00:04:29,,GM: pleasant_pine has left the game.,,GM,A
+133,0 days 02:31:42,GM: ,GM: ,GM: ,GM,All

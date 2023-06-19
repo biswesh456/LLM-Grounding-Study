@@ -1,0 +1,67 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / p/ parlor/ ADE_train_00015166.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, round_desert! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: j/ jacuzzi/ indoor,,GM,A
+15,0 days 00:00:03,,,GM: url: / n/ newsstand/ outdoor/ ADE_train_00013839.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, great_hat! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: j/ jacuzzi/ indoor,GM,B
+20,0 days 00:00:09,,,B: cmd: w,B,All
+21,0 days 00:00:09,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009942.jpg,GM,B
+23,0 days 00:00:09,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+24,0 days 00:00:12,,A: cmd: e,,A,All
+25,0 days 00:00:12,,GM: url: / b/ bedroom/ ADE_train_00003690.jpg,,GM,A
+27,0 days 00:00:12,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+28,0 days 00:00:16,,A: cmd: e,,A,All
+29,0 days 00:00:17,,,B: cmd: s,B,All
+30,0 days 00:00:17,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009946.jpg,,GM,A
+32,0 days 00:00:18,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+33,0 days 00:00:18,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009948.jpg,GM,B
+35,0 days 00:00:18,,,GM: You can go: [/ s]outh [/ n]orth,GM,B
+36,0 days 00:00:22,,,B: cmd: s,B,All
+37,0 days 00:00:22,,,GM: url: / h/ hotel_room/ ADE_train_00009594.jpg,GM,B
+39,0 days 00:00:22,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+40,0 days 00:00:23,A: hi i am in the jacuzzi room,,,A,All
+41,0 days 00:00:25,,,B: cmd: n,B,All
+42,0 days 00:00:25,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009948.jpg,GM,B
+44,0 days 00:00:25,,,GM: You can go: [/ s]outh [/ n]orth,GM,B
+45,0 days 00:00:34,"B: me too, there are two people in it?",,,B,All
+46,0 days 00:00:35,A: there is a lady here with rose petals,,,A,All
+47,0 days 00:00:38,A: no just one ,,,A,All
+48,0 days 00:00:42,"B: no, ill find you",,,B,All
+49,0 days 00:00:46,,,B: cmd: s,B,All
+50,0 days 00:00:46,,,GM: url: / h/ hotel_room/ ADE_train_00009594.jpg,GM,B
+52,0 days 00:00:46,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+53,0 days 00:00:49,,,B: cmd: s,B,All
+54,0 days 00:00:49,,,GM: url: / b/ bedroom/ ADE_train_00003690.jpg,GM,B
+56,0 days 00:00:49,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+57,0 days 00:00:53,A: there is a painting thing up on the wall on tile,,,A,All
+58,0 days 00:00:56,,,B: cmd: e,B,All
+59,0 days 00:00:56,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009946.jpg,GM,B
+61,0 days 00:00:56,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+62,0 days 00:00:59,A: ill wait here,,,A,All
+63,0 days 00:01:02,B: ok found it,,,B,All
+64,0 days 00:01:05,,,B: cmd: done,B,All
+65,0 days 00:01:05,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+66,0 days 00:01:09,,A: cmd: done,,A,All
+67,0 days 00:01:09,GM: Well done! Both of you are                            indeed in the same room of type: j/jacuzzi/indoor!,GM: Well done! Both of you are                            indeed in the same room of type: j/ jacuzzi/ indoor!,GM: Well done! Both of you are                            indeed in the same room of type: j/ jacuzzi/ indoor!,GM,All
+68,0 days 00:01:09,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+69,0 days 00:01:09,GM: ,GM: ,GM: ,GM,All
+70,0 days 00:01:09,GM: Here's your token: 1016AXF7T8,GM: Here's your token: 1016AXF7T8,GM: Here's your token: 1016AXF7T8,GM,All
+71,0 days 00:01:33,B: ,,B: ,B,All
+72,0 days 00:01:34,,GM: great_hat has left the game.,,GM,A
+73,0 days 00:01:34,A: ,A: ,,A,All
+74,0 days 00:01:34,,,GM: round_desert has left the game.,GM,B
+75,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+76,0 days 00:30:55,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,64 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:02,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / d/ dining_room/ ADE_train_00006895.jpg,,GM,A
+12,0 days 00:00:05,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:05,,"GM: Welcome to the game, fancy_fork! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:05,,GM: You have to meet in the room of type: s/ staircase,,GM,A
+15,0 days 00:00:05,,,GM: url: / g/ garage/ outdoor/ ADE_train_00008507.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ e]ast,GM,B
+18,0 days 00:00:06,,,"GM: Welcome to the game, divine_card! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: s/ staircase,GM,B
+20,0 days 00:00:16,,A: cmd: e,,A,All
+21,0 days 00:00:17,,GM: url: / b/ bedroom/ ADE_train_00003544.jpg,,GM,A
+23,0 days 00:00:17,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+24,0 days 00:00:20,,,B: cmd: look,B,All
+25,0 days 00:00:20,,,GM: You can go: [/ e]ast,GM,B
+26,0 days 00:00:22,,,B: cmd: e,B,All
+27,0 days 00:00:22,,,GM: url: / s/ staircase/ ADE_train_00016780.jpg,GM,B
+29,0 days 00:00:23,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+30,0 days 00:00:28,B: I found a staircase,,,B,All
+31,0 days 00:00:32,,A: cmd: look,,A,All
+32,0 days 00:00:34,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+33,0 days 00:00:36,B: Iron railing with wooden post,,,B,All
+34,0 days 00:00:45,,A: cmd: w,,A,All
+35,0 days 00:00:45,,GM: url: / d/ dining_room/ ADE_train_00006895.jpg,,GM,A
+37,0 days 00:00:46,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+38,0 days 00:00:48,,A: cmd: n,,A,All
+39,0 days 00:00:48,,GM: url: / d/ dining_room/ ADE_train_00007015.jpg,,GM,A
+41,0 days 00:00:48,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+42,0 days 00:00:48,B: a small table with a lamp on it beside the stairs and a plant in a basket,,,B,All
+43,0 days 00:01:01,,A: cmd: w,,A,All
+44,0 days 00:01:01,,GM: url: / s/ staircase/ ADE_train_00016790.jpg,,GM,A
+46,0 days 00:01:02,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+47,0 days 00:01:15,,A: cmd: w,,A,All
+48,0 days 00:01:16,,GM: url: / s/ street/ ADE_train_00017167.jpg,,GM,A
+50,0 days 00:01:16,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+51,0 days 00:01:30,,A: cmd: w,,A,All
+52,0 days 00:01:30,,GM: url: / s/ staircase/ ADE_train_00016792.jpg,,GM,A
+54,0 days 00:01:30,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+55,0 days 00:01:46,,A: cmd: w,,A,All
+56,0 days 00:01:46,,GM: url: / s/ staircase/ ADE_train_00016780.jpg,,GM,A
+58,0 days 00:01:47,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+59,0 days 00:01:54,A: ok im there,,,A,All
+60,0 days 00:01:57,B: cool,,,B,All
+61,0 days 00:01:58,,,B: cmd: done,B,All
+62,0 days 00:01:59,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+63,0 days 00:02:01,,A: cmd: done,,A,All
+64,0 days 00:02:02,GM: Well done! Both of you are                            indeed in the same room of type: s/staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM,All
+65,0 days 00:02:02,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+66,0 days 00:02:02,GM: ,GM: ,GM: ,GM,All
+67,0 days 00:02:02,GM: Here's your token: 958E6ZN2U,GM: Here's your token: 958E6ZN2U,GM: Here's your token: 958E6ZN2U,GM,All
+68,0 days 00:02:26,B: ,,B: ,B,All
+69,0 days 00:02:27,,GM: divine_card has left the game.,,GM,A
+70,0 days 00:02:28,A: ,A: ,,A,All
+71,0 days 00:02:28,,,GM: fancy_fork has left the game.,GM,B
+72,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All

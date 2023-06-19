@@ -1,0 +1,142 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / w/ waiting_room/ ADE_train_00019668.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, wide_bike! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: l/ locker_room,,GM,A
+15,0 days 00:00:05,,,GM: url: / f/ flea_market/ outdoor/ ADE_train_00007957.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ w]est,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, scrawny_silence! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: l/ locker_room,GM,B
+20,0 days 00:00:11,,,B: cmd: s,B,All
+21,0 days 00:00:11,,,GM: Nothing happened.You can go: [/ w]est,GM,B
+22,0 days 00:00:13,,,B: cmd: w,B,All
+23,0 days 00:00:13,,,GM: url: / l/ locker_room/ ADE_train_00011590.jpg,GM,B
+25,0 days 00:00:13,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+26,0 days 00:00:20,B: i'm in a locker room with blue llckers and a bench,,,B,All
+27,0 days 00:00:39,A: I am in what looks like an entertainment room. There are six black recliners and a TV that is turned on.,,,A,All
+28,0 days 00:00:43,,A: cmd: look,,A,All
+29,0 days 00:00:43,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+30,0 days 00:00:45,,A: cmd: s,,A,All
+31,0 days 00:00:45,,GM: url: / d/ dining_room/ ADE_train_00007073.jpg,,GM,A
+33,0 days 00:00:46,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+34,0 days 00:00:53,A: Going South brought me to a kitchen.,,,A,All
+35,0 days 00:00:56,,A: cmd: look,,A,All
+36,0 days 00:00:56,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+37,0 days 00:00:57,,A: cmd: n,,A,All
+38,0 days 00:00:58,,GM: url: / w/ waiting_room/ ADE_train_00019668.jpg,,GM,A
+40,0 days 00:00:58,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+41,0 days 00:00:59,B: go west,,,B,All
+42,0 days 00:01:03,,A: cmd: w,,A,All
+43,0 days 00:01:03,,GM: url: / l/ locker_room/ ADE_train_00011595.jpg,,GM,A
+45,0 days 00:01:03,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+46,0 days 00:01:05,B: we need to get to the locekr room ,,,B,All
+47,0 days 00:01:08,B: it is west,,,B,All
+48,0 days 00:01:10,B: for me at least,,,B,All
+49,0 days 00:01:23,A: It looks like I may be in the locker room. Are the stalls pink?,,,A,All
+50,0 days 00:01:37,,A: cmd: look,,A,All
+51,0 days 00:01:37,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+52,0 days 00:01:40,B: no stalls ,,,B,All
+53,0 days 00:01:44,B: just blue lockers,,,B,All
+54,0 days 00:01:45,B: and a bench ,,,B,All
+55,0 days 00:01:47,,,B: cmd: s,B,All
+56,0 days 00:01:47,,,GM: Nothing happened.You can go: [/ e]ast [/ w]est,GM,B
+57,0 days 00:01:50,,,B: cmd: e,B,All
+58,0 days 00:01:50,,,GM: url: / f/ flea_market/ outdoor/ ADE_train_00007957.jpg,GM,B
+60,0 days 00:01:50,,,GM: You can go: [/ w]est,GM,B
+61,0 days 00:01:51,A: Not there yet.,,,A,All
+62,0 days 00:01:52,,,B: cmd: e,B,All
+63,0 days 00:01:52,,A: cmd: look,,A,All
+64,0 days 00:01:53,,,GM: Nothing happened.You can go: [/ w]est,GM,B
+65,0 days 00:01:53,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+66,0 days 00:01:55,,,B: cmd: w,B,All
+67,0 days 00:01:55,,,GM: url: / l/ locker_room/ ADE_train_00011590.jpg,GM,B
+69,0 days 00:01:56,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+70,0 days 00:01:57,,A: cmd: e,,A,All
+71,0 days 00:01:57,,GM: url: / w/ waiting_room/ ADE_train_00019668.jpg,,GM,A
+73,0 days 00:01:57,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+74,0 days 00:01:58,,,B: cmd: w,B,All
+75,0 days 00:01:58,,,GM: url: / s/ street/ ADE_train_00017341.jpg,GM,B
+77,0 days 00:01:59,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+78,0 days 00:02:00,,A: cmd: look,,A,All
+79,0 days 00:02:00,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+80,0 days 00:02:02,,A: cmd: w,,A,All
+81,0 days 00:02:02,,GM: url: / l/ locker_room/ ADE_train_00011595.jpg,,GM,A
+83,0 days 00:02:02,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+84,0 days 00:02:03,,,B: cmd: n,B,All
+85,0 days 00:02:05,,,GM: url: / l/ locker_room/ ADE_train_00011592.jpg,GM,B
+87,0 days 00:02:05,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+88,0 days 00:02:07,,,B: cmd: e,B,All
+89,0 days 00:02:07,,A: cmd: n,,A,All
+90,0 days 00:02:09,,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+91,0 days 00:02:10,,GM: url: / g/ garage/ outdoor/ ADE_train_00008506.jpg,,GM,A
+93,0 days 00:02:10,,GM: You can go: [/ s]outh,,GM,A
+94,0 days 00:02:10,,A: cmd: n,,A,All
+95,0 days 00:02:11,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+96,0 days 00:02:14,,,B: cmd: s,B,All
+97,0 days 00:02:14,,,GM: url: / s/ street/ ADE_train_00017341.jpg,GM,B
+99,0 days 00:02:14,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+100,0 days 00:02:15,,A: cmd: s,,A,All
+101,0 days 00:02:15,,GM: url: / l/ locker_room/ ADE_train_00011595.jpg,,GM,A
+103,0 days 00:02:16,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+104,0 days 00:02:17,,,B: cmd: r,B,All
+105,0 days 00:02:18,,,B: cmd: n,B,All
+106,0 days 00:02:18,,A: cmd: look,,A,All
+107,0 days 00:02:20,,,GM: url: / l/ locker_room/ ADE_train_00011592.jpg,GM,B
+109,0 days 00:02:20,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+110,0 days 00:02:21,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+111,0 days 00:02:26,,A: cmd: n,,A,All
+112,0 days 00:02:27,,GM: url: / g/ garage/ outdoor/ ADE_train_00008506.jpg,,GM,A
+114,0 days 00:02:28,,GM: You can go: [/ s]outh,,GM,A
+115,0 days 00:02:29,,,B: cmd: w,B,All
+116,0 days 00:02:30,,,GM: url: / l/ locker_room/ ADE_train_00011587.jpg,GM,B
+118,0 days 00:02:30,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+119,0 days 00:02:37,,A: cmd: s,,A,All
+120,0 days 00:02:40,,GM: url: / l/ locker_room/ ADE_train_00011595.jpg,,GM,A
+122,0 days 00:02:40,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+123,0 days 00:02:41,B: im in a locker room with red and white lockers,,,B,All
+124,0 days 00:02:43,,A: cmd: look,,A,All
+125,0 days 00:02:43,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+126,0 days 00:02:49,,A: cmd: n,,A,All
+127,0 days 00:02:49,,GM: url: / g/ garage/ outdoor/ ADE_train_00008506.jpg,,GM,A
+129,0 days 00:02:50,,GM: You can go: [/ s]outh,,GM,A
+130,0 days 00:02:54,,A: cmd: s,,A,All
+131,0 days 00:02:54,,GM: url: / l/ locker_room/ ADE_train_00011595.jpg,,GM,A
+133,0 days 00:02:55,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+134,0 days 00:03:00,,A: cmd: s,,A,All
+135,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+136,0 days 00:03:01,,GM: url: / k/ kitchen/ ADE_train_00010728.jpg,,GM,A
+138,0 days 00:03:01,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+139,0 days 00:03:02,,,B: cmd: done,B,All
+140,0 days 00:03:02,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+141,0 days 00:03:08,A: I'm now in the kitchen.,,,A,All
+142,0 days 00:03:14,,A: cmd: look,,A,All
+143,0 days 00:03:14,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+144,0 days 00:03:21,,A: cmd: s,,A,All
+145,0 days 00:03:22,,GM: url: / l/ locker_room/ ADE_train_00011587.jpg,,GM,A
+147,0 days 00:03:22,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+148,0 days 00:03:29,A: Looks like I'm in the locker room now.,,,A,All
+149,0 days 00:03:44,A: But my lockers are orange and white.,,,A,All
+150,0 days 00:03:47,B: mien are also,,,B,All
+151,0 days 00:03:51,B: stay tehre,,,B,All
+152,0 days 00:03:53,B: press done,,,B,All
+153,0 days 00:04:02,,A: cmd: me,,A,All
+154,0 days 00:04:04,,A: cmd: done,,A,All
+155,0 days 00:04:05,GM: Well done! Both of you are                            indeed in the same room of type: l/locker_room!,GM: Well done! Both of you are                            indeed in the same room of type: l/ locker_room!,GM: Well done! Both of you are                            indeed in the same room of type: l/ locker_room!,GM,All
+156,0 days 00:04:05,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+157,0 days 00:04:05,GM: ,GM: ,GM: ,GM,All
+158,0 days 00:04:06,GM: Here's your token: 211W9HDD6,GM: Here's your token: 211W9HDD6,GM: Here's your token: 211W9HDD6,GM,All
+159,0 days 00:04:17,A: ,A: ,,A,All
+160,0 days 00:04:17,,,GM: wide_bike has left the game.,GM,B
+161,0 days 00:04:42,B: ,,B: ,B,All
+162,0 days 00:04:42,,GM: scrawny_silence has left the game.,,GM,A
+163,0 days 01:41:12,GM: ,GM: ,GM: ,GM,All

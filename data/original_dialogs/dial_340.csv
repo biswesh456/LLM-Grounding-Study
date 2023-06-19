@@ -1,0 +1,64 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / l/ living_room/ ADE_train_00000809.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, filthy_puddle! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: j/ jacuzzi/ indoor,,GM,A
+15,0 days 00:00:04,,,GM: url: / h/ home_theater/ ADE_train_00009424.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, sensitive_volcano! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: j/ jacuzzi/ indoor,GM,B
+20,0 days 00:00:05,A: Hello,,,A,All
+21,0 days 00:00:11,B: Hi!,,,B,All
+22,0 days 00:00:15,,,B: cmd: s,B,All
+23,0 days 00:00:15,,,GM: url: / b/ bedroom/ ADE_train_00000290.jpg,GM,B
+25,0 days 00:00:15,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+26,0 days 00:00:19,,,B: cmd: s,B,All
+27,0 days 00:00:19,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009952.jpg,GM,B
+29,0 days 00:00:19,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+30,0 days 00:00:28,,A: cmd: n,,A,All
+31,0 days 00:00:28,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009941.jpg,,GM,A
+33,0 days 00:00:28,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+34,0 days 00:00:29,"B: I've found one, let me know when you do. ",,,B,All
+35,0 days 00:00:49,B: This one has hot tub in the foreground. Big pool in the back. ,,,B,All
+36,0 days 00:01:04,B: Ladder and stairs down to the hottub. ,,,B,All
+37,0 days 00:01:22,A: deep pool looking thing with a row of loungers in the back of the room and a row of large windows?,,,A,All
+38,0 days 00:01:54,B: Yes. Bit of a plant on the left side and a plant in the back corner of the room?,,,B,All
+39,0 days 00:02:28,A: Negative. do you want to move or do you want me to?,,,A,All
+40,0 days 00:02:33,B: I will. ,,,B,All
+41,0 days 00:02:41,B: Describe it a bit more and I'll keep looking. ,,,B,All
+42,0 days 00:02:43,,,B: cmd: s,B,All
+43,0 days 00:02:43,,,GM: Nothing happened.You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+44,0 days 00:02:48,,,B: cmd: w,B,All
+45,0 days 00:02:49,,,GM: url: / l/ living_room/ ADE_train_00000809.jpg,GM,B
+47,0 days 00:02:49,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+48,0 days 00:02:55,,,B: cmd: n,B,All
+49,0 days 00:02:55,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009941.jpg,GM,B
+51,0 days 00:02:55,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+52,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+53,0 days 00:03:13,"A: Okay, there is a 3 Feet indicator to the right.",,,A,All
+54,0 days 00:03:20,B: Is there a blue pipe in the bottom of the photo?,,,B,All
+55,0 days 00:03:33,A: Yes!,,,A,All
+56,0 days 00:03:34,B: Perfect! Done. ,,,B,All
+57,0 days 00:03:38,B: Thanks. ,,,B,All
+58,0 days 00:03:41,,,B: cmd: done,B,All
+59,0 days 00:03:41,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+60,0 days 00:03:42,,A: cmd: done,,A,All
+61,0 days 00:03:42,GM: Well done! Both of you are                            indeed in the same room of type: j/jacuzzi/indoor!,GM: Well done! Both of you are                            indeed in the same room of type: j/ jacuzzi/ indoor!,GM: Well done! Both of you are                            indeed in the same room of type: j/ jacuzzi/ indoor!,GM,All
+62,0 days 00:03:42,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+63,0 days 00:03:42,GM: ,GM: ,GM: ,GM,All
+64,0 days 00:03:43,GM: Here's your token: 321AP365Q,GM: Here's your token: 321AP365Q,GM: Here's your token: 321AP365Q,GM,All
+65,0 days 00:04:00,B: ,,B: ,B,All
+66,0 days 00:04:00,,GM: sensitive_volcano has left the game.,,GM,A
+67,0 days 00:04:19,A: ,A: ,,A,All
+68,0 days 00:04:19,,,GM: filthy_puddle has left the game.,GM,B
+69,0 days 04:12:19,GM: ,GM: ,GM: ,GM,All

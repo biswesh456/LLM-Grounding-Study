@@ -1,0 +1,61 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:00,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:00,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / b/ bedroom/ ADE_train_00003650.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, wide_moss! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:02,,GM: You have to meet in the room of type: h/ home_office,,GM,A
+15,0 days 00:00:03,,,GM: url: / k/ kitchen/ ADE_train_00010484.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, icy_tobacco! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: h/ home_office,GM,B
+20,0 days 00:00:23,,,B: cmd: n,B,All
+21,0 days 00:00:23,,,GM: url: / h/ home_office/ ADE_train_00009372.jpg,GM,B
+23,0 days 00:00:24,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+24,0 days 00:00:34,A: i am in a bedroom right now with two beds,,,A,All
+25,0 days 00:00:39,B: Im in a home office,,,B,All
+26,0 days 00:00:51,A: ok let me move around,,,A,All
+27,0 days 00:00:52,B: It also has a drum set in it,,,B,All
+28,0 days 00:01:03,B: 2 guitars on the wall,,,B,All
+29,0 days 00:01:07,,A: cmd: n,,A,All
+30,0 days 00:01:07,,GM: url: / k/ kitchen/ ADE_train_00010484.jpg,,GM,A
+32,0 days 00:01:07,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+33,0 days 00:01:20,,A: cmd: w,,A,All
+34,0 days 00:01:20,,GM: url: / h/ home_office/ ADE_train_00009367.jpg,,GM,A
+36,0 days 00:01:20,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+37,0 days 00:01:21,B: I moved north from a kitchen to get here,,,B,All
+38,0 days 00:01:45,A: go west,,,A,All
+39,0 days 00:02:00,"A: i am in a room with a computer, printer and tv",,,A,All
+40,0 days 00:02:02,A: office,,,A,All
+41,0 days 00:02:21,A: let me try that ,,,A,All
+42,0 days 00:02:37,,A: cmd: e,,A,All
+43,0 days 00:02:37,,GM: url: / k/ kitchen/ ADE_train_00010484.jpg,,GM,A
+45,0 days 00:02:38,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+46,0 days 00:02:48,,A: cmd: n,,A,All
+47,0 days 00:02:49,,GM: url: / h/ home_office/ ADE_train_00009372.jpg,,GM,A
+49,0 days 00:02:49,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+50,0 days 00:02:56,A: oki a there,,,A,All
+51,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+52,0 days 00:03:02,A: with drum set,,,A,All
+53,0 days 00:03:06,B: Ok,,,B,All
+54,0 days 00:03:08,,A: cmd: done,,A,All
+55,0 days 00:03:08,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+56,0 days 00:03:09,B: Great,,,B,All
+57,0 days 00:03:13,,,B: cmd: done,B,All
+58,0 days 00:03:13,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM,All
+59,0 days 00:03:14,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+60,0 days 00:03:14,GM: ,GM: ,GM: ,GM,All
+61,0 days 00:03:14,GM: Here's your token: 116SYQSTR,GM: Here's your token: 116SYQSTR,GM: Here's your token: 116SYQSTR,GM,All
+62,0 days 00:03:34,A: ,A: ,,A,All
+63,0 days 00:03:35,,,GM: wide_moss has left the game.,GM,B
+64,0 days 00:09:26,B: ,,B: ,B,All
+65,0 days 00:09:26,,GM: icy_tobacco has left the game.,,GM,A
+66,0 days 03:00:18,GM: ,GM: ,GM: ,GM,All

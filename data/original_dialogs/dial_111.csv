@@ -1,0 +1,77 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / b/ bedroom/ ADE_train_00000216.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, joyful_clock! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: h/ home_office,,GM,A
+15,0 days 00:00:03,,,GM: url: / a/ attic/ ADE_train_00001957.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, moonlit_scotchtape! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: h/ home_office,GM,B
+20,0 days 00:00:09,,,B: cmd: s,B,All
+21,0 days 00:00:10,,,GM: url: / h/ home_office/ ADE_train_00009330.jpg,GM,B
+23,0 days 00:00:10,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+24,0 days 00:00:21,"A: Hello,",,,A,All
+25,0 days 00:00:21,B: i found a home/office computer station,,,B,All
+26,0 days 00:00:24,A: I am in a bedroom,,,A,All
+27,0 days 00:00:26,A: Ok ,,,A,All
+28,0 days 00:00:30,A: What does it look like,,,A,All
+29,0 days 00:00:33,,A: cmd: look,,A,All
+30,0 days 00:00:33,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+31,0 days 00:00:35,,A: cmd: s,,A,All
+32,0 days 00:00:36,,GM: url: / k/ kiosk/ outdoor/ ADE_train_00010143.jpg,,GM,A
+34,0 days 00:00:36,,GM: You can go: [/ n]orth,,GM,A
+35,0 days 00:00:36,B: has wood floors and a tiny computer screen on the desk,,,B,All
+36,0 days 00:00:40,,A: cmd: n,,A,All
+37,0 days 00:00:40,,GM: url: / b/ bedroom/ ADE_train_00000216.jpg,,GM,A
+39,0 days 00:00:40,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+40,0 days 00:00:42,A: Ok,,,A,All
+41,0 days 00:00:45,,A: cmd: w,,A,All
+42,0 days 00:00:45,,GM: url: / h/ home_office/ ADE_train_00009392.jpg,,GM,A
+44,0 days 00:00:46,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+45,0 days 00:00:48,B: a printer to the left on a side table,,,B,All
+46,0 days 00:00:58,,,B: cmd: s,B,All
+47,0 days 00:00:58,,,GM: url: / d/ dining_room/ ADE_train_00007140.jpg,GM,B
+49,0 days 00:00:58,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+50,0 days 00:01:01,,,B: cmd: s,B,All
+51,0 days 00:01:01,,,GM: url: / h/ home_office/ ADE_train_00009392.jpg,GM,B
+53,0 days 00:01:01,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+54,0 days 00:01:04,"A: What color is the chair , is there a chair?",,,A,All
+55,0 days 00:01:09,,A: cmd: n,,A,All
+56,0 days 00:01:09,,GM: url: / d/ dining_room/ ADE_train_00007140.jpg,,GM,A
+58,0 days 00:01:09,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+59,0 days 00:01:10,B: i found another one with a red chair,,,B,All
+60,0 days 00:01:20,A: I was in the one with a red chair,,,A,All
+61,0 days 00:01:24,,A: cmd: s,,A,All
+62,0 days 00:01:24,,GM: url: / h/ home_office/ ADE_train_00009392.jpg,,GM,A
+64,0 days 00:01:24,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+65,0 days 00:01:25,B: go to the red chair,,,B,All
+66,0 days 00:01:27,A: Ok,,,A,All
+67,0 days 00:01:29,A: I am there,,,A,All
+68,0 days 00:01:34,B: two computer screens?,,,B,All
+69,0 days 00:01:37,A: Yes,,,A,All
+70,0 days 00:01:42,B: file drawers on the left?,,,B,All
+71,0 days 00:01:45,A: Yes,,,A,All
+72,0 days 00:01:46,B: ok,,,B,All
+73,0 days 00:01:47,,,B: cmd: done,B,All
+74,0 days 00:01:47,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+75,0 days 00:01:50,,A: cmd: done,,A,All
+76,0 days 00:01:50,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM,All
+77,0 days 00:01:50,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+78,0 days 00:01:53,GM: ,GM: ,GM: ,GM,All
+79,0 days 00:01:53,GM: Here's your token: 409ELPWLY,GM: Here's your token: 409ELPWLY,GM: Here's your token: 409ELPWLY,GM,All
+80,0 days 00:01:59,B: ,,B: ,B,All
+81,0 days 00:01:59,,GM: moonlit_scotchtape has left the game.,,GM,A
+82,0 days 00:02:11,A: ,A: ,,A,All
+83,0 days 00:02:11,,,GM: joyful_clock has left the game.,GM,B
+84,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+85,0 days 03:08:18,GM: ,GM: ,GM: ,GM,All

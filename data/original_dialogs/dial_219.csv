@@ -1,0 +1,76 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / b/ bathroom/ ADE_train_00000052.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, tropical_soap! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: c/ childs_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / b/ bedroom/ ADE_train_00003265.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, steep_piggy_bank! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: c/ childs_room,GM,B
+20,0 days 00:00:07,,A: cmd: n,,A,All
+21,0 days 00:00:07,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+22,0 days 00:00:10,,A: cmd: s,,A,All
+23,0 days 00:00:10,,GM: url: / h/ home_office/ ADE_train_00009383.jpg,,GM,A
+25,0 days 00:00:10,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+26,0 days 00:00:19,,,B: cmd: n,B,All
+27,0 days 00:00:19,,,GM: url: / c/ childs_room/ ADE_train_00005525.jpg,GM,B
+29,0 days 00:00:19,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+30,0 days 00:00:23,,A: cmd: e,,A,All
+31,0 days 00:00:23,,GM: Nothing happened.You can go: [/ n]orth [/ w]est,,GM,A
+32,0 days 00:00:27,,A: cmd: w,,A,All
+33,0 days 00:00:27,,GM: url: / c/ childs_room/ ADE_train_00005500.jpg,,GM,A
+35,0 days 00:00:27,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+36,0 days 00:00:32,"B: I'm there, I think.",,,B,All
+37,0 days 00:00:38,A: describe it,,,A,All
+38,0 days 00:00:58,B: There are bugs hanging from the ceiling.,,,B,All
+39,0 days 00:01:10,A: okay I'll find you,,,A,All
+40,0 days 00:01:18,,A: cmd: n,,A,All
+41,0 days 00:01:18,,GM: url: / c/ childs_room/ ADE_train_00005491.jpg,,GM,A
+43,0 days 00:01:18,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+44,0 days 00:01:23,,A: cmd: n,,A,All
+45,0 days 00:01:23,B: One bed with blue pillows,,,B,All
+46,0 days 00:01:23,,GM: url: / j/ jacuzzi/ outdoor/ ADE_train_00009965.jpg,,GM,A
+48,0 days 00:01:24,,GM: You can go: [/ s]outh,,GM,A
+49,0 days 00:01:27,,A: cmd: s,,A,All
+50,0 days 00:01:28,,GM: url: / c/ childs_room/ ADE_train_00005491.jpg,,GM,A
+52,0 days 00:01:28,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+53,0 days 00:01:30,,A: cmd: e,,A,All
+54,0 days 00:01:31,,GM: url: / b/ bathroom/ ADE_train_00000052.jpg,,GM,A
+56,0 days 00:01:31,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+57,0 days 00:01:33,,A: cmd: e,,A,All
+58,0 days 00:01:34,,GM: url: / b/ bedroom/ ADE_train_00003265.jpg,,GM,A
+60,0 days 00:01:34,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+61,0 days 00:01:37,,A: cmd: e,,A,All
+62,0 days 00:01:37,,GM: url: / h/ hotel_room/ ADE_train_00009657.jpg,,GM,A
+64,0 days 00:01:37,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+65,0 days 00:01:42,,A: cmd: n,,A,All
+66,0 days 00:01:43,,GM: url: / c/ childs_room/ ADE_train_00005498.jpg,,GM,A
+68,0 days 00:01:43,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+69,0 days 00:01:52,,A: cmd: w,,A,All
+70,0 days 00:01:52,,GM: url: / c/ childs_room/ ADE_train_00005525.jpg,,GM,A
+72,0 days 00:01:53,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+73,0 days 00:02:14,A: blue awning type thing over the window?,,,A,All
+74,0 days 00:02:20,B: Yep :),,,B,All
+75,0 days 00:02:24,,A: cmd: done,,A,All
+76,0 days 00:02:24,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+77,0 days 00:02:29,,,B: cmd: done,B,All
+78,0 days 00:02:29,GM: Well done! Both of you are                            indeed in the same room of type: c/childs_room!,GM: Well done! Both of you are                            indeed in the same room of type: c/ childs_room!,GM: Well done! Both of you are                            indeed in the same room of type: c/ childs_room!,GM,All
+79,0 days 00:02:29,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+80,0 days 00:02:29,GM: ,GM: ,GM: ,GM,All
+81,0 days 00:02:29,GM: Here's your token: 6792ZQ2GM,GM: Here's your token: 6792ZQ2GM,GM: Here's your token: 6792ZQ2GM,GM,All
+82,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+83,0 days 00:03:04,A: ,A: ,,A,All
+84,0 days 00:03:05,,,GM: tropical_soap has left the game.,GM,B
+85,0 days 00:03:16,B: ,,B: ,B,All
+86,0 days 00:03:16,,GM: steep_piggy_bank has left the game.,,GM,A
+87,0 days 03:22:26,GM: ,GM: ,GM: ,GM,All

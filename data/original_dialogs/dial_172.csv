@@ -1,0 +1,105 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001471.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ n]orth,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, broken_summer! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: k/ kitchen,,GM,A
+15,0 days 00:00:04,,,GM: url: / s/ street/ ADE_train_00017407.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, jubilant_rope! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: k/ kitchen,GM,B
+20,0 days 00:00:14,A: Hi,,,A,All
+21,0 days 00:00:18,,A: cmd: n,,A,All
+22,0 days 00:00:18,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009939.jpg,,GM,A
+24,0 days 00:00:18,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+25,0 days 00:00:24,B: hi,,,B,All
+26,0 days 00:00:27,,A: cmd: w,,A,All
+27,0 days 00:00:28,,GM: url: / b/ bedroom/ ADE_train_00004125.jpg,,GM,A
+29,0 days 00:00:28,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+30,0 days 00:00:34,,A: cmd: w,,A,All
+31,0 days 00:00:35,,GM: url: / s/ street/ ADE_train_00017407.jpg,,GM,A
+33,0 days 00:00:35,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+34,0 days 00:00:44,,A: cmd: n,,A,All
+35,0 days 00:00:45,,GM: url: / s/ street/ ADE_train_00017796.jpg,,GM,A
+37,0 days 00:00:45,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+38,0 days 00:00:49,,A: cmd: n,,A,All
+39,0 days 00:00:50,,GM: url: / k/ kitchen/ ADE_train_00010395.jpg,,GM,A
+41,0 days 00:00:50,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+42,0 days 00:01:03,A: I've found a kitchen. ,,,A,All
+43,0 days 00:01:07,A: Have you yet?,,,A,All
+44,0 days 00:01:14,B: I have not ,,,B,All
+45,0 days 00:01:48,B: [/n]orth,,,B,All
+46,0 days 00:01:58,A: Let me know when you find one. ,,,A,All
+47,0 days 00:02:07,,,B: cmd: n,B,All
+48,0 days 00:02:07,,,GM: url: / s/ street/ ADE_train_00017796.jpg,GM,B
+50,0 days 00:02:07,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+51,0 days 00:02:14,,,B: cmd: s,B,All
+52,0 days 00:02:14,,,GM: url: / s/ street/ ADE_train_00017407.jpg,GM,B
+54,0 days 00:02:15,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+55,0 days 00:02:21,,,B: cmd: e\,B,All
+56,0 days 00:02:25,,,B: cmd: e,B,All
+57,0 days 00:02:26,,,GM: url: / b/ bedroom/ ADE_train_00004125.jpg,GM,B
+59,0 days 00:02:26,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+60,0 days 00:02:30,,,B: cmd: w,B,All
+61,0 days 00:02:31,,,GM: url: / s/ street/ ADE_train_00017407.jpg,GM,B
+63,0 days 00:02:31,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+64,0 days 00:02:36,,,B: cmd: n,B,All
+65,0 days 00:02:37,,,GM: url: / s/ street/ ADE_train_00017796.jpg,GM,B
+67,0 days 00:02:37,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+68,0 days 00:02:41,,,B: cmd: e,B,All
+69,0 days 00:02:41,,,GM: url: / k/ kitchen/ ADE_train_00010449.jpg,GM,B
+71,0 days 00:02:41,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+72,0 days 00:02:47,B: I found kitchen,,,B,All
+73,0 days 00:02:56,A: What's it look like?,,,A,All
+74,0 days 00:03:02,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+75,0 days 00:03:04,B: cluttered counter top ,,,B,All
+76,0 days 00:03:09,B: hanging lights,,,B,All
+77,0 days 00:03:13,B: brown cabinets,,,B,All
+78,0 days 00:03:25,A: Mine has fridge covered with pictures. Wine rack on the left. Two chairs in front of a bar. ,,,A,All
+79,0 days 00:03:34,A: Do you want to stay there and I'll find you?,,,A,All
+80,0 days 00:03:34,B: not the same kitchen ,,,B,All
+81,0 days 00:03:41,,A: cmd: n,,A,All
+82,0 days 00:03:41,,GM: url: / k/ kitchen/ ADE_train_00010603.jpg,,GM,A
+84,0 days 00:03:42,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+85,0 days 00:03:44,"B: yes, that would be gret",,,B,All
+86,0 days 00:04:01,A: Is it lots of stainless steel and plants on the counter?,,,A,All
+87,0 days 00:04:08,B: no ,,,B,All
+88,0 days 00:04:11,A: Okay,,,A,All
+89,0 days 00:04:15,,A: cmd: e,,A,All
+90,0 days 00:04:15,,GM: url: / b/ bedroom/ ADE_train_00000243.jpg,,GM,A
+92,0 days 00:04:15,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+93,0 days 00:04:23,,A: cmd: s,,A,All
+94,0 days 00:04:24,,GM: url: / k/ kitchen/ ADE_train_00010692.jpg,,GM,A
+96,0 days 00:04:24,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+97,0 days 00:04:25,"B: there is something green in a sink, very standard kitchen no appliances ",,,B,All
+98,0 days 00:04:32,B: radio on counter with clutter food and stuff,,,B,All
+99,0 days 00:05:04,A: Towel hanging off the edge of the counter?,,,A,All
+100,0 days 00:05:19,B: no ,,,B,All
+101,0 days 00:05:27,,A: cmd: s,,A,All
+102,0 days 00:05:28,,GM: url: / k/ kitchen/ ADE_train_00010449.jpg,,GM,A
+104,0 days 00:05:28,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+105,0 days 00:05:45,A: Yellow helmet? Two windows? ,,,A,All
+106,0 days 00:05:47,B: there is a yellow hard hat in the middle of counter top by the radio ,,,B,All
+107,0 days 00:05:50,B: yes thats it ,,,B,All
+108,0 days 00:05:52,A: Found it!,,,A,All
+109,0 days 00:05:54,,A: cmd: done,,A,All
+110,0 days 00:05:55,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+111,0 days 00:06:02,,,B: cmd: done,B,All
+112,0 days 00:06:03,GM: Well done! Both of you are                            indeed in the same room of type: k/kitchen!,GM: Well done! Both of you are                            indeed in the same room of type: k/ kitchen!,GM: Well done! Both of you are                            indeed in the same room of type: k/ kitchen!,GM,All
+113,0 days 00:06:03,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+114,0 days 00:06:03,GM: ,GM: ,GM: ,GM,All
+115,0 days 00:06:04,GM: Here's your token: 478IKJX9L,GM: Here's your token: 478IKJX9L,GM: Here's your token: 478IKJX9L,GM,All
+116,0 days 00:06:22,B: ,,B: ,B,All
+117,0 days 00:06:23,,GM: jubilant_rope has left the game.,,GM,A
+118,0 days 00:06:33,A: ,A: ,,A,All
+119,0 days 00:06:33,,,GM: broken_summer has left the game.,GM,B
+120,0 days 02:25:20,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,74 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / s/ street/ ADE_train_00018583.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, broad_soap! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: d/ dining_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / l/ living_room/ ADE_train_00000919.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, hollow_desert! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: d/ dining_room,GM,B
+20,0 days 00:00:09,,,B: cmd: n,B,All
+21,0 days 00:00:10,,,GM: url: / h/ hotel_room/ ADE_train_00009605.jpg,GM,B
+23,0 days 00:00:10,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+24,0 days 00:00:16,,,B: cmd: e,B,All
+25,0 days 00:00:17,,,GM: url: / s/ street/ ADE_train_00018583.jpg,GM,B
+27,0 days 00:00:17,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+28,0 days 00:00:25,,,B: cmd: e,B,All
+29,0 days 00:00:25,,,GM: url: / d/ dining_room/ ADE_train_00006949.jpg,GM,B
+31,0 days 00:00:26,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+32,0 days 00:00:30,B: i am in a dining room,,,B,All
+33,0 days 00:00:37,B: pinkish purple walls,,,B,All
+34,0 days 00:00:41,B: chandelier is gold,,,B,All
+35,0 days 00:00:59,A: I'm outside of a building ,,,A,All
+36,0 days 00:01:13,"B: okay, you should be close",,,B,All
+37,0 days 00:01:19,B: we gotta meet in a dining room,,,B,All
+38,0 days 00:01:54,A: Do you know how to move from room to room?,,,A,All
+39,0 days 00:01:58,A: I'm a little stuck here,,,A,All
+40,0 days 00:02:14,"B: type a slash and then the first letter of the direction, north west south or east",,,B,All
+41,0 days 00:02:33,B: it says it at the top right above the images,,,B,All
+42,0 days 00:02:38,,A: cmd: n,,A,All
+43,0 days 00:02:38,,GM: url: / d/ dining_room/ ADE_train_00007232.jpg,,GM,A
+45,0 days 00:02:39,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+46,0 days 00:02:57,A: Ahh okay,,,A,All
+47,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+48,0 days 00:03:03,A: I'm in a dinning room,,,A,All
+49,0 days 00:03:13,B: what color is the wall??,,,B,All
+50,0 days 00:03:31,A: Beige with crosses on the wall next to the window,,,A,All
+51,0 days 00:03:39,B: stay there,,,B,All
+52,0 days 00:03:39,A: Chandelier right above the table,,,A,All
+53,0 days 00:03:49,,,B: cmd: n,B,All
+54,0 days 00:03:49,,,GM: url: / d/ dining_room/ ADE_train_00006988.jpg,GM,B
+56,0 days 00:03:49,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+57,0 days 00:04:02,B: does it look really classy?,,,B,All
+58,0 days 00:04:07,B: rug underneath?,,,B,All
+59,0 days 00:04:14,A: No rug,,,A,All
+60,0 days 00:04:25,,,B: cmd: w,B,All
+61,0 days 00:04:25,,,GM: url: / d/ dining_room/ ADE_train_00007232.jpg,GM,B
+63,0 days 00:04:26,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+64,0 days 00:04:41,B: i found it,,,B,All
+65,0 days 00:04:46,B: type done,,,B,All
+66,0 days 00:04:47,,,B: cmd: done,B,All
+67,0 days 00:04:48,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+68,0 days 00:04:58,A: brown tiles for the flooring?,,,A,All
+69,0 days 00:05:00,B: slash then done,,,B,All
+70,0 days 00:05:03,B: yes i found it,,,B,All
+71,0 days 00:05:06,,A: cmd: done,,A,All
+72,0 days 00:05:06,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM,All
+73,0 days 00:05:06,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+74,0 days 00:05:06,GM: ,GM: ,GM: ,GM,All
+75,0 days 00:05:06,GM: Here's your token: 773GJST5V,GM: Here's your token: 773GJST5V,GM: Here's your token: 773GJST5V,GM,All
+76,0 days 00:06:28,A: ,A: ,,A,All
+77,0 days 00:06:28,,,GM: broad_soap has left the game.,GM,B
+78,0 days 00:07:06,B: ,,B: ,B,All
+79,0 days 00:07:06,,GM: hollow_desert has left the game.,,GM,A
+80,0 days 01:31:33,GM: ,GM: ,GM: ,GM,All

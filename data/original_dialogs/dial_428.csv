@@ -1,0 +1,55 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / i/ inn/ outdoor/ ADE_train_00009892.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, chubby_badlands! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: d/ dining_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / c/ cathedral/ outdoor/ ADE_train_00005312.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, wooden_charger! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: d/ dining_room,GM,B
+20,0 days 00:00:10,,,B: cmd: n,B,All
+21,0 days 00:00:11,,,GM: Nothing happened.You can go: [/ s]outh,GM,B
+22,0 days 00:00:14,,,B: cmd: s,B,All
+23,0 days 00:00:14,,,GM: url: / k/ kitchen/ ADE_train_00010209.jpg,GM,B
+25,0 days 00:00:14,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,GM,B
+26,0 days 00:00:14,,A: cmd: e,,A,All
+27,0 days 00:00:14,,GM: url: / k/ kitchen/ ADE_train_00010209.jpg,,GM,A
+29,0 days 00:00:15,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+30,0 days 00:00:17,,,B: cmd: e,B,All
+31,0 days 00:00:18,,,GM: url: / d/ dining_room/ ADE_train_00007088.jpg,GM,B
+33,0 days 00:00:18,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+34,0 days 00:00:19,,A: cmd: e,,A,All
+35,0 days 00:00:20,,GM: url: / d/ dining_room/ ADE_train_00007088.jpg,,GM,A
+37,0 days 00:00:20,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+38,0 days 00:00:31,"A: Hi there, I'm in a dining room with a reddish color tint",,,A,All
+39,0 days 00:00:59,A: There's a big crystal chandelier and fancy looking curtains,,,A,All
+40,0 days 00:01:29,B: flowers on the right under the window?,,,B,All
+41,0 days 00:01:47,A: Yes,,,A,All
+42,0 days 00:01:50,B: whitish chair with design on back?,,,B,All
+43,0 days 00:01:53,A: And one chair that looks different,,,A,All
+44,0 days 00:01:59,A: yeah with yellowish seat,,,A,All
+45,0 days 00:02:09,B: 4 candles,,,B,All
+46,0 days 00:02:13,A: yes,,,A,All
+47,0 days 00:02:14,,A: cmd: done,,A,All
+48,0 days 00:02:15,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+49,0 days 00:02:18,,,B: cmd: done,B,All
+50,0 days 00:02:18,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM,All
+51,0 days 00:02:18,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+52,0 days 00:02:19,GM: ,GM: ,GM: ,GM,All
+53,0 days 00:02:19,GM: Here's your token: 11402FF3V0,GM: Here's your token: 11402FF3V0,GM: Here's your token: 11402FF3V0,GM,All
+54,0 days 00:02:23,A: ,A: ,,A,All
+55,0 days 00:02:24,,,GM: chubby_badlands has left the game.,GM,B
+56,0 days 00:02:50,B: ,,B: ,B,All
+57,0 days 00:02:50,,GM: wooden_charger has left the game.,,GM,A
+58,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+59,0 days 00:23:00,GM: ,GM: ,GM: ,GM,All

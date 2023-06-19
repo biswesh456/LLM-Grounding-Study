@@ -1,0 +1,54 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / s/ street/ ADE_train_00018615.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, affectionate_sands! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: l/ locker_room,,GM,A
+15,0 days 00:00:04,,,GM: url: / b/ bedroom/ ADE_train_00003569.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, teeny_summer! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: l/ locker_room,GM,B
+20,0 days 00:00:10,,A: cmd: s,,A,All
+21,0 days 00:00:11,,GM: url: / l/ locker_room/ ADE_train_00011590.jpg,,GM,A
+23,0 days 00:00:11,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+24,0 days 00:00:19,A: found a locker room with blue lockerse on left,,,A,All
+25,0 days 00:00:23,B: Hey. I'm in a bedroom with an open door,,,B,All
+26,0 days 00:00:24,,A: cmd: e,,A,All
+27,0 days 00:00:24,,GM: url: / b/ bedroom/ ADE_train_00003569.jpg,,GM,A
+29,0 days 00:00:24,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+30,0 days 00:00:28,A: go west,,,A,All
+31,0 days 00:00:31,,A: cmd: w,,A,All
+32,0 days 00:00:32,,GM: url: / l/ locker_room/ ADE_train_00011590.jpg,,GM,A
+34,0 days 00:00:32,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+35,0 days 00:00:33,,,B: cmd: look,B,All
+36,0 days 00:00:33,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+37,0 days 00:00:37,B: Okay,,,B,All
+38,0 days 00:00:38,A: see blue lockers?,,,A,All
+39,0 days 00:00:38,,,B: cmd: w,B,All
+40,0 days 00:00:38,,,GM: url: / l/ locker_room/ ADE_train_00011590.jpg,GM,B
+42,0 days 00:00:39,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+43,0 days 00:00:54,B: Yep! That was quick. One blue towel hanging off them?,,,B,All
+44,0 days 00:00:57,,A: cmd: done,,A,All
+45,0 days 00:00:58,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+46,0 days 00:00:59,A: yep,,,A,All
+47,0 days 00:01:05,B: Awesome,,,B,All
+48,0 days 00:01:07,,,B: cmd: done,B,All
+49,0 days 00:01:08,GM: Well done! Both of you are                            indeed in the same room of type: l/locker_room!,GM: Well done! Both of you are                            indeed in the same room of type: l/ locker_room!,GM: Well done! Both of you are                            indeed in the same room of type: l/ locker_room!,GM,All
+50,0 days 00:01:08,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+51,0 days 00:01:08,GM: ,GM: ,GM: ,GM,All
+52,0 days 00:01:09,GM: Here's your token: 530GT1QGH,GM: Here's your token: 530GT1QGH,GM: Here's your token: 530GT1QGH,GM,All
+53,0 days 00:01:15,A: ,A: ,,A,All
+54,0 days 00:01:15,,,GM: affectionate_sands has left the game.,GM,B
+55,0 days 00:01:30,B: ,,B: ,B,All
+56,0 days 00:01:30,,GM: teeny_summer has left the game.,,GM,A
+57,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+58,0 days 01:53:18,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,67 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006223.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, average_canopy! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: b/ bathroom,,GM,A
+15,0 days 00:00:04,,,GM: url: / b/ bedroom/ ADE_train_00003536.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, voiceless_spear! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: b/ bathroom,GM,B
+20,0 days 00:00:12,,,B: cmd: n,B,All
+21,0 days 00:00:13,,A: cmd: look,,A,All
+22,0 days 00:00:13,,,GM: url: / s/ street/ ADE_train_00018434.jpg,GM,B
+24,0 days 00:00:13,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+25,0 days 00:00:14,,GM: You can go: [/ n]orth,,GM,A
+26,0 days 00:00:18,,,B: cmd: n,B,All
+27,0 days 00:00:18,,A: cmd: n,,A,All
+28,0 days 00:00:18,,,GM: url: / s/ street/ ADE_train_00018506.jpg,GM,B
+30,0 days 00:00:18,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+31,0 days 00:00:19,,GM: url: / b/ bathroom/ ADE_train_00003001.jpg,,GM,A
+33,0 days 00:00:19,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+34,0 days 00:00:22,,,B: cmd: n,B,All
+35,0 days 00:00:23,,,GM: url: / b/ bathroom/ ADE_train_00002728.jpg,GM,B
+37,0 days 00:00:23,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+38,0 days 00:00:29,,,B: cmd: e,B,All
+39,0 days 00:00:29,,,GM: url: / b/ bedroom/ ADE_train_00003827.jpg,GM,B
+41,0 days 00:00:29,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+42,0 days 00:00:32,,,B: cmd: s,B,All
+43,0 days 00:00:32,,,GM: url: / n/ nursery/ ADE_train_00013914.jpg,GM,B
+45,0 days 00:00:33,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+46,0 days 00:00:35,,,B: cmd: s,B,All
+47,0 days 00:00:35,,,GM: url: / b/ bathroom/ ADE_train_00002766.jpg,GM,B
+49,0 days 00:00:35,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+50,0 days 00:00:38,"A: I'm in a bathroom with a wooden bathtub, plant on the side",,,A,All
+51,0 days 00:00:46,,,B: cmd: s,B,All
+52,0 days 00:00:46,B: ok,,,B,All
+53,0 days 00:00:46,,,GM: url: / b/ bathroom/ ADE_train_00002928.jpg,GM,B
+55,0 days 00:00:47,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+56,0 days 00:00:50,,,B: cmd: e,B,All
+57,0 days 00:00:51,,,GM: url: / b/ bathroom/ ADE_train_00003001.jpg,GM,B
+59,0 days 00:00:51,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+60,0 days 00:00:59,B: im there,,,B,All
+61,0 days 00:01:00,,,B: cmd: done,B,All
+62,0 days 00:01:00,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+63,0 days 00:01:03,"A: Keep going south, if you can. I think it's almost as far south as you can go",,,A,All
+64,0 days 00:01:12,"A: Okay, cool",,,A,All
+65,0 days 00:01:14,,A: cmd: done,,A,All
+66,0 days 00:01:14,GM: Well done! Both of you are                            indeed in the same room of type: b/bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bathroom!,GM,All
+67,0 days 00:01:14,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+68,0 days 00:01:15,GM: ,GM: ,GM: ,GM,All
+69,0 days 00:01:18,GM: Here's your token: 5688JMU3F,GM: Here's your token: 5688JMU3F,GM: Here's your token: 5688JMU3F,GM,All
+70,0 days 00:01:18,B: im in your bathroom,,,B,All
+71,0 days 00:01:23,B: ,,B: ,B,All
+72,0 days 00:01:23,,GM: voiceless_spear has left the game.,,GM,A
+73,0 days 00:01:40,A: ,A: ,,A,All
+74,0 days 00:01:40,,,GM: average_canopy has left the game.,GM,B
+75,0 days 00:03:02,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+76,0 days 01:27:07,GM: ,GM: ,GM: ,GM,All

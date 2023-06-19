@@ -1,0 +1,68 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / i/ inn/ outdoor/ ADE_train_00009887.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, withered_eraser! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: h/ home_office,,GM,A
+15,0 days 00:00:04,,,GM: url: / h/ hotel_room/ ADE_train_00009606.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:07,,,"GM: Welcome to the game, dirty_garden! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:07,,,GM: You have to meet in the room of type: h/ home_office,GM,B
+20,0 days 00:00:11,,A: cmd: w,,A,All
+21,0 days 00:00:11,,GM: Nothing happened.You can go: [/ n]orth,,GM,A
+22,0 days 00:00:15,,A: cmd: n,,A,All
+23,0 days 00:00:15,,GM: url: / h/ home_office/ ADE_train_00009395.jpg,,GM,A
+25,0 days 00:00:15,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+26,0 days 00:00:16,,,B: cmd: s,B,All
+27,0 days 00:00:16,,,GM: url: / h/ home_office/ ADE_train_00009339.jpg,GM,B
+29,0 days 00:00:17,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+30,0 days 00:00:23,A: in an office,,,A,All
+31,0 days 00:00:27,B: Me too,,,B,All
+32,0 days 00:00:40,B: It has a desk that looks like a closet,,,B,All
+33,0 days 00:00:40,A: desk top with large copier machine ,,,A,All
+34,0 days 00:01:01,A: nope we are in different ones,,,A,All
+35,0 days 00:01:11,A: do you wish to find me or me find you,,,A,All
+36,0 days 00:01:13,B: Ok,,,B,All
+37,0 days 00:01:17,B: Yes can you find me?,,,B,All
+38,0 days 00:01:33,A: k describe yours in detail,,,A,All
+39,0 days 00:01:35,,A: cmd: n,,A,All
+40,0 days 00:01:35,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,,GM,A
+41,0 days 00:01:38,"B: It has an desk that looks like a closet, with a black office chair",,,B,All
+42,0 days 00:01:41,,A: cmd: w,,A,All
+43,0 days 00:01:43,,GM: url: / h/ home_office/ ADE_train_00009393.jpg,,GM,A
+45,0 days 00:01:44,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+46,0 days 00:01:51,,A: cmd: w,,A,All
+47,0 days 00:01:52,,GM: url: / b/ bedroom/ ADE_train_00003486.jpg,,GM,A
+49,0 days 00:01:52,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+50,0 days 00:01:58,,A: cmd: w,,A,All
+51,0 days 00:01:58,,GM: Nothing happened.You can go: [/ n]orth [/ e]ast,,GM,A
+52,0 days 00:02:02,,A: cmd: n,,A,All
+53,0 days 00:02:02,,GM: url: / d/ dining_room/ ADE_train_00007017.jpg,,GM,A
+55,0 days 00:02:03,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+56,0 days 00:02:10,,A: cmd: e,,A,All
+57,0 days 00:02:11,,GM: url: / h/ home_office/ ADE_train_00009339.jpg,,GM,A
+59,0 days 00:02:12,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+60,0 days 00:02:22,A: mug on the left,,,A,All
+61,0 days 00:02:26,B: Yes,,,B,All
+62,0 days 00:02:30,,A: cmd: done,,A,All
+63,0 days 00:02:30,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+64,0 days 00:02:33,,,B: cmd: done,B,All
+65,0 days 00:02:33,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM,All
+66,0 days 00:02:34,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+67,0 days 00:02:34,GM: ,GM: ,GM: ,GM,All
+68,0 days 00:02:34,GM: Here's your token: 62382199R,GM: Here's your token: 62382199R,GM: Here's your token: 62382199R,GM,All
+69,0 days 00:02:39,B: ,,B: ,B,All
+70,0 days 00:02:42,,GM: dirty_garden has left the game.,,GM,A
+71,0 days 00:02:59,A: ,A: ,,A,All
+72,0 days 00:03:00,,,GM: withered_eraser has left the game.,GM,B
+73,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+74,0 days 00:40:56,GM: ,GM: ,GM: ,GM,All

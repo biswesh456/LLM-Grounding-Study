@@ -1,0 +1,71 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / p/ patio/ ADE_train_00015292.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, miniature_helmet! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: s/ staircase,,GM,A
+15,0 days 00:00:03,,,GM: url: / s/ street/ ADE_train_00016931.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, benevolent_abyss! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: s/ staircase,GM,B
+20,0 days 00:00:24,,,B: cmd: s,B,All
+21,0 days 00:00:24,,,GM: url: / s/ staircase/ ADE_train_00016780.jpg,GM,B
+23,0 days 00:00:24,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+24,0 days 00:00:26,,A: cmd: look,,A,All
+25,0 days 00:00:26,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+26,0 days 00:00:39,,A: cmd: e,,A,All
+27,0 days 00:00:39,,GM: url: / s/ street/ ADE_train_00016913.jpg,,GM,A
+29,0 days 00:00:39,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+30,0 days 00:00:53,,A: cmd: w,,A,All
+31,0 days 00:00:53,,GM: url: / p/ patio/ ADE_train_00015292.jpg,,GM,A
+33,0 days 00:00:53,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+34,0 days 00:00:57,,A: cmd: s,,A,All
+35,0 days 00:00:57,,GM: url: / s/ staircase/ ADE_train_00016837.jpg,,GM,A
+37,0 days 00:00:57,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+38,0 days 00:01:26,B: I'm in a room with a staircase that goes up left to right.  It has a potted plant at the base of the stairs and a table next to the plant with a lamp on it.,,,B,All
+39,0 days 00:01:31,"A: hi partner, are you here in the meetup room?",,,A,All
+40,0 days 00:02:05,"A: I'm at a staircase too, but it's got a stained glass window across from the first flight",,,A,All
+41,0 days 00:02:25,"B: hello, i'm already in a room with a staircase.  Stay there and I will see if I can get to you",,,B,All
+42,0 days 00:02:29,,,B: cmd: n,B,All
+43,0 days 00:02:29,,,GM: url: / s/ street/ ADE_train_00016931.jpg,GM,B
+45,0 days 00:02:29,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+46,0 days 00:02:31,A: great!,,,A,All
+47,0 days 00:02:34,,,B: cmd: w,B,All
+48,0 days 00:02:34,,,GM: url: / s/ street/ ADE_train_00016913.jpg,GM,B
+50,0 days 00:02:35,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,GM,B
+51,0 days 00:02:39,,,B: cmd: w,B,All
+52,0 days 00:02:39,,,GM: url: / p/ patio/ ADE_train_00015292.jpg,GM,B
+54,0 days 00:02:40,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+55,0 days 00:02:43,,,B: cmd: w,B,All
+56,0 days 00:02:43,,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,GM,B
+57,0 days 00:02:46,,,B: cmd: s,B,All
+58,0 days 00:02:46,,,GM: url: / s/ staircase/ ADE_train_00016837.jpg,GM,B
+60,0 days 00:02:46,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+61,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+62,0 days 00:03:12,"A: my staircase is inside, there's a dark wood railing.",,,A,All
+63,0 days 00:03:23,B: is it a wooden staircase with the stairs going streight up?,,,B,All
+64,0 days 00:03:34,B: two panel window?,,,B,All
+65,0 days 00:03:41,A: yes! nice work!,,,A,All
+66,0 days 00:03:49,A: i think we're finished,,,A,All
+67,0 days 00:03:53,,A: cmd: done,,A,All
+68,0 days 00:03:54,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+69,0 days 00:04:00,,,B: cmd: done,B,All
+70,0 days 00:04:00,GM: Well done! Both of you are                            indeed in the same room of type: s/staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM,All
+71,0 days 00:04:01,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+72,0 days 00:04:01,GM: ,GM: ,GM: ,GM,All
+73,0 days 00:04:01,GM: Here's your token: 85UUA87O,GM: Here's your token: 85UUA87O,GM: Here's your token: 85UUA87O,GM,All
+74,0 days 00:04:12,B: Thanks!,,,B,All
+75,0 days 00:04:42,A: ,A: ,,A,All
+76,0 days 00:04:42,,,GM: miniature_helmet has left the game.,GM,B
+77,0 days 00:04:54,B: ,,B: ,B,All
+78,0 days 00:04:55,,GM: benevolent_abyss has left the game.,,GM,A
+79,0 days 00:42:55,GM: ,GM: ,GM: ,GM,All

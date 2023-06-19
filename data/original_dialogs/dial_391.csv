@@ -1,0 +1,108 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:00,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:00,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / f/ flea_market/ outdoor/ ADE_train_00007959.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ e]ast,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, puny_bible! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:02,,GM: You have to meet in the room of type: h/ home_office,,GM,A
+15,0 days 00:00:02,,,GM: url: / h/ hotel_room/ ADE_train_00009531.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, divine_eraser! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: h/ home_office,GM,B
+20,0 days 00:00:31,B: ok i see a flower on the table ,,,B,All
+21,0 days 00:00:42,B: desk has silver legs - i was place here,,,B,All
+22,0 days 00:00:59,A: SILVER LEGS?,,,A,All
+23,0 days 00:01:10,B: yes,,,B,All
+24,0 days 00:01:14,,A: cmd: N,,A,All
+25,0 days 00:01:20,A: STRIP MALL,,,A,All
+26,0 days 00:01:27,B: no a home office,,,B,All
+27,0 days 00:01:45,B: can you move to find a home office,,,B,All
+28,0 days 00:01:53,A: i AM TRYING,,,A,All
+29,0 days 00:01:58,B: tell me what it looks like and i can find it ,,,B,All
+30,0 days 00:02:13,,A: cmd: S:,,A,All
+31,0 days 00:02:31,A: SIDE WALK WITH BLUE AND WHITE TARPS,,,A,All
+32,0 days 00:02:46,B: is there a home office,,,B,All
+33,0 days 00:02:52,A: NO,,,A,All
+34,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+35,0 days 00:03:02,B: maybe keep moving until you find one ,,,B,All
+36,0 days 00:03:14,A: WILL DO,,,A,All
+37,0 days 00:03:18,B: k,,,B,All
+38,0 days 00:03:42,A: TRYING,,,A,All
+39,0 days 00:03:48,B: no problem,,,B,All
+40,0 days 00:03:57,A: I am having diffiuclty moving,,,A,All
+41,0 days 00:04:12,A: look:,,,A,All
+42,0 days 00:04:17,B: strange i try to go one directionuntil i cant,,,B,All
+43,0 days 00:04:35,B: using the backslash and whatever options it lets me,,,B,All
+44,0 days 00:04:38,A: This is not lettign me move a tall,,,A,All
+45,0 days 00:04:53,,A: cmd: n/ ,,A,All
+46,0 days 00:04:57,B: maybe thats a forward slash,,,B,All
+47,0 days 00:05:17,B: if you type forward slash and then s it may say no but tell you other options to try,,,B,All
+48,0 days 00:05:33,,A: cmd: s,,A,All
+49,0 days 00:05:33,,GM: Nothing happened.You can go: [/ e]ast,,GM,A
+50,0 days 00:05:59,A: e/,,,A,All
+51,0 days 00:06:18,A: I do not know if I need to refresh  ,,,A,All
+52,0 days 00:06:30,A: I am sorry,,,A,All
+53,0 days 00:06:46,,A: cmd: w,,A,All
+54,0 days 00:06:46,,GM: Nothing happened.You can go: [/ e]ast,,GM,A
+55,0 days 00:06:54,,A: cmd: e,,A,All
+56,0 days 00:06:54,,GM: url: / s/ street/ ADE_train_00016911.jpg,,GM,A
+58,0 days 00:06:55,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+59,0 days 00:07:00,A: moving now,,,A,All
+60,0 days 00:07:07,,A: cmd: w,,A,All
+61,0 days 00:07:07,,GM: url: / f/ flea_market/ outdoor/ ADE_train_00007959.jpg,,GM,A
+63,0 days 00:07:07,,GM: You can go: [/ e]ast,,GM,A
+64,0 days 00:07:28,B: no problem,,,B,All
+65,0 days 00:07:30,,A: cmd: n+,,A,All
+66,0 days 00:07:36,A: n/,,,A,All
+67,0 days 00:07:44,,A: cmd: n,,A,All
+68,0 days 00:07:44,,GM: Nothing happened.You can go: [/ e]ast,,GM,A
+69,0 days 00:07:47,,A: cmd: e,,A,All
+70,0 days 00:07:47,,GM: url: / s/ street/ ADE_train_00016911.jpg,,GM,A
+72,0 days 00:07:48,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+73,0 days 00:07:51,,A: cmd: e,,A,All
+74,0 days 00:07:51,,GM: url: / s/ street/ ADE_train_00017923.jpg,,GM,A
+76,0 days 00:07:51,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+77,0 days 00:07:52,B: pput the slash before,,,B,All
+78,0 days 00:07:54,,A: cmd: e,,A,All
+79,0 days 00:07:55,,GM: url: / h/ home_office/ ADE_train_00009315.jpg,,GM,A
+81,0 days 00:07:55,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+82,0 days 00:08:00,A: home offfice,,,A,All
+83,0 days 00:08:10,A: I see a blue COuch,,,A,All
+84,0 days 00:08:17,B: ok et me find it ,,,B,All
+85,0 days 00:08:26,,,B: cmd: n,B,All
+86,0 days 00:08:26,,,GM: url: / h/ home_office/ ADE_train_00009385.jpg,GM,B
+88,0 days 00:08:27,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+89,0 days 00:08:31,A: black chair,,,A,All
+90,0 days 00:08:35,,,B: cmd: s,B,All
+91,0 days 00:08:35,,,GM: url: / h/ hotel_room/ ADE_train_00009531.jpg,GM,B
+93,0 days 00:08:35,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+94,0 days 00:08:41,,,B: cmd: w,B,All
+95,0 days 00:08:41,,,GM: url: / h/ home_office/ ADE_train_00009315.jpg,GM,B
+97,0 days 00:08:41,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,GM,B
+98,0 days 00:08:51,B: k found it ,,,B,All
+99,0 days 00:08:54,,,B: cmd: done,B,All
+100,0 days 00:08:54,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+101,0 days 00:09:06,,A: cmd: done,,A,All
+102,0 days 00:09:06,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM,All
+103,0 days 00:09:06,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+104,0 days 00:09:07,GM: ,GM: ,GM: ,GM,All
+105,0 days 00:09:07,GM: Here's your token: 1078EAO0KZ,GM: Here's your token: 1078EAO0KZ,GM: Here's your token: 1078EAO0KZ,GM,All
+106,0 days 00:09:11,B: now type forward slash done,,,B,All
+107,0 days 00:09:25,,A: cmd: done,,A,All
+108,0 days 00:09:25,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM,All
+109,0 days 00:09:25,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+110,0 days 00:09:25,GM: ,GM: ,GM: ,GM,All
+111,0 days 00:09:26,GM: Here's your token: 1078J3C7XM,GM: Here's your token: 1078J3C7XM,GM: Here's your token: 1078J3C7XM,GM,All
+112,0 days 00:09:35,B: ,,B: ,B,All
+113,0 days 00:09:35,,GM: divine_eraser has left the game.,,GM,A
+114,0 days 00:10:15,A: ,A: ,,A,All
+115,0 days 00:10:16,,,GM: puny_bible has left the game.,GM,B
+116,0 days 00:32:19,GM: ,GM: ,GM: ,GM,All

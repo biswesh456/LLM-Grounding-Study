@@ -1,0 +1,51 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001454.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, ugly_model_car! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: w/ waiting_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / b/ bedroom/ ADE_train_00003302.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, shiny_receipt! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: w/ waiting_room,GM,B
+20,0 days 00:00:07,,,B: cmd: n,B,All
+21,0 days 00:00:07,,,GM: url: / s/ street/ ADE_train_00018224.jpg,GM,B
+23,0 days 00:00:07,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+24,0 days 00:00:10,,,B: cmd: e,B,All
+25,0 days 00:00:10,,,GM: url: / w/ waiting_room/ ADE_train_00019624.jpg,GM,B
+27,0 days 00:00:10,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+28,0 days 00:00:15,,A: cmd: n,,A,All
+29,0 days 00:00:15,,GM: url: / s/ street/ ADE_train_00018816.jpg,,GM,A
+31,0 days 00:00:15,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+32,0 days 00:00:19,,A: cmd: n,,A,All
+33,0 days 00:00:19,,GM: url: / w/ waiting_room/ ADE_train_00019624.jpg,,GM,A
+35,0 days 00:00:19,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+36,0 days 00:00:20,B: Okay I'm in a waiting room,,,B,All
+37,0 days 00:00:28,A: green bench?,,,A,All
+38,0 days 00:00:35,B: yes,,,B,All
+39,0 days 00:00:40,B: two signs on the walls,,,B,All
+40,0 days 00:00:43,A: yes,,,A,All
+41,0 days 00:00:48,B: window over the bench,,,B,All
+42,0 days 00:00:54,"A: yes, i think its the same",,,A,All
+43,0 days 00:00:58,,A: cmd: done,,A,All
+44,0 days 00:00:58,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+45,0 days 00:01:17,,,B: cmd: done,B,All
+46,0 days 00:01:17,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM: Well done! Both of you are                            indeed in the same room of type: w/ waiting_room!,GM: Well done! Both of you are                            indeed in the same room of type: w/ waiting_room!,GM,All
+47,0 days 00:01:17,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+48,0 days 00:01:18,GM: ,GM: ,GM: ,GM,All
+49,0 days 00:01:18,GM: Here's your token: 685HEYDQM,GM: Here's your token: 685HEYDQM,GM: Here's your token: 685HEYDQM,GM,All
+50,0 days 00:01:34,B: ,,B: ,B,All
+51,0 days 00:01:34,,GM: shiny_receipt has left the game.,,GM,A
+52,0 days 00:01:39,A: ,A: ,,A,All
+53,0 days 00:01:39,,,GM: ugly_model_car has left the game.,GM,B
+54,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+55,0 days 03:17:11,GM: ,GM: ,GM: ,GM,All

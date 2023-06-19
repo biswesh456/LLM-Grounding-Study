@@ -1,0 +1,64 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / s/ street/ ADE_train_00018222.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, mirthful_grove! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: l/ locker_room,,GM,A
+15,0 days 00:00:04,,,GM: url: / d/ dining_room/ ADE_train_00007087.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, sticky_bottle_cap! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: l/ locker_room,GM,B
+20,0 days 00:00:06,,A: cmd: n,,A,All
+21,0 days 00:00:06,,GM: Nothing happened.You can go: [/ e]ast [/ w]est,,GM,A
+22,0 days 00:00:11,,A: cmd: w,,A,All
+23,0 days 00:00:12,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001430.jpg,,GM,A
+25,0 days 00:00:12,,GM: You can go: [/ e]ast,,GM,A
+26,0 days 00:00:13,,,B: cmd: look,B,All
+27,0 days 00:00:14,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+28,0 days 00:00:16,,,B: cmd: n,B,All
+29,0 days 00:00:16,,,GM: url: / l/ locker_room/ ADE_train_00011587.jpg,GM,B
+31,0 days 00:00:16,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+32,0 days 00:00:17,,A: cmd: e,,A,All
+33,0 days 00:00:17,,GM: url: / s/ street/ ADE_train_00018222.jpg,,GM,A
+35,0 days 00:00:17,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+36,0 days 00:00:19,,A: cmd: e,,A,All
+37,0 days 00:00:20,,GM: url: / l/ locker_room/ ADE_train_00011590.jpg,,GM,A
+39,0 days 00:00:20,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+40,0 days 00:00:21,B: I found a locker room,,,B,All
+41,0 days 00:00:27,B: Orange and white lockers,,,B,All
+42,0 days 00:00:30,A: okay describe it and I'll find you,,,A,All
+43,0 days 00:00:33,B: with a long bench in front,,,B,All
+44,0 days 00:00:44,A: e,,,A,All
+45,0 days 00:00:51,,A: cmd: e,,A,All
+46,0 days 00:00:53,,GM: url: / l/ locker_room/ ADE_train_00011595.jpg,,GM,A
+48,0 days 00:00:53,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+49,0 days 00:01:00,,A: cmd: e,,A,All
+50,0 days 00:01:00,,GM: url: / s/ street/ ADE_train_00016884.jpg,,GM,A
+52,0 days 00:01:00,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+53,0 days 00:01:09,,A: cmd: e,,A,All
+54,0 days 00:01:09,B: The orange lockers are taller than the white ones. It's a stripe pattern alternating orange and white.,,,B,All
+55,0 days 00:01:10,,GM: url: / l/ locker_room/ ADE_train_00011587.jpg,,GM,A
+57,0 days 00:01:10,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+58,0 days 00:01:29,A: 1 flourescent light over the lockers?,,,A,All
+59,0 days 00:01:32,B: yep,,,B,All
+60,0 days 00:01:34,,,B: cmd: done,B,All
+61,0 days 00:01:34,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+62,0 days 00:01:38,,A: cmd: done,,A,All
+63,0 days 00:01:38,GM: Well done! Both of you are                            indeed in the same room of type: l/locker_room!,GM: Well done! Both of you are                            indeed in the same room of type: l/ locker_room!,GM: Well done! Both of you are                            indeed in the same room of type: l/ locker_room!,GM,All
+64,0 days 00:01:38,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+65,0 days 00:01:39,GM: ,GM: ,GM: ,GM,All
+66,0 days 00:01:39,GM: Here's your token: 938BHZJO2,GM: Here's your token: 938BHZJO2,GM: Here's your token: 938BHZJO2,GM,All
+67,0 days 00:01:52,A: ,A: ,,A,All
+68,0 days 00:01:53,,,GM: mirthful_grove has left the game.,GM,B
+69,0 days 00:02:02,B: ,,B: ,B,All
+70,0 days 00:02:04,,GM: sticky_bottle_cap has left the game.,,GM,A
+71,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All

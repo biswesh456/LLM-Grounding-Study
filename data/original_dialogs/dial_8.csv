@@ -1,0 +1,63 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / b/ bedroom/ ADE_train_00003803.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, wooden_beach! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: a/ attic,,GM,A
+15,0 days 00:00:03,,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006222.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ w]est,GM,B
+18,0 days 00:00:06,,,"GM: Welcome to the game, placid_nail! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: a/ attic,GM,B
+20,0 days 00:00:17,,A: cmd: look,,A,All
+21,0 days 00:00:17,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+22,0 days 00:00:23,,A: cmd: e,,A,All
+23,0 days 00:00:23,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006222.jpg,,GM,A
+25,0 days 00:00:23,,GM: You can go: [/ w]est,,GM,A
+26,0 days 00:00:27,,A: cmd: w,,A,All
+27,0 days 00:00:27,,GM: url: / b/ bedroom/ ADE_train_00003803.jpg,,GM,A
+29,0 days 00:00:27,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+30,0 days 00:00:29,,A: cmd: w,,A,All
+31,0 days 00:00:30,,GM: url: / k/ kitchen/ ADE_train_00010184.jpg,,GM,A
+33,0 days 00:00:30,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+34,0 days 00:00:38,,A: cmd: n,,A,All
+35,0 days 00:00:38,,GM: url: / a/ attic/ ADE_train_00001886.jpg,,GM,A
+37,0 days 00:00:39,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+38,0 days 00:00:54,A: I'm in the attic!,,,A,All
+39,0 days 00:01:17,A: Where are you?,,,A,All
+40,0 days 00:01:29,,,B: cmd: in,B,All
+41,0 days 00:01:43,B: in front of the store,,,B,All
+42,0 days 00:01:59,A: go west then go north,,,A,All
+43,0 days 00:01:59,,,B: cmd: move,B,All
+44,0 days 00:02:16,,,B: cmd: w:move,B,All
+45,0 days 00:02:27,,,B: cmd: w:move,B,All
+46,0 days 00:02:38,A: where are you now?,,,A,All
+47,0 days 00:02:43,,,B: cmd: w:move,B,All
+48,0 days 00:03:00,,,B: cmd: w,B,All
+49,0 days 00:03:00,,,GM: url: / b/ bedroom/ ADE_train_00003803.jpg,GM,B
+51,0 days 00:03:00,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+52,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+53,0 days 00:03:06,B: in a bed room,,,B,All
+54,0 days 00:03:09,A: are you in the room with the violin?,,,A,All
+55,0 days 00:03:16,A: that is the attic,,,A,All
+56,0 days 00:03:18,,A: cmd: done,,A,All
+57,0 days 00:03:18,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+58,0 days 00:03:18,B: no pink bed,,,B,All
+59,0 days 00:03:28,,,B: cmd: done,B,All
+60,0 days 00:03:28,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type a/attic","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type a/ attic","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type a/ attic",GM,All
+61,0 days 00:03:28,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+62,0 days 00:03:28,GM: ,GM: ,GM: ,GM,All
+63,0 days 00:03:29,GM: Here's your token: 623E3TYP,GM: Here's your token: 623E3TYP,GM: Here's your token: 623E3TYP,GM,All
+64,0 days 00:03:54,A: ,A: ,,A,All
+65,0 days 00:03:55,,,GM: wooden_beach has left the game.,GM,B
+66,0 days 00:04:25,B: ,,B: ,B,All
+67,0 days 00:04:25,,GM: placid_nail has left the game.,,GM,A
+68,0 days 01:20:23,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,72 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / p/ parking_garage/ outdoor/ ADE_train_00015104.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, petite_pepperspray! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: b/ bedroom,,GM,A
+15,0 days 00:00:03,,,GM: url: / s/ street/ ADE_train_00017353.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, sticky_microphone! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: b/ bedroom,GM,B
+20,0 days 00:00:10,,,B: cmd: s,B,All
+21,0 days 00:00:10,,,GM: url: / s/ street/ ADE_train_00017753.jpg,GM,B
+23,0 days 00:00:10,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+24,0 days 00:00:17,,,B: cmd: s,B,All
+25,0 days 00:00:17,,,GM: url: / b/ bedroom/ ADE_train_00003597.jpg,GM,B
+27,0 days 00:00:17,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+28,0 days 00:00:28,B: I've found one. Let me know when you do. ,,,B,All
+29,0 days 00:00:37,,A: cmd: e,,A,All
+30,0 days 00:00:38,,GM: Nothing happened.You can go: [/ n]orth,,GM,A
+31,0 days 00:00:40,,A: cmd: n,,A,All
+32,0 days 00:00:41,,GM: url: / c/ corridor/ ADE_train_00006354.jpg,,GM,A
+34,0 days 00:00:41,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+35,0 days 00:00:45,,A: cmd: s,,A,All
+36,0 days 00:00:45,,GM: url: / p/ parking_garage/ outdoor/ ADE_train_00015104.jpg,,GM,A
+38,0 days 00:00:45,,GM: You can go: [/ n]orth,,GM,A
+39,0 days 00:00:49,,A: cmd: n,,A,All
+40,0 days 00:00:50,,GM: url: / c/ corridor/ ADE_train_00006354.jpg,,GM,A
+42,0 days 00:00:50,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+43,0 days 00:00:51,B: This has all white on the bed and dark brown rafters on the ceiling. ,,,B,All
+44,0 days 00:00:54,,A: cmd: w,,A,All
+45,0 days 00:00:55,,GM: url: / b/ bedroom/ ADE_train_00004065.jpg,,GM,A
+47,0 days 00:00:55,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+48,0 days 00:00:59,,A: cmd: n,,A,All
+49,0 days 00:00:59,,GM: url: / b/ bedroom/ ADE_train_00003319.jpg,,GM,A
+51,0 days 00:00:59,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+52,0 days 00:01:00,B: One window with a heater radiator below it. ,,,B,All
+53,0 days 00:01:06,A: I am in the bedroom,,,A,All
+54,0 days 00:01:18,A: no radiator.... white bed,,,A,All
+55,0 days 00:01:35,B: Do you want to keep looking or me?,,,B,All
+56,0 days 00:01:39,A: sure,,,A,All
+57,0 days 00:01:41,,A: cmd: w,,A,All
+58,0 days 00:01:41,,GM: url: / b/ bedroom/ ADE_train_00003597.jpg,,GM,A
+60,0 days 00:01:41,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+61,0 days 00:01:45,B: Which?,,,B,All
+62,0 days 00:01:48,A: gotcha,,,A,All
+63,0 days 00:01:51,A: I found you,,,A,All
+64,0 days 00:01:55,A: white chair in left,,,A,All
+65,0 days 00:02:02,A: window open and brown bars on top,,,A,All
+66,0 days 00:02:06,B: Yes. ,,,B,All
+67,0 days 00:02:08,B: Perfect. ,,,B,All
+68,0 days 00:02:09,,A: cmd: done,,A,All
+69,0 days 00:02:10,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+70,0 days 00:02:14,,,B: cmd: done,B,All
+71,0 days 00:02:14,GM: Well done! Both of you are                            indeed in the same room of type: b/bedroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bedroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bedroom!,GM,All
+72,0 days 00:02:14,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+73,0 days 00:02:14,GM: ,GM: ,GM: ,GM,All
+74,0 days 00:02:15,GM: Here's your token: 406MHVVQW,GM: Here's your token: 406MHVVQW,GM: Here's your token: 406MHVVQW,GM,All
+75,0 days 00:02:29,A: ,A: ,,A,All
+76,0 days 00:02:29,,,GM: petite_pepperspray has left the game.,GM,B
+77,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+78,0 days 00:36:54,B: ,,B: ,B,All
+79,0 days 00:36:54,,GM: sticky_microphone has left the game.,,GM,A
+80,0 days 03:11:58,GM: ,GM: ,GM: ,GM,All

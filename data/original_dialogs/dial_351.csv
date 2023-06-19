@@ -1,0 +1,59 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:00,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / c/ cathedral/ outdoor/ ADE_train_00005314.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, gorgeous_eye_liner! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: c/ childs_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / h/ hotel_room/ ADE_train_00009589.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, mysterious_forest! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: c/ childs_room,GM,B
+20,0 days 00:00:07,,A: cmd: n,,A,All
+21,0 days 00:00:07,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+22,0 days 00:00:10,,A: cmd: s,,A,All
+23,0 days 00:00:10,,GM: url: / c/ childs_room/ ADE_train_00005491.jpg,,GM,A
+25,0 days 00:00:11,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+26,0 days 00:00:13,,,B: cmd: look,B,All
+27,0 days 00:00:13,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+28,0 days 00:00:18,,,B: cmd: s,B,All
+29,0 days 00:00:18,,,GM: url: / c/ childs_room/ ADE_train_00005522.jpg,GM,B
+31,0 days 00:00:18,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+32,0 days 00:00:20,A: Okay I'm in a kids room,,,A,All
+33,0 days 00:00:27,A: bunk beds,,,A,All
+34,0 days 00:00:42,B: ok I'm in one with a colorful bedspread and teletubbies,,,B,All
+35,0 days 00:00:45,B: I'll see if I can find you,,,B,All
+36,0 days 00:00:47,A: stuffed frog hanging on the lower bunk bed,,,A,All
+37,0 days 00:00:50,,,B: cmd: s,B,All
+38,0 days 00:00:50,,,GM: Nothing happened.You can go: [/ n]orth [/ w]est,GM,B
+39,0 days 00:00:52,,,B: cmd: w,B,All
+40,0 days 00:00:53,,,GM: url: / d/ dining_room/ ADE_train_00006886.jpg,GM,B
+42,0 days 00:00:53,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+43,0 days 00:00:55,,,B: cmd: w,B,All
+44,0 days 00:00:56,,,GM: Nothing happened.You can go: [/ n]orth [/ e]ast,GM,B
+45,0 days 00:00:57,A: the frog has orange feet,,,A,All
+46,0 days 00:00:58,,,B: cmd: n,B,All
+47,0 days 00:00:58,,,GM: url: / c/ childs_room/ ADE_train_00005491.jpg,GM,B
+49,0 days 00:00:58,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+50,0 days 00:01:04,B: ok I found it,,,B,All
+51,0 days 00:01:07,,,B: cmd: done,B,All
+52,0 days 00:01:08,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+53,0 days 00:01:13,,A: cmd: done,,A,All
+54,0 days 00:01:13,GM: Well done! Both of you are                            indeed in the same room of type: c/childs_room!,GM: Well done! Both of you are                            indeed in the same room of type: c/ childs_room!,GM: Well done! Both of you are                            indeed in the same room of type: c/ childs_room!,GM,All
+55,0 days 00:01:13,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+56,0 days 00:01:14,GM: ,GM: ,GM: ,GM,All
+57,0 days 00:01:14,GM: Here's your token: 6827MIE0D,GM: Here's your token: 6827MIE0D,GM: Here's your token: 6827MIE0D,GM,All
+58,0 days 00:01:31,B: ,,B: ,B,All
+59,0 days 00:01:31,,GM: mysterious_forest has left the game.,,GM,A
+60,0 days 00:01:37,A: ,A: ,,A,All
+61,0 days 00:01:38,,,GM: gorgeous_eye_liner has left the game.,GM,B
+62,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+63,0 days 03:18:55,GM: ,GM: ,GM: ,GM,All

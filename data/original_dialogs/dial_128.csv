@@ -1,0 +1,123 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / d/ diner/ outdoor/ ADE_train_00006731.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, mirthful_stockings! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: w/ waiting_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / s/ street/ ADE_train_00017178.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, flat_photo_album! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: w/ waiting_room,GM,B
+20,0 days 00:00:09,,,B: cmd: n,B,All
+21,0 days 00:00:09,,,GM: url: / t/ tearoom/ ADE_train_00019082.jpg,GM,B
+23,0 days 00:00:10,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+24,0 days 00:00:30,,,B: cmd: n,B,All
+25,0 days 00:00:30,,,GM: url: / b/ bedroom/ ADE_train_00003880.jpg,GM,B
+27,0 days 00:00:30,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+28,0 days 00:00:35,A: What does it look like,,,A,All
+29,0 days 00:00:35,,,B: cmd: n,B,All
+30,0 days 00:00:35,,,GM: url: / w/ waiting_room/ ADE_train_00019607.jpg,GM,B
+32,0 days 00:00:35,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+33,0 days 00:00:42,B: It has blue chairs,,,B,All
+34,0 days 00:00:46,B: and a guy sitting in it,,,B,All
+35,0 days 00:00:50,A: Ok,,,A,All
+36,0 days 00:00:54,,A: cmd: n,,A,All
+37,0 days 00:00:54,,GM: url: / w/ waiting_room/ ADE_train_00019619.jpg,,GM,A
+39,0 days 00:00:54,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+40,0 days 00:00:58,B: big table in the middle,,,B,All
+41,0 days 00:00:59,B: I am there,,,B,All
+42,0 days 00:01:00,,,B: cmd: done,B,All
+43,0 days 00:01:00,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+44,0 days 00:01:03,A: Ok,,,A,All
+45,0 days 00:01:07,,A: cmd: s,,A,All
+46,0 days 00:01:07,,GM: url: / d/ diner/ outdoor/ ADE_train_00006731.jpg,,GM,A
+48,0 days 00:01:07,,GM: You can go: [/ n]orth,,GM,A
+49,0 days 00:01:16,,A: cmd: n,,A,All
+50,0 days 00:01:16,,GM: url: / w/ waiting_room/ ADE_train_00019619.jpg,,GM,A
+52,0 days 00:01:16,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+53,0 days 00:01:23,A: Is there a dog poster,,,A,All
+54,0 days 00:01:27,,A: cmd: w,,A,All
+55,0 days 00:01:27,,GM: url: / c/ cloakroom/ room/ ADE_train_00005667.jpg,,GM,A
+57,0 days 00:01:27,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+58,0 days 00:01:27,B: No,,,B,All
+59,0 days 00:01:30,A: Ok,,,A,All
+60,0 days 00:01:33,B: an old guy on the right side,,,B,All
+61,0 days 00:01:35,,A: cmd: w,,A,All
+62,0 days 00:01:36,,GM: url: / s/ street/ ADE_train_00017178.jpg,,GM,A
+64,0 days 00:01:36,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+65,0 days 00:01:37,B: 6 blue chairs,,,B,All
+66,0 days 00:01:42,B: table in the middle with a bunch of papers,,,B,All
+67,0 days 00:01:48,A: gotcha,,,A,All
+68,0 days 00:01:49,,A: cmd: e,,A,All
+69,0 days 00:01:49,,GM: url: / c/ cloakroom/ room/ ADE_train_00005667.jpg,,GM,A
+71,0 days 00:01:49,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+72,0 days 00:01:51,B: open window with a white window frame,,,B,All
+73,0 days 00:01:56,,A: cmd: n,,A,All
+74,0 days 00:01:57,,GM: url: / w/ waiting_room/ ADE_train_00019661.jpg,,GM,A
+76,0 days 00:01:57,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+77,0 days 00:02:12,,A: cmd: s,,A,All
+78,0 days 00:02:13,,GM: url: / c/ cloakroom/ room/ ADE_train_00005667.jpg,,GM,A
+80,0 days 00:02:13,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+81,0 days 00:02:18,,A: cmd: w,,A,All
+82,0 days 00:02:19,,GM: url: / s/ street/ ADE_train_00017178.jpg,,GM,A
+84,0 days 00:02:19,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+85,0 days 00:02:23,,A: cmd: n,,A,All
+86,0 days 00:02:23,,GM: url: / t/ tearoom/ ADE_train_00019082.jpg,,GM,A
+88,0 days 00:02:23,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+89,0 days 00:02:30,,A: cmd: e,,A,All
+90,0 days 00:02:30,,GM: url: / w/ waiting_room/ ADE_train_00019661.jpg,,GM,A
+92,0 days 00:02:30,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+93,0 days 00:02:33,,A: cmd: w,,A,All
+94,0 days 00:02:34,,GM: url: / t/ tearoom/ ADE_train_00019082.jpg,,GM,A
+96,0 days 00:02:34,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+97,0 days 00:02:36,,A: cmd: s,,A,All
+98,0 days 00:02:37,,GM: url: / s/ street/ ADE_train_00017178.jpg,,GM,A
+100,0 days 00:02:37,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+101,0 days 00:02:39,,A: cmd: n,,A,All
+102,0 days 00:02:39,,GM: url: / t/ tearoom/ ADE_train_00019082.jpg,,GM,A
+104,0 days 00:02:40,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+105,0 days 00:02:42,,A: cmd: w,,A,All
+106,0 days 00:02:42,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+107,0 days 00:02:53,A: e,,,A,All
+108,0 days 00:02:53,,A: cmd: e,,A,All
+109,0 days 00:02:54,,GM: url: / w/ waiting_room/ ADE_train_00019661.jpg,,GM,A
+111,0 days 00:02:54,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+112,0 days 00:02:57,,A: cmd: e,,A,All
+113,0 days 00:02:58,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+114,0 days 00:03:00,,A: cmd: s,,A,All
+115,0 days 00:03:00,,GM: url: / c/ cloakroom/ room/ ADE_train_00005667.jpg,,GM,A
+117,0 days 00:03:00,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+118,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+119,0 days 00:03:04,,A: cmd: n,,A,All
+120,0 days 00:03:04,,GM: url: / w/ waiting_room/ ADE_train_00019661.jpg,,GM,A
+122,0 days 00:03:04,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+123,0 days 00:03:06,,A: cmd: w,,A,All
+124,0 days 00:03:07,,GM: url: / t/ tearoom/ ADE_train_00019082.jpg,,GM,A
+126,0 days 00:03:07,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+127,0 days 00:03:21,,A: cmd: n,,A,All
+128,0 days 00:03:23,,GM: url: / b/ bedroom/ ADE_train_00003880.jpg,,GM,A
+130,0 days 00:03:24,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+131,0 days 00:03:35,,A: cmd: n,,A,All
+132,0 days 00:03:35,,GM: url: / w/ waiting_room/ ADE_train_00019607.jpg,,GM,A
+134,0 days 00:03:35,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+135,0 days 00:03:42,A: Here,,,A,All
+136,0 days 00:03:44,,A: cmd: done,,A,All
+137,0 days 00:03:44,GM: Well done! Both of you are                            indeed in the same room of type: w/waiting_room!,GM: Well done! Both of you are                            indeed in the same room of type: w/ waiting_room!,GM: Well done! Both of you are                            indeed in the same room of type: w/ waiting_room!,GM,All
+138,0 days 00:03:44,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+139,0 days 00:03:45,GM: ,GM: ,GM: ,GM,All
+140,0 days 00:03:45,GM: Here's your token: 357RF2HBT,GM: Here's your token: 357RF2HBT,GM: Here's your token: 357RF2HBT,GM,All
+141,0 days 00:03:45,B: ok,,,B,All
+142,0 days 00:04:00,B: ,,B: ,B,All
+143,0 days 00:04:00,,GM: flat_photo_album has left the game.,,GM,A
+144,0 days 00:04:08,A: ,A: ,,A,All
+145,0 days 00:04:10,,,GM: mirthful_stockings has left the game.,GM,B
+146,0 days 03:52:55,GM: ,GM: ,GM: ,GM,All

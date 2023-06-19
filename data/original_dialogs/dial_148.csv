@@ -1,0 +1,111 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / d/ doorway/ outdoor/ ADE_train_00007343.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, thoughtless_briars! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: n/ nursery,,GM,A
+15,0 days 00:00:04,,,GM: url: / l/ living_room/ ADE_train_00011308.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, slimy_silence! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: n/ nursery,GM,B
+20,0 days 00:00:11,,,B: cmd: s,B,All
+21,0 days 00:00:11,,,GM: url: / n/ nursery/ ADE_train_00013894.jpg,GM,B
+23,0 days 00:00:12,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+24,0 days 00:00:16,A: Hey,,,A,All
+25,0 days 00:00:18,,A: cmd: n,,A,All
+26,0 days 00:00:18,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+27,0 days 00:00:18,B: i am in a nursey,,,B,All
+28,0 days 00:00:22,,A: cmd: s,,A,All
+29,0 days 00:00:22,,GM: url: / b/ bedroom/ ADE_train_00000223.jpg,,GM,A
+31,0 days 00:00:22,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+32,0 days 00:00:25,,A: cmd: w,,A,All
+33,0 days 00:00:25,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+34,0 days 00:00:26,B: chair with a teddy bear on it,,,B,All
+35,0 days 00:00:30,B: tan walls,,,B,All
+36,0 days 00:00:30,,A: cmd: e,,A,All
+37,0 days 00:00:30,,GM: url: / n/ nursery/ ADE_train_00013903.jpg,,GM,A
+39,0 days 00:00:30,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+40,0 days 00:00:36,B: pink bear on the dresser,,,B,All
+41,0 days 00:00:37,A: pregnant lady?,,,A,All
+42,0 days 00:00:42,,A: cmd: w,,A,All
+43,0 days 00:00:42,,GM: url: / b/ bedroom/ ADE_train_00000223.jpg,,GM,A
+45,0 days 00:00:42,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+46,0 days 00:00:44,,A: cmd: e,,A,All
+47,0 days 00:00:44,,GM: url: / n/ nursery/ ADE_train_00013903.jpg,,GM,A
+49,0 days 00:00:45,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+50,0 days 00:00:46,,A: cmd: s,,A,All
+51,0 days 00:00:47,,GM: url: / n/ nursery/ ADE_train_00013902.jpg,,GM,A
+53,0 days 00:00:47,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+54,0 days 00:00:47,B: no people in the room,,,B,All
+55,0 days 00:00:59,,A: cmd: s,,A,All
+56,0 days 00:01:00,,GM: Nothing happened.You can go: [/ n]orth [/ w]est,,GM,A
+57,0 days 00:01:07,,A: cmd: w,,A,All
+58,0 days 00:01:07,,GM: url: / b/ bathroom/ ADE_train_00000039.jpg,,GM,A
+60,0 days 00:01:07,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+61,0 days 00:01:11,,A: cmd: n,,A,All
+62,0 days 00:01:11,,GM: url: / b/ bedroom/ ADE_train_00000223.jpg,,GM,A
+64,0 days 00:01:12,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+65,0 days 00:01:14,,A: cmd: e,,A,All
+66,0 days 00:01:15,,GM: url: / n/ nursery/ ADE_train_00013903.jpg,,GM,A
+68,0 days 00:01:15,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+69,0 days 00:01:17,,A: cmd: s,,A,All
+70,0 days 00:01:17,,GM: url: / n/ nursery/ ADE_train_00013902.jpg,,GM,A
+72,0 days 00:01:17,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+73,0 days 00:01:19,,A: cmd: w,,A,All
+74,0 days 00:01:20,,GM: url: / b/ bathroom/ ADE_train_00000039.jpg,,GM,A
+76,0 days 00:01:20,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+77,0 days 00:01:22,,A: cmd: w,,A,All
+78,0 days 00:01:23,,GM: Nothing happened.You can go: [/ n]orth [/ e]ast,,GM,A
+79,0 days 00:01:27,,A: cmd: e,,A,All
+80,0 days 00:01:28,,GM: url: / n/ nursery/ ADE_train_00013902.jpg,,GM,A
+82,0 days 00:01:28,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+83,0 days 00:01:32,,A: cmd: w,,A,All
+84,0 days 00:01:32,,GM: url: / b/ bathroom/ ADE_train_00000039.jpg,,GM,A
+86,0 days 00:01:33,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+87,0 days 00:01:35,,A: cmd: n,,A,All
+88,0 days 00:01:35,,GM: url: / b/ bedroom/ ADE_train_00000223.jpg,,GM,A
+90,0 days 00:01:35,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+91,0 days 00:01:37,,A: cmd: w,,A,All
+92,0 days 00:01:38,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+93,0 days 00:01:44,,A: cmd: s,,A,All
+94,0 days 00:01:44,,GM: url: / b/ bathroom/ ADE_train_00000039.jpg,,GM,A
+96,0 days 00:01:44,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+97,0 days 00:01:46,,A: cmd: n,,A,All
+98,0 days 00:01:46,,GM: url: / b/ bedroom/ ADE_train_00000223.jpg,,GM,A
+100,0 days 00:01:47,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+101,0 days 00:01:49,,A: cmd: e,,A,All
+102,0 days 00:01:50,,GM: url: / n/ nursery/ ADE_train_00013903.jpg,,GM,A
+104,0 days 00:01:50,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+105,0 days 00:01:53,,A: cmd: e,,A,All
+106,0 days 00:01:54,,GM: url: / n/ nursery/ ADE_train_00013919.jpg,,GM,A
+108,0 days 00:01:54,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+109,0 days 00:02:00,B: there is a window filled with sunlight,,,B,All
+110,0 days 00:02:05,,A: cmd: e,,A,All
+111,0 days 00:02:06,,GM: url: / n/ nursery/ ADE_train_00013894.jpg,,GM,A
+113,0 days 00:02:06,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+114,0 days 00:02:22,A: alright white beat on brown chair,,,A,All
+115,0 days 00:02:27,B: yes,,,B,All
+116,0 days 00:02:30,A: window on right and small pink bear got it,,,A,All
+117,0 days 00:02:34,B: yup,,,B,All
+118,0 days 00:02:34,,A: cmd: done,,A,All
+119,0 days 00:02:35,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+120,0 days 00:02:36,,,B: cmd: done,B,All
+121,0 days 00:02:36,GM: Well done! Both of you are                            indeed in the same room of type: n/nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM,All
+122,0 days 00:02:37,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+123,0 days 00:02:37,GM: ,GM: ,GM: ,GM,All
+124,0 days 00:02:37,GM: Here's your token: 7694EUELS,GM: Here's your token: 7694EUELS,GM: Here's your token: 7694EUELS,GM,All
+125,0 days 00:02:48,A: ,A: ,,A,All
+126,0 days 00:02:48,,,GM: thoughtless_briars has left the game.,GM,B
+127,0 days 00:02:56,B: ,,B: ,B,All
+128,0 days 00:02:57,,GM: slimy_silence has left the game.,,GM,A
+129,0 days 00:03:02,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+130,0 days 01:34:31,GM: ,GM: ,GM: ,GM,All

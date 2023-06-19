@@ -1,0 +1,65 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / f/ flea_market/ outdoor/ ADE_train_00007959.jpg,,GM,A
+12,0 days 00:00:05,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:05,,"GM: Welcome to the game, purring_spear! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:05,,GM: You have to meet in the room of type: c/ childs_room,,GM,A
+15,0 days 00:00:05,,,GM: url: / j/ jacuzzi/ outdoor/ ADE_train_00009966.jpg,GM,B
+17,0 days 00:00:06,,,GM: You can go: [/ e]ast,GM,B
+18,0 days 00:00:06,,,"GM: Welcome to the game, harmonious_coffee_maker! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: c/ childs_room,GM,B
+20,0 days 00:00:14,,A: cmd: n,,A,All
+21,0 days 00:00:16,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+22,0 days 00:00:19,,A: cmd: s,,A,All
+23,0 days 00:00:19,,GM: url: / c/ childs_room/ ADE_train_00005467.jpg,,GM,A
+25,0 days 00:00:20,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+26,0 days 00:00:27,A: i am in a childs room,,,A,All
+27,0 days 00:00:31,,,B: cmd: e,B,All
+28,0 days 00:00:31,,,GM: url: / b/ bedroom/ ADE_train_00003466.jpg,GM,B
+30,0 days 00:00:31,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+31,0 days 00:00:37,A: dora the explorer is on the pillow,,,A,All
+32,0 days 00:00:43,A: its a pink and purple room,,,A,All
+33,0 days 00:00:44,B: I was out side at a hot tube,,,B,All
+34,0 days 00:00:48,A: with hardwood floor,,,A,All
+35,0 days 00:00:52,,,B: cmd: e,B,All
+36,0 days 00:00:52,,,GM: url: / s/ street/ ADE_train_00017552.jpg,GM,B
+38,0 days 00:00:52,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+39,0 days 00:01:01,,,B: cmd: w,B,All
+40,0 days 00:01:01,,,GM: url: / b/ bedroom/ ADE_train_00003466.jpg,GM,B
+42,0 days 00:01:02,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+43,0 days 00:01:07,A: i'll wait for you here,,,A,All
+44,0 days 00:01:11,B: yes,,,B,All
+45,0 days 00:01:15,,,B: cmd: w,B,All
+46,0 days 00:01:15,,,GM: url: / j/ jacuzzi/ outdoor/ ADE_train_00009966.jpg,GM,B
+48,0 days 00:01:16,,,GM: You can go: [/ e]ast,GM,B
+49,0 days 00:01:20,,,B: cmd: e,B,All
+50,0 days 00:01:21,,,GM: url: / b/ bedroom/ ADE_train_00003466.jpg,GM,B
+52,0 days 00:01:21,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+53,0 days 00:01:26,,,B: cmd: e,B,All
+54,0 days 00:01:26,,,GM: url: / s/ street/ ADE_train_00017552.jpg,GM,B
+56,0 days 00:01:26,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+57,0 days 00:01:31,,,B: cmd: e,B,All
+58,0 days 00:01:31,,,GM: url: / c/ childs_room/ ADE_train_00005467.jpg,GM,B
+60,0 days 00:01:31,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+61,0 days 00:01:36,B: done,,,B,All
+62,0 days 00:01:38,,,B: cmd: done,B,All
+63,0 days 00:01:38,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+64,0 days 00:01:39,,A: cmd: done,,A,All
+65,0 days 00:01:40,GM: Well done! Both of you are                            indeed in the same room of type: c/childs_room!,GM: Well done! Both of you are                            indeed in the same room of type: c/ childs_room!,GM: Well done! Both of you are                            indeed in the same room of type: c/ childs_room!,GM,All
+66,0 days 00:01:40,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+67,0 days 00:01:41,GM: ,GM: ,GM: ,GM,All
+68,0 days 00:01:41,GM: Here's your token: 9783MIPG7,GM: Here's your token: 9783MIPG7,GM: Here's your token: 9783MIPG7,GM,All
+69,0 days 00:02:11,A: ,A: ,,A,All
+70,0 days 00:02:11,,,GM: purring_spear has left the game.,GM,B
+71,0 days 00:02:28,B: ,,B: ,B,All
+72,0 days 00:02:28,,GM: harmonious_coffee_maker has left the game.,,GM,A
+73,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All

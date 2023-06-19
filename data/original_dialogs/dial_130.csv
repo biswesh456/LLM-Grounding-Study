@@ -1,0 +1,153 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / b/ bedroom/ ADE_train_00003997.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, voiceless_temple! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: d/ doorway/ indoor,,GM,A
+15,0 days 00:00:03,,,GM: url: / h/ home_office/ ADE_train_00009366.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, pleasant_pond! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: d/ doorway/ indoor,GM,B
+20,0 days 00:00:15,,A: cmd: n,,A,All
+21,0 days 00:00:15,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,,GM,A
+23,0 days 00:00:15,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+24,0 days 00:00:50,,,B: cmd: n,B,All
+25,0 days 00:00:50,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007335.jpg,GM,B
+27,0 days 00:00:50,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+28,0 days 00:01:14,B: I'm at a doorway with caution tape on it,,,B,All
+29,0 days 00:01:30,,,B: cmd: look,B,All
+30,0 days 00:01:30,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+31,0 days 00:02:01,A: ok let me find you,,,A,All
+32,0 days 00:02:11,,A: cmd: e,,A,All
+33,0 days 00:02:11,,GM: url: / s/ street/ ADE_train_00017052.jpg,,GM,A
+35,0 days 00:02:12,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+36,0 days 00:02:16,,A: cmd: s,,A,All
+37,0 days 00:02:16,,GM: url: / s/ street/ ADE_train_00017851.jpg,,GM,A
+39,0 days 00:02:17,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+40,0 days 00:02:21,,A: cmd: w,,A,All
+41,0 days 00:02:21,,GM: url: / b/ bedroom/ ADE_train_00003997.jpg,,GM,A
+43,0 days 00:02:21,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+44,0 days 00:02:25,,A: cmd: n,,A,All
+45,0 days 00:02:25,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,,GM,A
+47,0 days 00:02:26,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+48,0 days 00:02:30,,A: cmd: e,,A,All
+49,0 days 00:02:31,,GM: url: / s/ street/ ADE_train_00017052.jpg,,GM,A
+51,0 days 00:02:31,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+52,0 days 00:02:35,,A: cmd: s,,A,All
+53,0 days 00:02:35,,GM: url: / s/ street/ ADE_train_00017851.jpg,,GM,A
+55,0 days 00:02:35,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+56,0 days 00:02:38,,A: cmd: w,,A,All
+57,0 days 00:02:38,,GM: url: / b/ bedroom/ ADE_train_00003997.jpg,,GM,A
+59,0 days 00:02:38,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+60,0 days 00:02:41,,A: cmd: n,,A,All
+61,0 days 00:02:41,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,,GM,A
+63,0 days 00:02:42,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+64,0 days 00:02:45,,A: cmd: s,,A,All
+65,0 days 00:02:45,,GM: url: / b/ bedroom/ ADE_train_00003997.jpg,,GM,A
+67,0 days 00:02:45,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+68,0 days 00:02:48,,A: cmd: e,,A,All
+69,0 days 00:02:48,,GM: url: / s/ street/ ADE_train_00017851.jpg,,GM,A
+71,0 days 00:02:49,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+72,0 days 00:02:53,,A: cmd: n,,A,All
+73,0 days 00:02:53,,GM: url: / s/ street/ ADE_train_00017052.jpg,,GM,A
+75,0 days 00:02:53,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+76,0 days 00:02:58,,A: cmd: w,,A,All
+77,0 days 00:02:58,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,,GM,A
+79,0 days 00:02:58,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+80,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 00:03:03,B: It is a white door with caution tape tied to the doorknob,,,B,All
+82,0 days 00:03:42,,A: cmd: s,,A,All
+83,0 days 00:03:42,,GM: url: / b/ bedroom/ ADE_train_00003997.jpg,,GM,A
+85,0 days 00:03:42,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+86,0 days 00:03:46,,A: cmd: n,,A,All
+87,0 days 00:03:46,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,,GM,A
+89,0 days 00:03:46,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+90,0 days 00:03:51,,A: cmd: e,,A,All
+91,0 days 00:03:51,,GM: url: / s/ street/ ADE_train_00017052.jpg,,GM,A
+93,0 days 00:03:51,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+94,0 days 00:03:55,,A: cmd: w,,A,All
+95,0 days 00:03:55,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,,GM,A
+97,0 days 00:03:55,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+98,0 days 00:04:00,,A: cmd: n,,A,All
+99,0 days 00:04:02,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001435.jpg,,GM,A
+101,0 days 00:04:02,,GM: You can go: [/ s]outh,,GM,A
+102,0 days 00:04:06,,A: cmd: s,,A,All
+103,0 days 00:04:06,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,,GM,A
+105,0 days 00:04:06,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+106,0 days 00:04:40,A: I keep ending up in what appears to be a closet with a white door ,,,A,All
+107,0 days 00:05:03,,A: cmd: n,,A,All
+108,0 days 00:05:04,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001435.jpg,,GM,A
+110,0 days 00:05:04,,GM: You can go: [/ s]outh,,GM,A
+111,0 days 00:05:07,,A: cmd: s,,A,All
+112,0 days 00:05:08,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,,GM,A
+114,0 days 00:05:08,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+115,0 days 00:05:10,B: odd?,,,B,All
+116,0 days 00:05:11,,A: cmd: e,,A,All
+117,0 days 00:05:12,,GM: url: / s/ street/ ADE_train_00017052.jpg,,GM,A
+119,0 days 00:05:12,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+120,0 days 00:05:18,A: or outside,,,A,All
+121,0 days 00:05:26,,A: cmd: s,,A,All
+122,0 days 00:05:26,,GM: url: / s/ street/ ADE_train_00017851.jpg,,GM,A
+124,0 days 00:05:26,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+125,0 days 00:05:30,,A: cmd: n,,A,All
+126,0 days 00:05:30,,GM: url: / s/ street/ ADE_train_00017052.jpg,,GM,A
+128,0 days 00:05:30,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+129,0 days 00:05:33,,A: cmd: w,,A,All
+130,0 days 00:05:33,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,,GM,A
+132,0 days 00:05:34,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+133,0 days 00:05:39,,A: cmd: e,,A,All
+134,0 days 00:05:39,,GM: url: / s/ street/ ADE_train_00017052.jpg,,GM,A
+136,0 days 00:05:40,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+137,0 days 00:05:43,,A: cmd: s,,A,All
+138,0 days 00:05:44,,GM: url: / s/ street/ ADE_train_00017851.jpg,,GM,A
+140,0 days 00:05:44,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+141,0 days 00:05:48,,A: cmd: n,,A,All
+142,0 days 00:05:48,,GM: url: / s/ street/ ADE_train_00017052.jpg,,GM,A
+144,0 days 00:05:48,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+145,0 days 00:05:52,,A: cmd: w,,A,All
+146,0 days 00:05:52,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,,GM,A
+148,0 days 00:05:53,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+149,0 days 00:05:57,B: try to find a doorway and then I will find you,,,B,All
+150,0 days 00:06:22,A: in the closet I'm looking right at a door,,,A,All
+151,0 days 00:06:38,B: ok,,,B,All
+152,0 days 00:06:43,A: It looks to be half off its hinges,,,A,All
+153,0 days 00:06:44,,,B: cmd: look,B,All
+154,0 days 00:06:44,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+155,0 days 00:06:47,,,B: cmd: s,B,All
+156,0 days 00:06:47,,,GM: url: / h/ home_office/ ADE_train_00009366.jpg,GM,B
+158,0 days 00:06:48,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+159,0 days 00:06:53,,,B: cmd: w,B,All
+160,0 days 00:06:53,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007323.jpg,GM,B
+162,0 days 00:06:53,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+163,0 days 00:06:57,,,B: cmd: w,B,All
+164,0 days 00:06:57,,,GM: url: / s/ street/ ADE_train_00017052.jpg,GM,B
+166,0 days 00:06:57,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+167,0 days 00:07:00,,,B: cmd: w,B,All
+168,0 days 00:07:00,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,GM,B
+170,0 days 00:07:00,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+171,0 days 00:07:32,B: with some clothes hanging on the left,,,B,All
+172,0 days 00:07:55,B: and blue underwear on the right?,,,B,All
+173,0 days 00:08:01,A: yes,,,A,All
+174,0 days 00:08:13,A: and visible hangers,,,A,All
+175,0 days 00:08:22,"B: yes, we are done",,,B,All
+176,0 days 00:08:27,,A: cmd: done,,A,All
+177,0 days 00:08:28,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+178,0 days 00:08:30,,,B: cmd: done,B,All
+179,0 days 00:08:30,GM: Well done! Both of you are                            indeed in the same room of type: d/doorway/indoor!,GM: Well done! Both of you are                            indeed in the same room of type: d/ doorway/ indoor!,GM: Well done! Both of you are                            indeed in the same room of type: d/ doorway/ indoor!,GM,All
+180,0 days 00:08:30,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+181,0 days 00:08:30,GM: ,GM: ,GM: ,GM,All
+182,0 days 00:08:31,GM: Here's your token: 7238QP10R,GM: Here's your token: 7238QP10R,GM: Here's your token: 7238QP10R,GM,All
+183,0 days 00:08:59,A: ,A: ,,A,All
+184,0 days 00:08:59,,,GM: voiceless_temple has left the game.,GM,B
+185,0 days 00:09:33,B: ,,B: ,B,All
+186,0 days 00:09:33,,GM: pleasant_pond has left the game.,,GM,A
+187,0 days 02:43:18,GM: ,GM: ,GM: ,GM,All

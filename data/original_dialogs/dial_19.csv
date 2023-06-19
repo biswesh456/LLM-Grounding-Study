@@ -1,0 +1,69 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:00,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / k/ kitchen/ ADE_train_00010469.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, slimy_boombox! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:02,,GM: You have to meet in the room of type: d/ dining_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / s/ street/ ADE_train_00017552.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, dark_eraser! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: d/ dining_room,GM,B
+20,0 days 00:00:19,B: i am currently out side,,,B,All
+21,0 days 00:00:25,A: Im in a kitchen,,,A,All
+22,0 days 00:00:28,,,B: cmd: w,B,All
+23,0 days 00:00:29,,,GM: url: / d/ dining_room/ ADE_train_00006891.jpg,GM,B
+25,0 days 00:00:29,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+26,0 days 00:00:43,B: i am now in a dinning room with 4 brown chairs,,,B,All
+27,0 days 00:00:49,"A: I see a dining room, but definetly not in one",,,A,All
+28,0 days 00:00:52,A: I'll move,,,A,All
+29,0 days 00:01:01,,A: cmd: n,,A,All
+30,0 days 00:01:01,,GM: Nothing happened.You can go: [/ e]ast [/ w]est,,GM,A
+31,0 days 00:01:03,B: well 6 chairs sorry,,,B,All
+32,0 days 00:01:18,,A: cmd: w,,A,All
+33,0 days 00:01:18,,GM: url: / d/ dining_room/ ADE_train_00006984.jpg,,GM,A
+35,0 days 00:01:18,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+36,0 days 00:01:32,,A: cmd: n,,A,All
+37,0 days 00:01:32,,GM: url: / b/ bathroom/ ADE_train_00002711.jpg,,GM,A
+39,0 days 00:01:32,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+40,0 days 00:01:38,B: and a plant in the center of the table,,,B,All
+41,0 days 00:01:46,,A: cmd: n,,A,All
+42,0 days 00:01:47,,GM: url: / p/ parlor/ ADE_train_00015156.jpg,,GM,A
+44,0 days 00:01:47,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+45,0 days 00:01:58,A: Im moving to fund you,,,A,All
+46,0 days 00:02:02,,A: cmd: n,,A,All
+47,0 days 00:02:02,,GM: url: / s/ street/ ADE_train_00017552.jpg,,GM,A
+49,0 days 00:02:02,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+50,0 days 00:02:03,B: ok,,,B,All
+51,0 days 00:02:11,,A: cmd: w,,A,All
+52,0 days 00:02:11,,GM: url: / d/ dining_room/ ADE_train_00006891.jpg,,GM,A
+54,0 days 00:02:11,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+55,0 days 00:02:22,A: Broken chairs? ,,,A,All
+56,0 days 00:02:30,A: Glass table? ,,,A,All
+57,0 days 00:02:35,B: no the legs look silver,,,B,All
+58,0 days 00:02:47,B: glass table yes,,,B,All
+59,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+60,0 days 00:03:01,B: with silver bottom to it,,,B,All
+61,0 days 00:03:16,"A: Brown chairs, silver legs, plant in center of table",,,A,All
+62,0 days 00:03:22,B: yes,,,B,All
+63,0 days 00:03:28,A: Im there,,,A,All
+64,0 days 00:03:31,,,B: cmd: done,B,All
+65,0 days 00:03:31,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+66,0 days 00:03:34,,A: cmd: done,,A,All
+67,0 days 00:03:34,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM,All
+68,0 days 00:03:34,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+69,0 days 00:03:34,GM: ,GM: ,GM: ,GM,All
+70,0 days 00:03:34,GM: Here's your token: 112LN32X1,GM: Here's your token: 112LN32X1,GM: Here's your token: 112LN32X1,GM,All
+71,0 days 00:03:54,B: ,,B: ,B,All
+72,0 days 00:03:54,,GM: dark_eraser has left the game.,,GM,A
+73,0 days 00:09:41,A: ,A: ,,A,All
+74,0 days 00:09:41,,,GM: slimy_boombox has left the game.,GM,B
+75,0 days 03:05:36,GM: ,GM: ,GM: ,GM,All

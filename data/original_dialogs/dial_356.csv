@@ -1,0 +1,126 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / h/ hallway/ ADE_train_00008842.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:05,,"GM: Welcome to the game, wandering_mousepad! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:05,,GM: You have to meet in the room of type: u/ utility_room,,GM,A
+15,0 days 00:00:05,,,GM: url: / l/ living_room/ ADE_train_00000652.jpg,GM,B
+17,0 days 00:00:06,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:06,,,"GM: Welcome to the game, curved_facewash! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: u/ utility_room,GM,B
+20,0 days 00:00:21,,A: cmd: look,,A,All
+21,0 days 00:00:21,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+22,0 days 00:00:25,,A: cmd: n,,A,All
+23,0 days 00:00:26,,GM: url: / b/ bedroom/ ADE_train_00000429.jpg,,GM,A
+25,0 days 00:00:26,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+26,0 days 00:00:26,,,B: cmd: e,B,All
+27,0 days 00:00:26,,,GM: url: / u/ utility_room/ ADE_train_00019415.jpg,GM,B
+29,0 days 00:00:27,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+30,0 days 00:00:31,,A: cmd: n,,A,All
+31,0 days 00:00:32,,GM: url: / l/ living_room/ ADE_train_00000652.jpg,,GM,A
+33,0 days 00:00:32,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+34,0 days 00:00:32,,,B: cmd: s,B,All
+35,0 days 00:00:32,,,GM: url: / u/ utility_room/ ADE_train_00019428.jpg,GM,B
+37,0 days 00:00:33,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+38,0 days 00:00:37,,,B: cmd: s,B,All
+39,0 days 00:00:37,,,GM: url: / d/ dining_room/ ADE_train_00007145.jpg,GM,B
+41,0 days 00:00:38,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+42,0 days 00:00:38,,A: cmd: n,,A,All
+43,0 days 00:00:38,,GM: url: / u/ utility_room/ ADE_train_00019419.jpg,,GM,A
+45,0 days 00:00:39,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+46,0 days 00:00:46,,,B: cmd: w,B,All
+47,0 days 00:00:46,,,GM: url: / h/ hallway/ ADE_train_00008842.jpg,GM,B
+49,0 days 00:00:47,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+50,0 days 00:00:47,A: All the way north west,,,A,All
+51,0 days 00:00:54,,,B: cmd: e,B,All
+52,0 days 00:00:54,,,GM: url: / d/ dining_room/ ADE_train_00007145.jpg,GM,B
+54,0 days 00:00:55,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+55,0 days 00:00:55,A: Is where I found what looks like a utility room,,,A,All
+56,0 days 00:00:59,,,B: cmd: n,B,All
+57,0 days 00:00:59,,,GM: url: / u/ utility_room/ ADE_train_00019428.jpg,GM,B
+59,0 days 00:01:00,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+60,0 days 00:01:08,,,B: cmd: w,B,All
+61,0 days 00:01:08,,,GM: url: / b/ bedroom/ ADE_train_00000429.jpg,GM,B
+63,0 days 00:01:09,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+64,0 days 00:01:11,"A: Has a washing machine in the center, wooden floors, a sink on the right",,,A,All
+65,0 days 00:01:12,,,B: cmd: e,B,All
+66,0 days 00:01:12,,,GM: url: / u/ utility_room/ ADE_train_00019428.jpg,GM,B
+68,0 days 00:01:13,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+69,0 days 00:01:36,A: Whereabouts are you?,,,A,All
+70,0 days 00:01:46,B: I'm in a room with two washing machines and a sink next to a child's room.,,,B,All
+71,0 days 00:01:56,A: Ah okay do you want me to come find you?,,,A,All
+72,0 days 00:02:16,B: Yeah. Do we type /done?,,,B,All
+73,0 days 00:02:24,A: Not until we're in the same room,,,A,All
+74,0 days 00:02:39,,A: cmd: e,,A,All
+75,0 days 00:02:40,B: You're somewhere else?,,,B,All
+76,0 days 00:02:40,,GM: url: / d/ dining_room/ ADE_train_00006975.jpg,,GM,A
+78,0 days 00:02:41,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+79,0 days 00:02:43,,,B: cmd: e,B,All
+80,0 days 00:02:44,,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+81,0 days 00:02:47,,,B: cmd: n,B,All
+82,0 days 00:02:48,,,GM: url: / u/ utility_room/ ADE_train_00019415.jpg,GM,B
+84,0 days 00:02:48,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+85,0 days 00:02:52,"A: Yeah I'm in a different utility room, it sounds like",,,A,All
+86,0 days 00:02:57,,,B: cmd: n,B,All
+87,0 days 00:02:58,,,GM: url: / d/ dining_room/ ADE_train_00006975.jpg,GM,B
+89,0 days 00:02:58,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+90,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+91,0 days 00:03:02,,,B: cmd: s,B,All
+92,0 days 00:03:03,,,GM: url: / u/ utility_room/ ADE_train_00019415.jpg,GM,B
+94,0 days 00:03:03,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+95,0 days 00:03:04,"A: Stay there, i'll come find you",,,A,All
+96,0 days 00:03:07,,A: cmd: s,,A,All
+97,0 days 00:03:07,,,B: cmd: w,B,All
+98,0 days 00:03:08,,GM: url: / u/ utility_room/ ADE_train_00019415.jpg,,GM,A
+100,0 days 00:03:08,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+101,0 days 00:03:09,,,GM: url: / l/ living_room/ ADE_train_00000652.jpg,GM,B
+103,0 days 00:03:09,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+104,0 days 00:03:15,,A: cmd: s,,A,All
+105,0 days 00:03:15,,GM: url: / u/ utility_room/ ADE_train_00019428.jpg,,GM,A
+107,0 days 00:03:16,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+108,0 days 00:03:16,,,B: cmd: n,B,All
+109,0 days 00:03:17,,,GM: url: / u/ utility_room/ ADE_train_00019419.jpg,GM,B
+111,0 days 00:03:17,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+112,0 days 00:03:22,,A: cmd: s,,A,All
+113,0 days 00:03:22,,GM: url: / d/ dining_room/ ADE_train_00007145.jpg,,GM,A
+115,0 days 00:03:23,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+116,0 days 00:03:23,B: found your room,,,B,All
+117,0 days 00:03:26,B: can you go back there,,,B,All
+118,0 days 00:03:33,"A: Oh cool, I'll come back",,,A,All
+119,0 days 00:03:34,A: Hang on,,,A,All
+120,0 days 00:03:36,,A: cmd: n,,A,All
+121,0 days 00:03:36,,GM: url: / u/ utility_room/ ADE_train_00019428.jpg,,GM,A
+123,0 days 00:03:37,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+124,0 days 00:03:40,,A: cmd: n,,A,All
+125,0 days 00:03:40,,GM: url: / u/ utility_room/ ADE_train_00019415.jpg,,GM,A
+127,0 days 00:03:41,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+128,0 days 00:03:43,,A: cmd: n,,A,All
+129,0 days 00:03:44,,GM: url: / d/ dining_room/ ADE_train_00006975.jpg,,GM,A
+131,0 days 00:03:44,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+132,0 days 00:03:49,,A: cmd: w,,A,All
+133,0 days 00:03:49,,GM: url: / u/ utility_room/ ADE_train_00019419.jpg,,GM,A
+135,0 days 00:03:50,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+136,0 days 00:03:56,"B: This looks more like a ""utility"" room",,,B,All
+137,0 days 00:03:56,"A: Okay, I'm back :)",,,A,All
+138,0 days 00:04:06,,,B: cmd: done,B,All
+139,0 days 00:04:07,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+140,0 days 00:04:12,A: Awesome,,,A,All
+141,0 days 00:04:13,,A: cmd: done,,A,All
+142,0 days 00:04:14,GM: Well done! Both of you are                            indeed in the same room of type: u/utility_room!,GM: Well done! Both of you are                            indeed in the same room of type: u/ utility_room!,GM: Well done! Both of you are                            indeed in the same room of type: u/ utility_room!,GM,All
+143,0 days 00:04:14,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+144,0 days 00:04:15,GM: ,GM: ,GM: ,GM,All
+145,0 days 00:04:15,GM: Here's your token: 584Y31AK5,GM: Here's your token: 584Y31AK5,GM: Here's your token: 584Y31AK5,GM,All
+146,0 days 00:04:57,A: ,A: ,,A,All
+147,0 days 00:04:57,,,GM: wandering_mousepad has left the game.,GM,B
+148,0 days 00:13:09,B: ,,B: ,B,All
+149,0 days 00:13:12,,GM: curved_facewash has left the game.,,GM,A
+150,0 days 01:17:20,GM: ,GM: ,GM: ,GM,All

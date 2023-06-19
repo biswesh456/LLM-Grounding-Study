@@ -1,0 +1,82 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / s/ street/ ADE_train_00018260.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, mellow_sharpie! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: d/ doorway/ indoor,,GM,A
+15,0 days 00:00:03,,,GM: url: / b/ bathroom/ ADE_train_00002838.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, grotesque_kilt! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: d/ doorway/ indoor,GM,B
+20,0 days 00:00:20,,,B: cmd: s,B,All
+21,0 days 00:00:20,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007323.jpg,GM,B
+23,0 days 00:00:20,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+24,0 days 00:00:21,A: hello im at a road with parked cars,,,A,All
+25,0 days 00:00:24,,A: cmd: n,,A,All
+26,0 days 00:00:25,,GM: url: / d/ doorway/ indoor/ ADE_train_00007318.jpg,,GM,A
+28,0 days 00:00:25,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+29,0 days 00:00:50,B: I'm in a doorway looking out into a desert,,,B,All
+30,0 days 00:01:03,A: went north at a doorway looks under construction,,,A,All
+31,0 days 00:01:15,,A: cmd: n,,A,All
+32,0 days 00:01:15,,GM: url: / d/ doorway/ indoor/ ADE_train_00007338.jpg,,GM,A
+34,0 days 00:01:15,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+35,0 days 00:01:19,B: We neeed to go to a doorway/indoor,,,B,All
+36,0 days 00:01:22,B: what does that even mean,,,B,All
+37,0 days 00:01:28,B: I think where I am qualifies,,,B,All
+38,0 days 00:01:36,A: went north again at a doorway inside what looks like a church,,,A,All
+39,0 days 00:01:44,"B: I am indoors, but at a doorway looking out into a desert",,,B,All
+40,0 days 00:01:47,A: i think im at the place,,,A,All
+41,0 days 00:01:48,B: I think you should try to go here,,,B,All
+42,0 days 00:01:54,B: Did you find it?,,,B,All
+43,0 days 00:02:07,A: im indoors looking at a doorway,,,A,All
+44,0 days 00:02:16,B: Is it looking out at a desert?,,,B,All
+45,0 days 00:02:19,A: i dont think it is the desert one,,,A,All
+46,0 days 00:02:22,B: ok,,,B,All
+47,0 days 00:02:24,B: I'll move,,,B,All
+48,0 days 00:02:28,A: that would be looking outdoors,,,A,All
+49,0 days 00:02:32,,,B: cmd: s,B,All
+50,0 days 00:02:32,,,GM: url: / l/ living_room/ ADE_train_00000857.jpg,GM,B
+52,0 days 00:02:33,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+53,0 days 00:02:38,,,B: cmd: s,B,All
+54,0 days 00:02:38,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007326.jpg,GM,B
+56,0 days 00:02:39,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+57,0 days 00:02:49,,,B: cmd: ,B,All
+58,0 days 00:03:02,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+59,0 days 00:03:06,B: Ok - is it a big white door?,,,B,All
+60,0 days 00:03:10,A: i was on a road with parked cars and went north twice,,,A,All
+61,0 days 00:03:12,B: with clothes hangers?,,,B,All
+62,0 days 00:03:15,B: on the left?,,,B,All
+63,0 days 00:03:24,A: no a black door with two windows on teither side,,,A,All
+64,0 days 00:03:27,,,B: cmd: w,B,All
+65,0 days 00:03:27,,,GM: url: / s/ street/ ADE_train_00018260.jpg,GM,B
+67,0 days 00:03:27,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+68,0 days 00:03:37,A: looks churchy,,,A,All
+69,0 days 00:03:39,,,B: cmd: n,B,All
+70,0 days 00:03:40,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007318.jpg,GM,B
+72,0 days 00:03:40,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+73,0 days 00:03:48,,,B: cmd: n,B,All
+74,0 days 00:03:48,,,GM: url: / d/ doorway/ indoor/ ADE_train_00007338.jpg,GM,B
+76,0 days 00:03:49,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+77,0 days 00:03:54,,,B: cmd: done,B,All
+78,0 days 00:03:55,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+79,0 days 00:03:57,B: found it,,,B,All
+80,0 days 00:04:11,B: press /done,,,B,All
+81,0 days 00:04:19,,A: cmd: done,,A,All
+82,0 days 00:04:19,GM: Well done! Both of you are                            indeed in the same room of type: d/doorway/indoor!,GM: Well done! Both of you are                            indeed in the same room of type: d/ doorway/ indoor!,GM: Well done! Both of you are                            indeed in the same room of type: d/ doorway/ indoor!,GM,All
+83,0 days 00:04:19,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+84,0 days 00:04:19,GM: ,GM: ,GM: ,GM,All
+85,0 days 00:04:20,GM: Here's your token: 339C14Z8B,GM: Here's your token: 339C14Z8B,GM: Here's your token: 339C14Z8B,GM,All
+86,0 days 00:04:32,B: ,,B: ,B,All
+87,0 days 00:04:33,,GM: grotesque_kilt has left the game.,,GM,A
+88,0 days 00:04:55,A: ,A: ,,A,All
+89,0 days 00:04:55,,,GM: mellow_sharpie has left the game.,GM,B
+90,0 days 04:04:49,GM: ,GM: ,GM: ,GM,All

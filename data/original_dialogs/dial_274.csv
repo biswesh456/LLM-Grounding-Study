@@ -1,0 +1,58 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / b/ bedroom/ ADE_train_00000291.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, high_volcano! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: c/ childs_room,,GM,A
+15,0 days 00:00:04,,,GM: url: / h/ hunting_lodge/ outdoor/ ADE_train_00009745.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, mammoth_microphone! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: c/ childs_room,GM,B
+20,0 days 00:00:13,,,B: cmd: n,B,All
+21,0 days 00:00:14,,,GM: url: / b/ bedroom/ ADE_train_00000291.jpg,GM,B
+23,0 days 00:00:14,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+24,0 days 00:00:15,,A: cmd: look,,A,All
+25,0 days 00:00:16,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+26,0 days 00:00:22,,A: cmd: s,,A,All
+27,0 days 00:00:22,B: nw,,,B,All
+28,0 days 00:00:22,,GM: url: / h/ hunting_lodge/ outdoor/ ADE_train_00009745.jpg,,GM,A
+30,0 days 00:00:23,,GM: You can go: [/ n]orth,,GM,A
+31,0 days 00:00:24,,,B: cmd: w,B,All
+32,0 days 00:00:24,,,GM: url: / c/ childs_room/ ADE_train_00005486.jpg,GM,B
+34,0 days 00:00:24,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+35,0 days 00:00:31,,A: cmd: n,,A,All
+36,0 days 00:00:31,,GM: url: / b/ bedroom/ ADE_train_00000291.jpg,,GM,A
+38,0 days 00:00:32,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+39,0 days 00:00:37,B: I'm in a child's room,,,B,All
+40,0 days 00:00:40,"A: Okay, heading there",,,A,All
+41,0 days 00:00:42,,A: cmd: w,,A,All
+42,0 days 00:00:43,,GM: url: / c/ childs_room/ ADE_train_00005486.jpg,,GM,A
+44,0 days 00:00:43,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+45,0 days 00:00:45,B: fish painted on the wall,,,B,All
+46,0 days 00:00:52,A: Does it have a fish theme?,,,A,All
+47,0 days 00:00:54,B: yellow room,,,B,All
+48,0 days 00:00:56,B: yes,,,B,All
+49,0 days 00:01:03,,,B: cmd: done,B,All
+50,0 days 00:01:04,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+51,0 days 00:01:08,,A: cmd: done,,A,All
+52,0 days 00:01:09,GM: Well done! Both of you are                            indeed in the same room of type: c/childs_room!,GM: Well done! Both of you are                            indeed in the same room of type: c/ childs_room!,GM: Well done! Both of you are                            indeed in the same room of type: c/ childs_room!,GM,All
+53,0 days 00:01:09,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+54,0 days 00:01:09,GM: ,GM: ,GM: ,GM,All
+55,0 days 00:01:10,GM: Here's your token: 580ENXGCK,GM: Here's your token: 580ENXGCK,GM: Here's your token: 580ENXGCK,GM,All
+56,0 days 00:01:11,B: Have a great night! ;-),,,B,All
+57,0 days 00:01:19,A: :),,,A,All
+58,0 days 00:01:34,A: ,A: ,,A,All
+59,0 days 00:01:34,B: ,,B: ,B,All
+60,0 days 00:01:34,,,GM: high_volcano has left the game.,GM,B
+61,0 days 00:01:35,,GM: mammoth_microphone has left the game.,,GM,A
+62,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+63,0 days 01:19:17,GM: ,GM: ,GM: ,GM,All

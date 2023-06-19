@@ -1,0 +1,64 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / b/ bedroom/ ADE_train_00000227.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh [/ n]orth,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, energized_glowstick! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: s/ staircase,,GM,A
+15,0 days 00:00:03,,,GM: url: / s/ street/ ADE_train_00016958.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, huge_sands! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: s/ staircase,GM,B
+20,0 days 00:00:17,,A: cmd: n,,A,All
+21,0 days 00:00:17,,GM: url: / h/ hotel_room/ ADE_train_00009607.jpg,,GM,A
+23,0 days 00:00:17,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+24,0 days 00:00:17,B: hi,,,B,All
+25,0 days 00:00:23,A: ney,,,A,All
+26,0 days 00:00:28,,A: cmd: n,,A,All
+27,0 days 00:00:28,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,,GM,A
+28,0 days 00:00:33,A: hey,,,A,All
+29,0 days 00:00:37,"B: so, where we go first?",,,B,All
+30,0 days 00:00:39,,A: cmd: s,,A,All
+31,0 days 00:00:39,,GM: url: / b/ bedroom/ ADE_train_00000227.jpg,,GM,A
+33,0 days 00:00:39,,GM: You can go: [/ s]outh [/ n]orth,,GM,A
+34,0 days 00:00:46,A: s/,,,A,All
+35,0 days 00:00:54,A: find a stair case,,,A,All
+36,0 days 00:00:58,B: we should go down,,,B,All
+37,0 days 00:01:07,B: ok,,,B,All
+38,0 days 00:01:14,"B: I know, a staircase",,,B,All
+39,0 days 00:01:14,A: no find and wait,,,A,All
+40,0 days 00:01:18,,A: cmd: l,,A,All
+41,0 days 00:01:23,,A: cmd: l,,A,All
+42,0 days 00:01:28,,A: cmd: l,,A,All
+43,0 days 00:01:35,,A: cmd: l,,A,All
+44,0 days 00:01:35,,,B: cmd: n,B,All
+45,0 days 00:01:35,,,GM: url: / s/ staircase/ ADE_train_00016834.jpg,GM,B
+47,0 days 00:01:35,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+48,0 days 00:01:39,,A: cmd: look,,A,All
+49,0 days 00:01:39,,GM: You can go: [/ s]outh [/ n]orth,,GM,A
+50,0 days 00:01:41,A: s,,,A,All
+51,0 days 00:01:46,B: i got it,,,B,All
+52,0 days 00:01:53,,,B: cmd: done,B,All
+53,0 days 00:01:55,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+54,0 days 00:01:57,,A: cmd: l,,A,All
+55,0 days 00:02:05,A: wait,,,A,All
+56,0 days 00:02:12,A: wait for me to be in same room,,,A,All
+57,0 days 00:02:15,,A: cmd: done,,A,All
+58,0 days 00:02:15,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type s/staircase","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type s/ staircase","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type s/ staircase",GM,All
+59,0 days 00:02:15,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+60,0 days 00:02:15,GM: ,GM: ,GM: ,GM,All
+61,0 days 00:02:16,GM: Here's your token: 1022OVGG0K,GM: Here's your token: 1022OVGG0K,GM: Here's your token: 1022OVGG0K,GM,All
+62,0 days 00:02:47,A: ,A: ,,A,All
+63,0 days 00:02:48,,,GM: energized_glowstick has left the game.,GM,B
+64,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+65,0 days 00:03:17,B: ,,B: ,B,All
+66,0 days 00:03:18,,GM: huge_sands has left the game.,,GM,A
+67,0 days 00:26:48,GM: ,GM: ,GM: ,GM,All

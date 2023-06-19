@@ -1,0 +1,75 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / l/ living_room/ ADE_train_00011132.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, huge_rope! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: j/ jacuzzi/ indoor,,GM,A
+15,0 days 00:00:03,,,GM: url: / c/ corridor/ ADE_train_00006280.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, petite_resonance! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: j/ jacuzzi/ indoor,GM,B
+20,0 days 00:00:09,,A: cmd: n,,A,All
+21,0 days 00:00:10,,GM: url: / k/ kitchen/ ADE_train_00010200.jpg,,GM,A
+23,0 days 00:00:10,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+24,0 days 00:00:11,,,B: cmd: n,B,All
+25,0 days 00:00:11,,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,GM,B
+26,0 days 00:00:13,,A: cmd: n,,A,All
+27,0 days 00:00:13,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009942.jpg,,GM,A
+29,0 days 00:00:13,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+30,0 days 00:00:15,B: .w,,,B,All
+31,0 days 00:00:20,,A: cmd: n,,A,All
+32,0 days 00:00:20,,GM: url: / c/ corridor/ ADE_train_00006280.jpg,,GM,A
+34,0 days 00:00:21,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+35,0 days 00:00:22,,A: cmd: n,,A,All
+36,0 days 00:00:23,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,,GM,A
+37,0 days 00:00:26,,A: cmd: w,,A,All
+38,0 days 00:00:26,,,B: cmd: w,B,All
+39,0 days 00:00:26,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009936.jpg,,GM,A
+41,0 days 00:00:26,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+42,0 days 00:00:27,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009936.jpg,GM,B
+44,0 days 00:00:27,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+45,0 days 00:00:27,,,B: cmd: e,B,All
+46,0 days 00:00:27,,,GM: url: / c/ corridor/ ADE_train_00006280.jpg,GM,B
+48,0 days 00:00:28,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+49,0 days 00:00:37,,,B: cmd: w,B,All
+50,0 days 00:00:37,,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009936.jpg,GM,B
+52,0 days 00:00:38,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+53,0 days 00:00:46,A: not sure if jacuzzi means pool too...,,,A,All
+54,0 days 00:00:54,A: but i found one that was round and one that was rectangular,,,A,All
+55,0 days 00:00:58,B: no pool in my room,,,B,All
+56,0 days 00:00:59,A: let me know when you find one,,,A,All
+57,0 days 00:01:06,B: round jacuzzi,,,B,All
+58,0 days 00:01:09,A: keep moving from room to room,,,A,All
+59,0 days 00:01:14,A: okay are there plants in the room?,,,A,All
+60,0 days 00:01:20,B: 2 chairs on left,,,B,All
+61,0 days 00:01:23,A: with two white pool chairs on the right?,,,A,All
+62,0 days 00:01:30,B: on right yes,,,B,All
+63,0 days 00:01:30,A: hm,,,A,All
+64,0 days 00:01:34,A: ok,,,A,All
+65,0 days 00:01:38,A: plants?,,,A,All
+66,0 days 00:01:39,B: plants on left,,,B,All
+67,0 days 00:01:41,A: ok,,,A,All
+68,0 days 00:01:45,B: you there,,,B,All
+69,0 days 00:01:46,,A: cmd: done,,A,All
+70,0 days 00:01:48,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+71,0 days 00:01:49,A: yes,,,A,All
+72,0 days 00:01:52,,,B: cmd: done,B,All
+73,0 days 00:01:53,GM: Well done! Both of you are                            indeed in the same room of type: j/jacuzzi/indoor!,GM: Well done! Both of you are                            indeed in the same room of type: j/ jacuzzi/ indoor!,GM: Well done! Both of you are                            indeed in the same room of type: j/ jacuzzi/ indoor!,GM,All
+74,0 days 00:01:53,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+75,0 days 00:01:53,GM: ,GM: ,GM: ,GM,All
+76,0 days 00:01:53,GM: Here's your token: 415QPZJAE,GM: Here's your token: 415QPZJAE,GM: Here's your token: 415QPZJAE,GM,All
+77,0 days 00:02:03,A: ,A: ,,A,All
+78,0 days 00:02:03,,,GM: huge_rope has left the game.,GM,B
+79,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+80,0 days 00:05:06,B: ,,B: ,B,All
+81,0 days 00:05:06,,GM: petite_resonance has left the game.,,GM,A
+82,0 days 03:01:35,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,141 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / s/ street/ ADE_train_00018647.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, whispering_foliage! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: w/ wine_cellar/ bottle_storage,,GM,A
+15,0 days 00:00:04,,,GM: url: / b/ bedroom/ ADE_train_00003516.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, massive_radio! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: w/ wine_cellar/ bottle_storage,GM,B
+20,0 days 00:00:08,B: Hello,,,B,All
+21,0 days 00:00:12,,,B: cmd: look,B,All
+22,0 days 00:00:12,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+23,0 days 00:00:16,,,B: cmd: e,B,All
+24,0 days 00:00:16,,,GM: url: / s/ street/ ADE_train_00018497.jpg,GM,B
+26,0 days 00:00:17,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+27,0 days 00:00:17,A: hello,,,A,All
+28,0 days 00:00:23,,,B: cmd: w,B,All
+29,0 days 00:00:23,,,GM: url: / b/ bedroom/ ADE_train_00003516.jpg,GM,B
+31,0 days 00:00:23,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+32,0 days 00:00:25,,,B: cmd: s,B,All
+33,0 days 00:00:25,,,GM: url: / b/ bathroom/ ADE_train_00002774.jpg,GM,B
+35,0 days 00:00:25,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+36,0 days 00:00:28,,A: cmd: s,,A,All
+37,0 days 00:00:28,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006227.jpg,,GM,A
+39,0 days 00:00:28,,GM: You can go: [/ n]orth,,GM,A
+40,0 days 00:00:28,,,B: cmd: n,B,All
+41,0 days 00:00:28,,,GM: url: / b/ bedroom/ ADE_train_00003516.jpg,GM,B
+43,0 days 00:00:29,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+44,0 days 00:00:31,,,B: cmd: n,B,All
+45,0 days 00:00:31,,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00000969.jpg,GM,B
+47,0 days 00:00:31,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+48,0 days 00:00:37,,A: cmd: s,,A,All
+49,0 days 00:00:37,,GM: Nothing happened.You can go: [/ n]orth,,GM,A
+50,0 days 00:00:37,B: I found a cellar,,,B,All
+51,0 days 00:00:41,,A: cmd: n,,A,All
+52,0 days 00:00:42,,GM: url: / s/ street/ ADE_train_00018647.jpg,,GM,A
+54,0 days 00:00:42,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+55,0 days 00:00:46,A: I'm in a street location,,,A,All
+56,0 days 00:00:47,,A: cmd: w,,A,All
+57,0 days 00:00:47,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00020064.jpg,,GM,A
+59,0 days 00:00:48,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+60,0 days 00:00:51,B: With a diamond pattern,,,B,All
+61,0 days 00:00:56,B: And most bottles are black ,,,B,All
+62,0 days 00:00:56,"A: oh, I found a wine cellar",,,A,All
+63,0 days 00:01:02,B: What does it look like,,,B,All
+64,0 days 00:01:09,A: It's in a rectangular pattern,,,A,All
+65,0 days 00:01:14,,A: cmd: w,,A,All
+66,0 days 00:01:14,,GM: url: / b/ bathroom/ ADE_train_00002774.jpg,,GM,A
+68,0 days 00:01:15,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+69,0 days 00:01:18,,A: cmd: n,,A,All
+70,0 days 00:01:19,,GM: url: / b/ bedroom/ ADE_train_00003516.jpg,,GM,A
+72,0 days 00:01:19,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+73,0 days 00:01:22,"B: This one has 3 diamonds, the one I am in",,,B,All
+74,0 days 00:01:24,,A: cmd: s,,A,All
+75,0 days 00:01:25,,GM: url: / b/ bathroom/ ADE_train_00002774.jpg,,GM,A
+77,0 days 00:01:26,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+78,0 days 00:01:29,,A: cmd: e,,A,All
+79,0 days 00:01:29,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00020064.jpg,,GM,A
+81,0 days 00:01:30,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+82,0 days 00:01:31,,A: cmd: e,,A,All
+83,0 days 00:01:31,,GM: url: / s/ street/ ADE_train_00018647.jpg,,GM,A
+85,0 days 00:01:31,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+86,0 days 00:01:32,,A: cmd: e,,A,All
+87,0 days 00:01:33,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,,GM,A
+88,0 days 00:01:39,,A: cmd: s,,A,All
+89,0 days 00:01:39,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006227.jpg,,GM,A
+91,0 days 00:01:39,,GM: You can go: [/ n]orth,,GM,A
+92,0 days 00:01:41,B: There are 2 rows of wine under the 3 diamonds ,,,B,All
+93,0 days 00:01:45,,A: cmd: n,,A,All
+94,0 days 00:01:46,,GM: url: / s/ street/ ADE_train_00018647.jpg,,GM,A
+96,0 days 00:01:46,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+97,0 days 00:01:50,A: What's near your cellar?,,,A,All
+98,0 days 00:01:52,,A: cmd: s,,A,All
+99,0 days 00:01:53,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006227.jpg,,GM,A
+101,0 days 00:01:53,,GM: You can go: [/ n]orth,,GM,A
+102,0 days 00:01:57,,,B: cmd: look,B,All
+103,0 days 00:01:58,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+104,0 days 00:01:59,,A: cmd: n,,A,All
+105,0 days 00:02:01,,GM: url: / s/ street/ ADE_train_00018647.jpg,,GM,A
+107,0 days 00:02:02,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+108,0 days 00:02:02,,,B: cmd: s,B,All
+109,0 days 00:02:04,,,GM: url: / b/ bedroom/ ADE_train_00003516.jpg,GM,B
+111,0 days 00:02:05,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+112,0 days 00:02:06,,A: cmd: w,,A,All
+113,0 days 00:02:06,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00020064.jpg,,GM,A
+115,0 days 00:02:07,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+116,0 days 00:02:08,,,B: cmd: n,B,All
+117,0 days 00:02:08,,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00000969.jpg,GM,B
+119,0 days 00:02:09,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+120,0 days 00:02:10,,A: cmd: n,,A,All
+121,0 days 00:02:11,,GM: url: / s/ street/ ADE_train_00018497.jpg,,GM,A
+123,0 days 00:02:12,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+124,0 days 00:02:12,B: A bedroom to the south,,,B,All
+125,0 days 00:02:21,,,B: cmd: n,B,All
+126,0 days 00:02:22,,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00020063.jpg,GM,B
+128,0 days 00:02:22,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+129,0 days 00:02:23,,A: cmd: s,,A,All
+130,0 days 00:02:24,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00020064.jpg,,GM,A
+132,0 days 00:02:24,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+133,0 days 00:02:26,,A: cmd: n,,A,All
+134,0 days 00:02:27,,GM: url: / s/ street/ ADE_train_00018497.jpg,,GM,A
+136,0 days 00:02:28,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+137,0 days 00:02:29,B: I found another wine cellar,,,B,All
+138,0 days 00:02:35,,A: cmd: w,,A,All
+139,0 days 00:02:36,,GM: url: / b/ bedroom/ ADE_train_00003516.jpg,,GM,A
+141,0 days 00:02:36,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+142,0 days 00:02:39,,A: cmd: n,,A,All
+143,0 days 00:02:40,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00000969.jpg,,GM,A
+145,0 days 00:02:41,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+146,0 days 00:02:45,B: With light wood and a bottle with a red cap on the bottom left,,,B,All
+147,0 days 00:02:46,A: I found the diamond one,,,A,All
+148,0 days 00:02:48,A: Return to there,,,A,All
+149,0 days 00:02:54,B: Ok ill go back,,,B,All
+150,0 days 00:02:57,,,B: cmd: s,B,All
+151,0 days 00:02:57,,,GM: url: / w/ wine_cellar/ bottle_storage/ ADE_train_00000969.jpg,GM,B
+153,0 days 00:02:58,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+154,0 days 00:03:01,B: Here,,,B,All
+155,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+156,0 days 00:03:04,,,B: cmd: done,B,All
+157,0 days 00:03:04,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+158,0 days 00:03:06,,A: cmd: done,,A,All
+159,0 days 00:03:06,GM: Well done! Both of you are                            indeed in the same room of type: w/wine_cellar/bottle_storage!,GM: Well done! Both of you are                            indeed in the same room of type: w/ wine_cellar/ bottle_storage!,GM: Well done! Both of you are                            indeed in the same room of type: w/ wine_cellar/ bottle_storage!,GM,All
+160,0 days 00:03:06,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+161,0 days 00:03:07,GM: ,GM: ,GM: ,GM,All
+162,0 days 00:03:07,GM: Here's your token: 441AO5JOE,GM: Here's your token: 441AO5JOE,GM: Here's your token: 441AO5JOE,GM,All
+163,0 days 00:03:19,A: gj,,,A,All
+164,0 days 00:03:21,B: ,,B: ,B,All
+165,0 days 00:03:22,,GM: massive_radio has left the game.,,GM,A
+166,0 days 00:05:35,A: ,A: ,,A,All
+167,0 days 00:05:39,,,GM: whispering_foliage has left the game.,GM,B
+168,0 days 02:42:39,GM: ,GM: ,GM: ,GM,All

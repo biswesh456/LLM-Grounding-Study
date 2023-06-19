@@ -1,0 +1,68 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / d/ dining_room/ ADE_train_00007003.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, high_microphone! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: s/ staircase,,GM,A
+15,0 days 00:00:04,,,GM: url: / c/ chicken_farm/ outdoor/ ADE_train_00005462.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, arrogant_grid_paper! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: s/ staircase,GM,B
+20,0 days 00:00:09,,,B: cmd: n,B,All
+21,0 days 00:00:10,,,GM: url: / s/ street/ ADE_train_00018551.jpg,GM,B
+23,0 days 00:00:10,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+24,0 days 00:00:14,,A: cmd: e,,A,All
+25,0 days 00:00:15,,GM: url: / s/ staircase/ ADE_train_00016791.jpg,,GM,A
+27,0 days 00:00:15,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+28,0 days 00:00:17,,,B: cmd: w,B,All
+29,0 days 00:00:17,,,GM: url: / l/ living_room/ ADE_train_00011312.jpg,GM,B
+31,0 days 00:00:18,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+32,0 days 00:00:22,,,B: cmd: n,B,All
+33,0 days 00:00:22,,,GM: url: / s/ staircase/ ADE_train_00016811.jpg,GM,B
+35,0 days 00:00:22,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+36,0 days 00:00:23,A: I found a staircase,,,A,All
+37,0 days 00:00:27,B: found,,,B,All
+38,0 days 00:00:32,,A: cmd: done,,A,All
+39,0 days 00:00:32,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+40,0 days 00:00:33,B: grey railing,,,B,All
+41,0 days 00:00:41,B: wooden stairs,,,B,All
+42,0 days 00:00:49,B: beige walls,,,B,All
+43,0 days 00:00:56,B: we might be in different rooms,,,B,All
+44,0 days 00:01:03,A: plant on left bottom of stairs,,,A,All
+45,0 days 00:01:12,B: no plant in mine,,,B,All
+46,0 days 00:01:21,A: mine staircase kind of spirals up to the left,,,A,All
+47,0 days 00:01:23,B: do you want to look for me or me for you,,,B,All
+48,0 days 00:01:29,A: find me please,,,A,All
+49,0 days 00:01:35,A: wooden railings,,,A,All
+50,0 days 00:01:35,,,B: cmd: n,B,All
+51,0 days 00:01:35,,,GM: url: / s/ staircase/ ADE_train_00016791.jpg,GM,B
+53,0 days 00:01:36,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+54,0 days 00:01:41,B: spiral,,,B,All
+55,0 days 00:01:43,A: yes,,,A,All
+56,0 days 00:01:46,B: marble,,,B,All
+57,0 days 00:01:51,B: wooden rail,,,B,All
+58,0 days 00:01:56,A: see the plant on left,,,A,All
+59,0 days 00:02:06,,A: cmd: done,,A,All
+60,0 days 00:02:06,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+61,0 days 00:02:08,B: rod iron,,,B,All
+62,0 days 00:02:13,A: yes,,,A,All
+63,0 days 00:02:15,,,B: cmd: done,B,All
+64,0 days 00:02:15,GM: Well done! Both of you are                            indeed in the same room of type: s/staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM: Well done! Both of you are                            indeed in the same room of type: s/ staircase!,GM,All
+65,0 days 00:02:15,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+66,0 days 00:02:16,GM: ,GM: ,GM: ,GM,All
+67,0 days 00:02:16,GM: Here's your token: 575TI36O5,GM: Here's your token: 575TI36O5,GM: Here's your token: 575TI36O5,GM,All
+68,0 days 00:02:34,B: ,,B: ,B,All
+69,0 days 00:02:35,,GM: arrogant_grid_paper has left the game.,,GM,A
+70,0 days 00:02:44,A: ,A: ,,A,All
+71,0 days 00:02:44,,,GM: high_microphone has left the game.,GM,B
+72,0 days 00:03:02,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+73,0 days 01:22:19,GM: ,GM: ,GM: ,GM,All

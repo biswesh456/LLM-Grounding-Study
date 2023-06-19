@@ -1,0 +1,74 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / k/ kitchen/ ADE_train_00000622.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, gigantic_stream! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: h/ home_office,,GM,A
+15,0 days 00:00:04,,,GM: url: / r/ restroom/ indoor/ ADE_train_00015840.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, deep_comb! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: h/ home_office,GM,B
+20,0 days 00:00:14,,,B: cmd: s,B,All
+21,0 days 00:00:18,,,GM: url: / k/ kitchen/ ADE_train_00000622.jpg,GM,B
+23,0 days 00:00:18,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+24,0 days 00:00:25,,,B: cmd: n,B,All
+25,0 days 00:00:26,,,GM: url: / r/ restroom/ indoor/ ADE_train_00015840.jpg,GM,B
+27,0 days 00:00:26,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+28,0 days 00:00:29,,,B: cmd: s,B,All
+29,0 days 00:00:29,,,GM: url: / k/ kitchen/ ADE_train_00000622.jpg,GM,B
+31,0 days 00:00:29,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+32,0 days 00:00:31,,,B: cmd: e,B,All
+33,0 days 00:00:31,,,GM: url: / h/ home_office/ ADE_train_00009349.jpg,GM,B
+35,0 days 00:00:32,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+36,0 days 00:00:33,,A: cmd: n,,A,All
+37,0 days 00:00:33,,GM: url: / r/ restroom/ indoor/ ADE_train_00015840.jpg,,GM,A
+39,0 days 00:00:33,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+40,0 days 00:00:36,,A: cmd: n,,A,All
+41,0 days 00:00:37,,GM: url: / s/ street/ ADE_train_00017646.jpg,,GM,A
+43,0 days 00:00:38,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+44,0 days 00:00:41,,A: cmd: n,,A,All
+45,0 days 00:00:41,,GM: url: / h/ home_office/ ADE_train_00009316.jpg,,GM,A
+47,0 days 00:00:41,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+48,0 days 00:00:45,B: I am in a home office,,,B,All
+49,0 days 00:00:49,A: describe,,,A,All
+50,0 days 00:01:02,,A: cmd: e,,A,All
+51,0 days 00:01:03,,GM: url: / s/ street/ ADE_train_00016904.jpg,,GM,A
+53,0 days 00:01:03,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+54,0 days 00:01:04,B: leather chair on left,,,B,All
+55,0 days 00:01:07,,A: cmd: s,,A,All
+56,0 days 00:01:07,,GM: url: / h/ home_office/ ADE_train_00009404.jpg,,GM,A
+58,0 days 00:01:08,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+59,0 days 00:01:12,,A: cmd: s,,A,All
+60,0 days 00:01:12,,GM: url: / h/ home_office/ ADE_train_00009408.jpg,,GM,A
+62,0 days 00:01:13,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+63,0 days 00:01:13,B: stereo above desk,,,B,All
+64,0 days 00:01:18,,A: cmd: s,,A,All
+65,0 days 00:01:19,,GM: url: / h/ home_office/ ADE_train_00009349.jpg,,GM,A
+67,0 days 00:01:20,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+68,0 days 00:01:22,B: wooden blinds,,,B,All
+69,0 days 00:01:24,A: ok,,,A,All
+70,0 days 00:01:30,B: you there?,,,B,All
+71,0 days 00:01:32,A: dell logo on computer monitor on right?,,,A,All
+72,0 days 00:01:38,,A: cmd: done,,A,All
+73,0 days 00:01:39,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+74,0 days 00:01:43,A: im there,,,A,All
+75,0 days 00:01:44,,,B: cmd: done,B,All
+76,0 days 00:01:44,GM: Well done! Both of you are                            indeed in the same room of type: h/home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM: Well done! Both of you are                            indeed in the same room of type: h/ home_office!,GM,All
+77,0 days 00:01:45,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+78,0 days 00:01:45,GM: ,GM: ,GM: ,GM,All
+79,0 days 00:01:45,GM: Here's your token: 557GZWQLU,GM: Here's your token: 557GZWQLU,GM: Here's your token: 557GZWQLU,GM,All
+80,0 days 00:01:53,A: ,A: ,,A,All
+81,0 days 00:01:53,,,GM: gigantic_stream has left the game.,GM,B
+82,0 days 00:02:06,B: ,,B: ,B,All
+83,0 days 00:02:07,,GM: deep_comb has left the game.,,GM,A
+84,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+85,0 days 01:34:27,GM: ,GM: ,GM: ,GM,All

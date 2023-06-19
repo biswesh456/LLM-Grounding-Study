@@ -1,0 +1,77 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:00,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / b/ bathroom/ ADE_train_00002647.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, natural_atoll! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: p/ playroom,,GM,A
+15,0 days 00:00:03,,,GM: url: / h/ hunting_lodge/ outdoor/ ADE_train_00009746.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ e]ast,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, fuscia_darkness! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: p/ playroom,GM,B
+20,0 days 00:00:17,,,B: cmd: e,B,All
+21,0 days 00:00:17,,,GM: url: / p/ playroom/ ADE_train_00015386.jpg,GM,B
+23,0 days 00:00:17,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,GM,B
+24,0 days 00:00:24,B: i am in a playroom,,,B,All
+25,0 days 00:00:28,,A: cmd: n,,A,All
+26,0 days 00:00:29,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+27,0 days 00:00:29,B: white lower walls,,,B,All
+28,0 days 00:00:35,,A: cmd: s,,A,All
+29,0 days 00:00:35,,GM: url: / l/ living_room/ ADE_train_00011227.jpg,,GM,A
+31,0 days 00:00:35,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+32,0 days 00:00:39,B: green carpet,,,B,All
+33,0 days 00:00:39,,A: cmd: e,,A,All
+34,0 days 00:00:39,,GM: url: / p/ playroom/ ADE_train_00015392.jpg,,GM,A
+36,0 days 00:00:40,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+37,0 days 00:00:47,B: red velvet chair and a play house,,,B,All
+38,0 days 00:00:47,,A: cmd: n,,A,All
+39,0 days 00:00:47,,GM: url: / p/ playroom/ ADE_train_00015400.jpg,,GM,A
+41,0 days 00:00:47,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+42,0 days 00:00:55,,A: cmd: s,,A,All
+43,0 days 00:00:55,,GM: url: / p/ playroom/ ADE_train_00015392.jpg,,GM,A
+45,0 days 00:00:55,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+46,0 days 00:00:59,,A: cmd: w,,A,All
+47,0 days 00:00:59,,GM: url: / l/ living_room/ ADE_train_00011227.jpg,,GM,A
+49,0 days 00:00:59,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+50,0 days 00:01:12,,A: cmd: e,,A,All
+51,0 days 00:01:13,,GM: url: / p/ playroom/ ADE_train_00015392.jpg,,GM,A
+53,0 days 00:01:13,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+54,0 days 00:01:17,,A: cmd: n,,A,All
+55,0 days 00:01:17,,GM: url: / p/ playroom/ ADE_train_00015400.jpg,,GM,A
+57,0 days 00:01:17,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+58,0 days 00:01:20,,A: cmd: w,,A,All
+59,0 days 00:01:20,,GM: url: / b/ bathroom/ ADE_train_00002647.jpg,,GM,A
+61,0 days 00:01:20,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+62,0 days 00:01:25,,A: cmd: e,,A,All
+63,0 days 00:01:25,,GM: url: / p/ playroom/ ADE_train_00015400.jpg,,GM,A
+65,0 days 00:01:25,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+66,0 days 00:01:28,,A: cmd: w,,A,All
+67,0 days 00:01:28,,GM: url: / b/ bathroom/ ADE_train_00002647.jpg,,GM,A
+69,0 days 00:01:28,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+70,0 days 00:01:31,,A: cmd: w,,A,All
+71,0 days 00:01:31,,GM: url: / p/ playroom/ ADE_train_00015386.jpg,,GM,A
+73,0 days 00:01:31,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+74,0 days 00:01:49,A: plastic playhouse in left side,,,A,All
+75,0 days 00:01:57,A: yellow schoolbus toy,,,A,All
+76,0 days 00:02:02,B: yes,,,B,All
+77,0 days 00:02:07,,A: cmd: done,,A,All
+78,0 days 00:02:07,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+79,0 days 00:02:13,,,B: cmd: done,B,All
+80,0 days 00:02:13,GM: Well done! Both of you are                            indeed in the same room of type: p/playroom!,GM: Well done! Both of you are                            indeed in the same room of type: p/ playroom!,GM: Well done! Both of you are                            indeed in the same room of type: p/ playroom!,GM,All
+81,0 days 00:02:14,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+82,0 days 00:02:14,GM: ,GM: ,GM: ,GM,All
+83,0 days 00:02:14,GM: Here's your token: 11273TN5BV,GM: Here's your token: 11273TN5BV,GM: Here's your token: 11273TN5BV,GM,All
+84,0 days 00:02:37,B: ,,B: ,B,All
+85,0 days 00:02:37,,GM: fuscia_darkness has left the game.,,GM,A
+86,0 days 00:03:00,A: ,A: ,,A,All
+87,0 days 00:03:00,,,GM: natural_atoll has left the game.,GM,B
+88,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+89,0 days 00:37:33,GM: ,GM: ,GM: ,GM,All

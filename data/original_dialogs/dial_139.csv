@@ -1,0 +1,44 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / b/ bedroom/ ADE_train_00003702.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, grieving_piggy_bank! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: a/ attic,,GM,A
+15,0 days 00:00:03,,,GM: url: / s/ street/ ADE_train_00018576.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, beautiful_facewash! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: a/ attic,GM,B
+20,0 days 00:00:10,B: let's go to the attic,,,B,All
+21,0 days 00:00:14,,,B: cmd: s,B,All
+22,0 days 00:00:14,,,GM: url: / k/ kitchen/ ADE_train_00010533.jpg,GM,B
+24,0 days 00:00:14,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+25,0 days 00:00:23,,A: cmd: n,,A,All
+26,0 days 00:00:23,,GM: url: / a/ attic/ ADE_train_00001947.jpg,,GM,A
+28,0 days 00:00:24,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+29,0 days 00:00:25,,,B: cmd: w,B,All
+30,0 days 00:00:25,,,GM: url: / a/ attic/ ADE_train_00001947.jpg,GM,B
+32,0 days 00:00:25,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+33,0 days 00:00:30,B: Ok I am there,,,B,All
+34,0 days 00:00:33,A: There,,,A,All
+35,0 days 00:00:37,,,B: cmd: done,B,All
+36,0 days 00:00:37,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+37,0 days 00:00:40,,A: cmd: done,,A,All
+38,0 days 00:00:40,GM: Well done! Both of you are                            indeed in the same room of type: a/attic!,GM: Well done! Both of you are                            indeed in the same room of type: a/ attic!,GM: Well done! Both of you are                            indeed in the same room of type: a/ attic!,GM,All
+39,0 days 00:00:40,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+40,0 days 00:00:41,GM: ,GM: ,GM: ,GM,All
+41,0 days 00:00:41,GM: Here's your token: 30576ZJIH,GM: Here's your token: 30576ZJIH,GM: Here's your token: 30576ZJIH,GM,All
+42,0 days 00:00:55,B: ,,B: ,B,All
+43,0 days 00:00:55,,GM: beautiful_facewash has left the game.,,GM,A
+44,0 days 00:01:44,A: ,A: ,,A,All
+45,0 days 00:01:45,,,GM: grieving_piggy_bank has left the game.,GM,B
+46,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+47,0 days 04:21:59,GM: ,GM: ,GM: ,GM,All

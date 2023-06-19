@@ -1,0 +1,176 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / s/ street/ ADE_train_00017076.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, gentle_microphone! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: b/ basement,,GM,A
+15,0 days 00:00:03,,,GM: url: / b/ bedroom/ ADE_train_00000335.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, graceful_stockings! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: b/ basement,GM,B
+20,0 days 00:00:09,,A: cmd: s,,A,All
+21,0 days 00:00:09,,GM: url: / c/ closet/ ADE_train_00005758.jpg,,GM,A
+23,0 days 00:00:09,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+24,0 days 00:00:14,,A: cmd: e,,A,All
+25,0 days 00:00:14,,GM: url: / b/ basement/ ADE_train_00002491.jpg,,GM,A
+27,0 days 00:00:14,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+28,0 days 00:00:23,,,B: cmd: s,B,All
+29,0 days 00:00:23,,,GM: url: / b/ bathroom/ ADE_train_00002556.jpg,GM,B
+31,0 days 00:00:23,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+32,0 days 00:00:24,A: I see a bar counter with 4 stools,,,A,All
+33,0 days 00:00:27,,A: cmd: e,,A,All
+34,0 days 00:00:27,,,B: cmd: e,B,All
+35,0 days 00:00:29,,GM: url: / b/ basement/ ADE_train_00002483.jpg,,GM,A
+37,0 days 00:00:29,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+38,0 days 00:00:29,,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006227.jpg,GM,B
+40,0 days 00:00:29,,,GM: You can go: [/ w]est,GM,B
+41,0 days 00:00:39,B: We have to move to the same basement,,,B,All
+42,0 days 00:00:41,A: I also see a large empty basement with a stair case to the left,,,A,All
+43,0 days 00:00:44,,,B: cmd: w,B,All
+44,0 days 00:00:44,,,GM: url: / b/ bathroom/ ADE_train_00002556.jpg,GM,B
+46,0 days 00:00:44,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+47,0 days 00:00:50,,,B: cmd: e,B,All
+48,0 days 00:00:50,,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006227.jpg,GM,B
+50,0 days 00:00:51,,,GM: You can go: [/ w]est,GM,B
+51,0 days 00:00:51,A: I know I'm just listing out the rooms I see that are basements,,,A,All
+52,0 days 00:00:53,,,B: cmd: w,B,All
+53,0 days 00:00:53,,,GM: url: / b/ bathroom/ ADE_train_00002556.jpg,GM,B
+55,0 days 00:00:54,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+56,0 days 00:00:55,,,B: cmd: n,B,All
+57,0 days 00:00:55,,,GM: url: / b/ bedroom/ ADE_train_00000335.jpg,GM,B
+59,0 days 00:00:55,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+60,0 days 00:00:59,A: so we can try to find a common one,,,A,All
+61,0 days 00:01:02,,A: cmd: e,,A,All
+62,0 days 00:01:02,,GM: url: / b/ bedroom/ ADE_train_00000335.jpg,,GM,A
+64,0 days 00:01:02,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+65,0 days 00:01:07,,A: cmd: s,,A,All
+66,0 days 00:01:07,,GM: url: / b/ bathroom/ ADE_train_00002556.jpg,,GM,A
+68,0 days 00:01:07,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+69,0 days 00:01:08,"B: I've only got a bathroom, bedroom, and outside so far",,,B,All
+70,0 days 00:01:11,,,B: cmd: n,B,All
+71,0 days 00:01:11,,,GM: url: / b/ basement/ ADE_train_00002493.jpg,GM,B
+73,0 days 00:01:11,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+74,0 days 00:01:17,,A: cmd: e,,A,All
+75,0 days 00:01:17,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006227.jpg,,GM,A
+77,0 days 00:01:17,,GM: You can go: [/ w]est,,GM,A
+78,0 days 00:01:19,,A: cmd: w,,A,All
+79,0 days 00:01:19,,GM: url: / b/ bathroom/ ADE_train_00002556.jpg,,GM,A
+81,0 days 00:01:19,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+82,0 days 00:01:21,,A: cmd: n,,A,All
+83,0 days 00:01:21,,GM: url: / b/ bedroom/ ADE_train_00000335.jpg,,GM,A
+85,0 days 00:01:22,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+86,0 days 00:01:23,,A: cmd: w,,A,All
+87,0 days 00:01:24,B: and sorry my last partner the last time this came up in a mall stood still and made me find him lol,,,B,All
+88,0 days 00:01:24,,GM: url: / b/ basement/ ADE_train_00002483.jpg,,GM,A
+90,0 days 00:01:24,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+91,0 days 00:01:27,,,B: cmd: w,B,All
+92,0 days 00:01:27,,,GM: url: / s/ street/ ADE_train_00017139.jpg,GM,B
+94,0 days 00:01:27,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+95,0 days 00:01:30,A: ah,,,A,All
+96,0 days 00:01:32,,A: cmd: w,,A,All
+97,0 days 00:01:32,,GM: url: / b/ basement/ ADE_train_00002491.jpg,,GM,A
+99,0 days 00:01:32,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+100,0 days 00:01:33,,,B: cmd: w,B,All
+101,0 days 00:01:33,,,GM: url: / b/ basement/ ADE_train_00002501.jpg,GM,B
+103,0 days 00:01:34,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+104,0 days 00:01:35,,A: cmd: w,,A,All
+105,0 days 00:01:35,,GM: url: / c/ closet/ ADE_train_00005758.jpg,,GM,A
+107,0 days 00:01:35,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+108,0 days 00:01:39,,A: cmd: n,,A,All
+109,0 days 00:01:39,,GM: url: / s/ street/ ADE_train_00017076.jpg,,GM,A
+111,0 days 00:01:39,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+112,0 days 00:01:41,,A: cmd: e,,A,All
+113,0 days 00:01:41,,GM: url: / b/ basement/ ADE_train_00002501.jpg,,GM,A
+115,0 days 00:01:41,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+116,0 days 00:01:42,,,B: cmd: s,B,All
+117,0 days 00:01:42,,,GM: url: / b/ basement/ ADE_train_00002491.jpg,GM,B
+119,0 days 00:01:42,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+120,0 days 00:01:50,B: I'm in the room with the four bar stools,,,B,All
+121,0 days 00:01:56,B: If you go east it's the stairwell right?,,,B,All
+122,0 days 00:01:56,A: ok let me find it,,,A,All
+123,0 days 00:01:57,,,B: cmd: e,B,All
+124,0 days 00:01:58,,,GM: url: / b/ basement/ ADE_train_00002483.jpg,GM,B
+126,0 days 00:01:58,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+127,0 days 00:02:00,,A: cmd: w,,A,All
+128,0 days 00:02:00,,GM: url: / s/ street/ ADE_train_00017076.jpg,,GM,A
+130,0 days 00:02:00,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+131,0 days 00:02:01,B: er,,,B,All
+132,0 days 00:02:02,,A: cmd: s,,A,All
+133,0 days 00:02:03,,GM: url: / c/ closet/ ADE_train_00005758.jpg,,GM,A
+135,0 days 00:02:03,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+136,0 days 00:02:04,,,B: cmd: w,B,All
+137,0 days 00:02:04,,,GM: url: / b/ basement/ ADE_train_00002491.jpg,GM,B
+139,0 days 00:02:04,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+140,0 days 00:02:05,,A: cmd: e,,A,All
+141,0 days 00:02:05,,GM: url: / b/ basement/ ADE_train_00002491.jpg,,GM,A
+143,0 days 00:02:05,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+144,0 days 00:02:06,,,B: cmd: n,B,All
+145,0 days 00:02:06,,,GM: url: / b/ basement/ ADE_train_00002501.jpg,GM,B
+147,0 days 00:02:06,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+148,0 days 00:02:13,B: if you go NORTH it's the room witht he black stairs,,,B,All
+149,0 days 00:02:17,,A: cmd: n,,A,All
+150,0 days 00:02:17,,GM: url: / b/ basement/ ADE_train_00002501.jpg,,GM,A
+152,0 days 00:02:17,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+153,0 days 00:02:18,,,B: cmd: look,B,All
+154,0 days 00:02:19,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+155,0 days 00:02:20,,A: cmd: s,,A,All
+156,0 days 00:02:20,,GM: url: / b/ basement/ ADE_train_00002491.jpg,,GM,A
+158,0 days 00:02:20,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+159,0 days 00:02:28,A: yeah but I don't think they have to be the same in that sense,,,A,All
+160,0 days 00:02:35,A: is it a red counter with a fan in the top right corner?,,,A,All
+161,0 days 00:02:47,A: er white counter red bottom,,,A,All
+162,0 days 00:02:51,B: Nope I got a clothes hamper and a red picture,,,B,All
+163,0 days 00:02:53,,,B: cmd: s,B,All
+164,0 days 00:02:53,,,GM: url: / b/ basement/ ADE_train_00002491.jpg,GM,B
+166,0 days 00:02:54,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+167,0 days 00:02:59,B: yes red bottom,,,B,All
+168,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+169,0 days 00:03:02,B: white counter,,,B,All
+170,0 days 00:03:07,A: I don't see a clothes hamper ?,,,A,All
+171,0 days 00:03:12,B: if you go north it looks like a basement?,,,B,All
+172,0 days 00:03:14,,,B: cmd: n,B,All
+173,0 days 00:03:14,,,GM: url: / b/ basement/ ADE_train_00002501.jpg,GM,B
+175,0 days 00:03:15,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+176,0 days 00:03:19,,A: cmd: n,,A,All
+177,0 days 00:03:19,,GM: url: / b/ basement/ ADE_train_00002501.jpg,,GM,A
+179,0 days 00:03:19,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+180,0 days 00:03:21,,A: cmd: s,,A,All
+181,0 days 00:03:22,,GM: url: / b/ basement/ ADE_train_00002491.jpg,,GM,A
+183,0 days 00:03:22,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+184,0 days 00:03:33,B: black stairs with white trim,,,B,All
+185,0 days 00:03:36,A: yes but I don't think you shuold judge that way,,,A,All
+186,0 days 00:03:39,,A: cmd: n,,A,All
+187,0 days 00:03:39,,GM: url: / b/ basement/ ADE_train_00002501.jpg,,GM,A
+189,0 days 00:03:39,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+190,0 days 00:03:44,A: nvm,,,A,All
+191,0 days 00:03:46,A: is there a poster ,,,A,All
+192,0 days 00:03:49,A: above a trash can,,,A,All
+193,0 days 00:03:50,B: yup,,,B,All
+194,0 days 00:03:55,A: ok let's go there instead,,,A,All
+195,0 days 00:03:58,B: little grate to the right of it,,,B,All
+196,0 days 00:04:05,A: yes,,,A,All
+197,0 days 00:04:08,,A: cmd: done,,A,All
+198,0 days 00:04:08,B: Yeh I think it's a basement lol,,,B,All
+199,0 days 00:04:12,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+200,0 days 00:04:15,,A: cmd: done,,A,All
+201,0 days 00:04:15,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+202,0 days 00:04:18,,,B: cmd: done,B,All
+203,0 days 00:04:18,GM: Well done! Both of you are                            indeed in the same room of type: b/basement!,GM: Well done! Both of you are                            indeed in the same room of type: b/ basement!,GM: Well done! Both of you are                            indeed in the same room of type: b/ basement!,GM,All
+204,0 days 00:04:18,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+205,0 days 00:04:18,GM: ,GM: ,GM: ,GM,All
+206,0 days 00:04:19,GM: Here's your token: 10916WHYUH,GM: Here's your token: 10916WHYUH,GM: Here's your token: 10916WHYUH,GM,All
+207,0 days 00:04:23,A: kewl,,,A,All
+208,0 days 00:04:47,A: ,A: ,,A,All
+209,0 days 00:04:47,,,GM: gentle_microphone has left the game.,GM,B
+210,0 days 00:04:56,B: ,,B: ,B,All
+211,0 days 00:04:56,,GM: graceful_stockings has left the game.,,GM,A
+212,0 days 00:08:43,GM: ,GM: ,GM: ,GM,All

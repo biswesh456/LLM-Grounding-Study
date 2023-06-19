@@ -1,0 +1,93 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / k/ kitchen/ ADE_train_00010167.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, whispering_needle! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: r/ reading_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / l/ living_room/ ADE_train_00000910.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, radioactive_zipper! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: r/ reading_room,GM,B
+20,0 days 00:00:04,B: hello,,,B,All
+21,0 days 00:00:12,,,B: cmd: n,B,All
+22,0 days 00:00:12,,,GM: Nothing happened.You can go: [/ e]ast [/ w]est,GM,B
+23,0 days 00:00:14,A: hello,,,A,All
+24,0 days 00:00:18,,,B: cmd: e,B,All
+25,0 days 00:00:18,,,GM: url: / l/ living_room/ ADE_train_00000857.jpg,GM,B
+27,0 days 00:00:18,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+28,0 days 00:00:20,A: where are you,,,A,All
+29,0 days 00:00:27,,,B: cmd: n,B,All
+30,0 days 00:00:27,,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+31,0 days 00:00:29,A: im in a kitchen,,,A,All
+32,0 days 00:00:31,,,B: cmd: s,B,All
+33,0 days 00:00:31,,,GM: url: / r/ reading_room/ ADE_train_00015700.jpg,GM,B
+35,0 days 00:00:31,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+36,0 days 00:00:44,B: im in a reading room,,,B,All
+37,0 days 00:00:48,B: hugh area,,,B,All
+38,0 days 00:00:52,"A: oh, okay i have to meet you there",,,A,All
+39,0 days 00:00:59,B: looks like a linrary almoat,,,B,All
+40,0 days 00:01:04,B: cirxular tanles,,,B,All
+41,0 days 00:01:04,A: im going to try moving around to find it,,,A,All
+42,0 days 00:01:05,,A: cmd: n,,A,All
+43,0 days 00:01:05,,GM: Nothing happened.You can go: [/ e]ast [/ w]est,,GM,A
+44,0 days 00:01:09,,A: cmd: e,,A,All
+45,0 days 00:01:09,,GM: url: / r/ reading_room/ ADE_train_00015703.jpg,,GM,A
+47,0 days 00:01:10,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+48,0 days 00:01:17,B: square and circular tables,,,B,All
+49,0 days 00:01:20,A: oh wait i think im in it,,,A,All
+50,0 days 00:01:27,B: describe?,,,B,All
+51,0 days 00:01:35,A: looks like a library,,,A,All
+52,0 days 00:01:38,A: but large rectangular benches,,,A,All
+53,0 days 00:01:40,A: different?,,,A,All
+54,0 days 00:01:49,A: with dark green lamps,,,A,All
+55,0 days 00:01:55,B: different,,,B,All
+56,0 days 00:01:59,B: i'll find you,,,B,All
+57,0 days 00:02:01,B: stay,,,B,All
+58,0 days 00:02:01,A: kk ill move again,,,A,All
+59,0 days 00:02:04,"A: wait, no",,,A,All
+60,0 days 00:02:06,A: we need to meet in reading room,,,A,All
+61,0 days 00:02:09,A: ill go to u,,,A,All
+62,0 days 00:02:12,"B: ok, ",,,B,All
+63,0 days 00:02:14,,A: cmd: e,,A,All
+64,0 days 00:02:14,,GM: url: / l/ living_room/ ADE_train_00000910.jpg,,GM,A
+66,0 days 00:02:14,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+67,0 days 00:02:22,,A: cmd: e,,A,All
+68,0 days 00:02:24,,GM: url: / l/ living_room/ ADE_train_00000857.jpg,,GM,A
+70,0 days 00:02:24,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+71,0 days 00:02:26,B: waiting,,,B,All
+72,0 days 00:02:29,,A: cmd: e,,A,All
+73,0 days 00:02:29,,GM: url: / b/ bathroom/ ADE_train_00002848.jpg,,GM,A
+75,0 days 00:02:29,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+76,0 days 00:02:36,,A: cmd: s,,A,All
+77,0 days 00:02:36,,GM: url: / r/ reading_room/ ADE_train_00015701.jpg,,GM,A
+79,0 days 00:02:37,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+80,0 days 00:02:52,,A: cmd: w,,A,All
+81,0 days 00:02:53,,GM: url: / r/ reading_room/ ADE_train_00015700.jpg,,GM,A
+83,0 days 00:02:53,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+84,0 days 00:02:59,A: wait i think i foudn it,,,A,All
+85,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+86,0 days 00:03:03,A: does it have huge windows,,,A,All
+87,0 days 00:03:08,"B: small circulat table in middle of room, to right of it small square table",,,B,All
+88,0 days 00:03:12,B: yes,,,B,All
+89,0 days 00:03:18,A: yup got it ,,,A,All
+90,0 days 00:03:21,A: i think we can finish,,,A,All
+91,0 days 00:03:24,,A: cmd: done,,A,All
+92,0 days 00:03:24,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+93,0 days 00:03:25,,,B: cmd: done,B,All
+94,0 days 00:03:26,GM: Well done! Both of you are                            indeed in the same room of type: r/reading_room!,GM: Well done! Both of you are                            indeed in the same room of type: r/ reading_room!,GM: Well done! Both of you are                            indeed in the same room of type: r/ reading_room!,GM,All
+95,0 days 00:03:26,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+96,0 days 00:03:26,GM: ,GM: ,GM: ,GM,All
+97,0 days 00:03:26,GM: Here's your token: 89796BLOE,GM: Here's your token: 89796BLOE,GM: Here's your token: 89796BLOE,GM,All
+98,0 days 00:03:40,B: ,,B: ,B,All
+99,0 days 00:03:41,,GM: radioactive_zipper has left the game.,,GM,A
+100,0 days 00:03:51,A: ,A: ,,A,All
+101,0 days 00:03:52,,,GM: whispering_needle has left the game.,GM,B

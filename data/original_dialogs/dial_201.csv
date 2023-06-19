@@ -1,0 +1,46 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / k/ kiosk/ outdoor/ ADE_train_00010148.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, high_leaves! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: b/ bedroom,,GM,A
+15,0 days 00:00:03,,,GM: url: / r/ reception/ ADE_train_00015740.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, icy_shoelace! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: b/ bedroom,GM,B
+20,0 days 00:00:30,,A: cmd: s,,A,All
+21,0 days 00:00:31,,GM: Nothing happened.You can go: [/ e]ast,,GM,A
+22,0 days 00:00:34,,A: cmd: e,,A,All
+23,0 days 00:00:35,,GM: url: / b/ bedroom/ ADE_train_00003518.jpg,,GM,A
+25,0 days 00:00:35,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+26,0 days 00:00:35,,,B: cmd: look,B,All
+27,0 days 00:00:36,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+28,0 days 00:00:37,,,B: cmd: s,B,All
+29,0 days 00:00:38,,,GM: url: / b/ bedroom/ ADE_train_00003656.jpg,GM,B
+31,0 days 00:00:38,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+32,0 days 00:00:41,A: East from the newsstand brought me into a bedroom.,,,A,All
+33,0 days 00:00:45,A: I'll wait here for you to locate it.,,,A,All
+34,0 days 00:00:58,B: I'm in a bedroom too,,,B,All
+35,0 days 00:01:02,B: does it have hats on the walls?,,,B,All
+36,0 days 00:01:12,A: If we're both in the bedroom we should be good.,,,A,All
+37,0 days 00:01:14,,A: cmd: done,,A,All
+38,0 days 00:01:14,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+39,0 days 00:01:17,,,B: cmd: done,B,All
+40,0 days 00:01:17,"GM: You have managed to meet in a room of type:                                                        b/bedroom, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        b/ bedroom, but unfortunately                                                        not in the same one.","GM: You have managed to meet in a room of type:                                                        b/ bedroom, but unfortunately                                                        not in the same one.",GM,All
+41,0 days 00:01:18,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+42,0 days 00:01:18,GM: ,GM: ,GM: ,GM,All
+43,0 days 00:01:18,GM: Here's your token: 846E58VS8,GM: Here's your token: 846E58VS8,GM: Here's your token: 846E58VS8,GM,All
+44,0 days 00:01:27,A: ,A: ,,A,All
+45,0 days 00:01:27,,,GM: high_leaves has left the game.,GM,B
+46,0 days 00:01:59,B: ,,B: ,B,All
+47,0 days 00:02:00,,GM: icy_shoelace has left the game.,,GM,A
+48,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All

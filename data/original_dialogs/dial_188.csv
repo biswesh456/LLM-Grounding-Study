@@ -1,0 +1,97 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / k/ kitchen/ ADE_train_00000622.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, cute_lace! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:02,,GM: You have to meet in the room of type: n/ nursery,,GM,A
+15,0 days 00:00:03,,,GM: url: / h/ hunting_lodge/ outdoor/ ADE_train_00009750.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ e]ast,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, huge_summit! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: n/ nursery,GM,B
+20,0 days 00:00:18,,,B: cmd: e,B,All
+21,0 days 00:00:19,,,GM: url: / d/ dining_room/ ADE_train_00007200.jpg,GM,B
+23,0 days 00:00:19,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+24,0 days 00:00:24,,,B: cmd: e,B,All
+25,0 days 00:00:24,,,GM: url: / b/ bedroom/ ADE_train_00003717.jpg,GM,B
+27,0 days 00:00:24,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+28,0 days 00:00:25,,A: cmd: s,,A,All
+29,0 days 00:00:25,,GM: url: / n/ nursery/ ADE_train_00013875.jpg,,GM,A
+31,0 days 00:00:25,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+32,0 days 00:00:29,,,B: cmd: e,B,All
+33,0 days 00:00:29,,,GM: url: / n/ nursery/ ADE_train_00013887.jpg,GM,B
+35,0 days 00:00:29,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+36,0 days 00:00:33,,,B: cmd: n,B,All
+37,0 days 00:00:34,,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001462.jpg,GM,B
+39,0 days 00:00:34,,,GM: You can go: [/ s]outh,GM,B
+40,0 days 00:00:39,A: found one with a moon on the wall behind the crib,,,A,All
+41,0 days 00:00:39,,,B: cmd: s,B,All
+42,0 days 00:00:39,,,GM: url: / n/ nursery/ ADE_train_00013887.jpg,GM,B
+44,0 days 00:00:39,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+45,0 days 00:00:42,,A: cmd: w,,A,All
+46,0 days 00:00:42,,GM: url: / k/ kitchen/ ADE_train_00010325.jpg,,GM,A
+48,0 days 00:00:42,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+49,0 days 00:00:43,,,B: cmd: e,B,All
+50,0 days 00:00:43,,,GM: url: / n/ nursery/ ADE_train_00013902.jpg,GM,B
+52,0 days 00:00:43,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+53,0 days 00:00:45,,A: cmd: n,,A,All
+54,0 days 00:00:45,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,,GM,A
+56,0 days 00:00:46,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+57,0 days 00:00:47,,,B: cmd: e,B,All
+58,0 days 00:00:47,,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,GM,B
+60,0 days 00:00:47,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+61,0 days 00:00:51,,,B: cmd: e,B,All
+62,0 days 00:00:51,,,GM: url: / k/ kitchen/ ADE_train_00000622.jpg,GM,B
+64,0 days 00:00:51,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+65,0 days 00:00:55,,,B: cmd: s,B,All
+66,0 days 00:00:55,,,GM: url: / n/ nursery/ ADE_train_00013875.jpg,GM,B
+68,0 days 00:00:56,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+69,0 days 00:01:00,A: also one with the crib on the right and lots of toys on the floor on the left,,,A,All
+70,0 days 00:01:06,,A: cmd: s,,A,All
+71,0 days 00:01:08,,GM: url: / k/ kitchen/ ADE_train_00010325.jpg,,GM,A
+73,0 days 00:01:08,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+74,0 days 00:01:11,,A: cmd: e,,A,All
+75,0 days 00:01:12,,GM: url: / n/ nursery/ ADE_train_00013875.jpg,,GM,A
+77,0 days 00:01:12,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+78,0 days 00:01:16,,A: cmd: n,,A,All
+79,0 days 00:01:16,,GM: url: / k/ kitchen/ ADE_train_00000622.jpg,,GM,A
+81,0 days 00:01:17,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+82,0 days 00:01:18,,A: cmd: w,,A,All
+83,0 days 00:01:19,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,,GM,A
+85,0 days 00:01:19,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+86,0 days 00:01:21,,A: cmd: w,,A,All
+87,0 days 00:01:21,,GM: url: / n/ nursery/ ADE_train_00013902.jpg,,GM,A
+89,0 days 00:01:22,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+90,0 days 00:01:25,B: i'm in the one with the moon,,,B,All
+91,0 days 00:01:28,,A: cmd: e,,A,All
+92,0 days 00:01:28,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,,GM,A
+94,0 days 00:01:29,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+95,0 days 00:01:29,,A: cmd: e,,A,All
+96,0 days 00:01:29,,GM: url: / k/ kitchen/ ADE_train_00000622.jpg,,GM,A
+98,0 days 00:01:29,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+99,0 days 00:01:30,A: ok,,,A,All
+100,0 days 00:01:31,A: .s,,,A,All
+101,0 days 00:01:33,,A: cmd: s,,A,All
+102,0 days 00:01:33,,GM: url: / n/ nursery/ ADE_train_00013875.jpg,,GM,A
+104,0 days 00:01:33,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+105,0 days 00:01:35,A: im there,,,A,All
+106,0 days 00:01:36,,A: cmd: done,,A,All
+107,0 days 00:01:37,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+108,0 days 00:01:41,,,B: cmd: done,B,All
+109,0 days 00:01:41,GM: Well done! Both of you are                            indeed in the same room of type: n/nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM,All
+110,0 days 00:01:41,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+111,0 days 00:01:41,GM: ,GM: ,GM: ,GM,All
+112,0 days 00:01:42,GM: Here's your token: 870JNONPU,GM: Here's your token: 870JNONPU,GM: Here's your token: 870JNONPU,GM,All
+113,0 days 00:01:48,A: ,A: ,,A,All
+114,0 days 00:01:48,,,GM: cute_lace has left the game.,GM,B
+115,0 days 00:01:50,B: ,,B: ,B,All
+116,0 days 00:01:51,,GM: huge_summit has left the game.,,GM,A
+117,0 days 00:03:02,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All

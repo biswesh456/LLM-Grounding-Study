@@ -1,0 +1,241 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / s/ street/ ADE_train_00018065.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, graceful_crayons! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: r/ reading_room,,GM,A
+15,0 days 00:00:05,,,GM: url: / b/ bedroom/ ADE_train_00003428.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:06,,,"GM: Welcome to the game, thriving_dice! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: r/ reading_room,GM,B
+20,0 days 00:00:11,,A: cmd: n,,A,All
+21,0 days 00:00:11,,GM: url: / r/ reading_room/ ADE_train_00015711.jpg,,GM,A
+23,0 days 00:00:12,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+24,0 days 00:00:17,A: found a reading room,,,A,All
+25,0 days 00:00:26,B: let me find one,,,B,All
+26,0 days 00:00:26,A: wood table with chairs around it,,,A,All
+27,0 days 00:00:29,,,B: cmd: s,B,All
+28,0 days 00:00:29,,,GM: url: / b/ bathroom/ ADE_train_00003004.jpg,GM,B
+30,0 days 00:00:29,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+31,0 days 00:00:34,,,B: cmd: e,B,All
+32,0 days 00:00:34,,,GM: url: / l/ living_room/ ADE_train_00011490.jpg,GM,B
+34,0 days 00:00:35,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+35,0 days 00:00:42,A: two shelves on right and 3+ on left,,,A,All
+36,0 days 00:00:47,A: sunlight on table,,,A,All
+37,0 days 00:00:47,,,B: cmd: n,B,All
+38,0 days 00:00:48,,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,GM,B
+39,0 days 00:00:52,,A: cmd: n,,A,All
+40,0 days 00:00:52,,GM: url: / r/ reading_room/ ADE_train_00015697.jpg,,GM,A
+42,0 days 00:00:52,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+43,0 days 00:00:55,,A: cmd: n,,A,All
+44,0 days 00:00:55,,GM: url: / r/ reading_room/ ADE_train_00015701.jpg,,GM,A
+46,0 days 00:00:56,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+47,0 days 00:00:56,,,B: cmd: s,B,All
+48,0 days 00:00:57,,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006228.jpg,GM,B
+50,0 days 00:00:57,,,GM: You can go: [/ n]orth,GM,B
+51,0 days 00:00:58,,A: cmd: n,,A,All
+52,0 days 00:00:59,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,,GM,A
+53,0 days 00:01:00,,,B: cmd: n,B,All
+54,0 days 00:01:01,,,GM: url: / l/ living_room/ ADE_train_00011490.jpg,GM,B
+56,0 days 00:01:01,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+57,0 days 00:01:07,A: also found a library with people studying,,,A,All
+58,0 days 00:01:09,,A: cmd: s,,A,All
+59,0 days 00:01:10,,GM: url: / r/ reading_room/ ADE_train_00015697.jpg,,GM,A
+61,0 days 00:01:10,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+62,0 days 00:01:12,,A: cmd: s,,A,All
+63,0 days 00:01:12,,GM: url: / r/ reading_room/ ADE_train_00015711.jpg,,GM,A
+65,0 days 00:01:12,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+66,0 days 00:01:14,,,B: cmd: w,B,All
+67,0 days 00:01:15,,,GM: url: / b/ bathroom/ ADE_train_00003004.jpg,GM,B
+69,0 days 00:01:15,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+70,0 days 00:01:16,,A: cmd: e,,A,All
+71,0 days 00:01:16,,GM: url: / b/ bedroom/ ADE_train_00003428.jpg,,GM,A
+73,0 days 00:01:16,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+74,0 days 00:01:20,,,B: cmd: e,B,All
+75,0 days 00:01:20,,,GM: url: / l/ living_room/ ADE_train_00011490.jpg,GM,B
+77,0 days 00:01:20,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+78,0 days 00:01:21,,A: cmd: n,,A,All
+79,0 days 00:01:21,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009942.jpg,,GM,A
+81,0 days 00:01:22,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+82,0 days 00:01:23,,,B: cmd: s,B,All
+83,0 days 00:01:24,,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006228.jpg,GM,B
+85,0 days 00:01:24,,,GM: You can go: [/ n]orth,GM,B
+86,0 days 00:01:24,,A: cmd: s,,A,All
+87,0 days 00:01:25,,GM: url: / b/ bedroom/ ADE_train_00003428.jpg,,GM,A
+89,0 days 00:01:25,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+90,0 days 00:01:26,,,B: cmd: n,B,All
+91,0 days 00:01:27,,,GM: url: / l/ living_room/ ADE_train_00011490.jpg,GM,B
+93,0 days 00:01:27,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+94,0 days 00:01:28,,A: cmd: w,,A,All
+95,0 days 00:01:28,,GM: url: / r/ reading_room/ ADE_train_00015711.jpg,,GM,A
+97,0 days 00:01:29,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+98,0 days 00:01:29,,,B: cmd: n,B,All
+99,0 days 00:01:30,,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,GM,B
+100,0 days 00:01:31,,A: cmd: s,,A,All
+101,0 days 00:01:32,,GM: url: / s/ street/ ADE_train_00018065.jpg,,GM,A
+103,0 days 00:01:32,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+104,0 days 00:01:33,,,B: cmd: s,B,All
+105,0 days 00:01:34,,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006228.jpg,GM,B
+107,0 days 00:01:34,,,GM: You can go: [/ n]orth,GM,B
+108,0 days 00:01:35,,A: cmd: e,,A,All
+109,0 days 00:01:36,,GM: url: / b/ bathroom/ ADE_train_00003004.jpg,,GM,A
+111,0 days 00:01:36,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+112,0 days 00:01:37,,,B: cmd: w,B,All
+113,0 days 00:01:39,,,GM: Nothing happened.You can go: [/ n]orth,GM,B
+114,0 days 00:01:41,,A: cmd: e,,A,All
+115,0 days 00:01:43,,GM: url: / l/ living_room/ ADE_train_00011490.jpg,,GM,A
+117,0 days 00:01:44,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+118,0 days 00:01:44,,,B: cmd: n,B,All
+119,0 days 00:01:45,,,GM: url: / l/ living_room/ ADE_train_00011490.jpg,GM,B
+121,0 days 00:01:45,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+122,0 days 00:01:47,,A: cmd: w,,A,All
+123,0 days 00:01:48,,GM: url: / b/ bathroom/ ADE_train_00003004.jpg,,GM,A
+125,0 days 00:01:49,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+126,0 days 00:01:49,,A: cmd: w,,A,All
+127,0 days 00:01:50,,GM: url: / s/ street/ ADE_train_00018065.jpg,,GM,A
+129,0 days 00:01:50,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+130,0 days 00:01:53,,A: cmd: n,,A,All
+131,0 days 00:01:54,B: I see a room with a blue couch ,,,B,All
+132,0 days 00:01:54,,GM: url: / r/ reading_room/ ADE_train_00015711.jpg,,GM,A
+134,0 days 00:01:55,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+135,0 days 00:01:55,B: fireplace,,,B,All
+136,0 days 00:02:00,B: thats only room I have found,,,B,All
+137,0 days 00:02:05,A: find a reading room or library,,,A,All
+138,0 days 00:02:10,A: move around till you find one,,,A,All
+139,0 days 00:02:11,,,B: cmd: n,B,All
+140,0 days 00:02:11,,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,GM,B
+141,0 days 00:02:14,,,B: cmd: w,B,All
+142,0 days 00:02:14,,,GM: url: / b/ bathroom/ ADE_train_00003004.jpg,GM,B
+144,0 days 00:02:15,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+145,0 days 00:02:17,,,B: cmd: e,B,All
+146,0 days 00:02:18,,,GM: url: / l/ living_room/ ADE_train_00011490.jpg,GM,B
+148,0 days 00:02:18,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+149,0 days 00:02:21,,A: cmd: n,,A,All
+150,0 days 00:02:24,,GM: url: / r/ reading_room/ ADE_train_00015697.jpg,,GM,A
+152,0 days 00:02:25,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+153,0 days 00:02:25,,,B: cmd: s,B,All
+154,0 days 00:02:28,,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006228.jpg,GM,B
+156,0 days 00:02:29,,,GM: You can go: [/ n]orth,GM,B
+157,0 days 00:02:29,,A: cmd: n,,A,All
+158,0 days 00:02:30,,GM: url: / r/ reading_room/ ADE_train_00015701.jpg,,GM,A
+160,0 days 00:02:31,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+161,0 days 00:02:31,,,B: cmd: s,B,All
+162,0 days 00:02:32,,,GM: Nothing happened.You can go: [/ n]orth,GM,B
+163,0 days 00:02:34,,A: cmd: e,,A,All
+164,0 days 00:02:35,,GM: url: / r/ reading_room/ ADE_train_00015699.jpg,,GM,A
+166,0 days 00:02:35,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+167,0 days 00:02:36,,,B: cmd: n,B,All
+168,0 days 00:02:36,,,GM: url: / l/ living_room/ ADE_train_00011490.jpg,GM,B
+170,0 days 00:02:37,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+171,0 days 00:02:40,,A: cmd: s,,A,All
+172,0 days 00:02:41,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009942.jpg,,GM,A
+174,0 days 00:02:41,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+175,0 days 00:02:44,,A: cmd: s,,A,All
+176,0 days 00:02:44,,GM: url: / b/ bedroom/ ADE_train_00003428.jpg,,GM,A
+178,0 days 00:02:45,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+179,0 days 00:02:46,B: brings me back to same room with couch ,,,B,All
+180,0 days 00:02:47,,A: cmd: w,,A,All
+181,0 days 00:02:47,,GM: url: / r/ reading_room/ ADE_train_00015711.jpg,,GM,A
+183,0 days 00:02:48,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+184,0 days 00:02:50,B: do you see a room with a couch?,,,B,All
+185,0 days 00:02:57,A: have to pick different directions,,,A,All
+186,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+187,0 days 00:03:02,A: keep moving around,,,A,All
+188,0 days 00:03:04,,,B: cmd: s,B,All
+189,0 days 00:03:05,,,GM: url: / c/ convenience_store/ outdoor/ ADE_train_00006228.jpg,GM,B
+191,0 days 00:03:05,,,GM: You can go: [/ n]orth,GM,B
+192,0 days 00:03:08,,,B: cmd: w,B,All
+193,0 days 00:03:08,,,GM: Nothing happened.You can go: [/ n]orth,GM,B
+194,0 days 00:03:11,,A: cmd: n,,A,All
+195,0 days 00:03:12,,,B: cmd: n,B,All
+196,0 days 00:03:12,,GM: url: / r/ reading_room/ ADE_train_00015697.jpg,,GM,A
+198,0 days 00:03:13,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+199,0 days 00:03:14,,,GM: url: / l/ living_room/ ADE_train_00011490.jpg,GM,B
+201,0 days 00:03:15,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+202,0 days 00:03:16,,,B: cmd: w,B,All
+203,0 days 00:03:17,,,GM: url: / b/ bathroom/ ADE_train_00003004.jpg,GM,B
+205,0 days 00:03:17,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+206,0 days 00:03:18,,A: cmd: n,,A,All
+207,0 days 00:03:19,,GM: url: / r/ reading_room/ ADE_train_00015701.jpg,,GM,A
+209,0 days 00:03:20,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+210,0 days 00:03:20,,,B: cmd: w,B,All
+211,0 days 00:03:21,,,GM: url: / s/ street/ ADE_train_00018065.jpg,GM,B
+213,0 days 00:03:22,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+214,0 days 00:03:23,,A: cmd: e,,A,All
+215,0 days 00:03:24,,GM: url: / r/ reading_room/ ADE_train_00015699.jpg,,GM,A
+217,0 days 00:03:24,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+218,0 days 00:03:25,,,B: cmd: e,B,All
+219,0 days 00:03:26,,,GM: url: / b/ bathroom/ ADE_train_00003004.jpg,GM,B
+221,0 days 00:03:27,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+222,0 days 00:03:28,,A: cmd: s,,A,All
+223,0 days 00:03:28,,GM: url: / j/ jacuzzi/ indoor/ ADE_train_00009942.jpg,,GM,A
+225,0 days 00:03:29,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+226,0 days 00:03:30,,,B: cmd: n,B,All
+227,0 days 00:03:31,,,GM: url: / b/ bedroom/ ADE_train_00003428.jpg,GM,B
+229,0 days 00:03:31,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+230,0 days 00:03:32,,A: cmd: s,,A,All
+231,0 days 00:03:33,,GM: url: / b/ bedroom/ ADE_train_00003428.jpg,,GM,A
+233,0 days 00:03:34,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+234,0 days 00:03:36,,,B: cmd: s,B,All
+235,0 days 00:03:37,,,GM: url: / b/ bathroom/ ADE_train_00003004.jpg,GM,B
+237,0 days 00:03:38,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+238,0 days 00:03:38,,A: cmd: w,,A,All
+239,0 days 00:03:39,,GM: url: / r/ reading_room/ ADE_train_00015711.jpg,,GM,A
+241,0 days 00:03:40,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+242,0 days 00:03:40,,,B: cmd: n,B,All
+243,0 days 00:03:41,,,GM: url: / b/ bedroom/ ADE_train_00003428.jpg,GM,B
+245,0 days 00:03:42,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+246,0 days 00:03:43,,A: cmd: s,,A,All
+247,0 days 00:03:43,,GM: url: / s/ street/ ADE_train_00018065.jpg,,GM,A
+249,0 days 00:03:44,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+250,0 days 00:03:45,,,B: cmd: e,B,All
+251,0 days 00:03:46,,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+252,0 days 00:03:47,,A: cmd: e,,A,All
+253,0 days 00:03:48,,GM: url: / b/ bathroom/ ADE_train_00003004.jpg,,GM,A
+255,0 days 00:03:49,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+256,0 days 00:03:50,,,B: cmd: w,B,All
+257,0 days 00:03:50,,,GM: url: / r/ reading_room/ ADE_train_00015711.jpg,GM,B
+259,0 days 00:03:51,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+260,0 days 00:03:52,,A: cmd: e,,A,All
+261,0 days 00:03:52,,GM: url: / l/ living_room/ ADE_train_00011490.jpg,,GM,A
+263,0 days 00:03:53,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+264,0 days 00:04:00,B: found table and bookshelfs,,,B,All
+265,0 days 00:04:05,A: from blue couch room go west x2 and north x2,,,A,All
+266,0 days 00:04:07,A: w,,,A,All
+267,0 days 00:04:08,,A: cmd: w,,A,All
+268,0 days 00:04:09,,GM: url: / b/ bathroom/ ADE_train_00003004.jpg,,GM,A
+270,0 days 00:04:10,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+271,0 days 00:04:11,,A: cmd: w,,A,All
+272,0 days 00:04:12,,GM: url: / s/ street/ ADE_train_00018065.jpg,,GM,A
+274,0 days 00:04:14,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+275,0 days 00:04:15,A: sun on table?,,,A,All
+276,0 days 00:04:18,,A: cmd: n,,A,All
+277,0 days 00:04:21,,GM: url: / r/ reading_room/ ADE_train_00015711.jpg,,GM,A
+279,0 days 00:04:22,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+280,0 days 00:04:23,B: yes,,,B,All
+281,0 days 00:04:27,A: ok,,,A,All
+282,0 days 00:04:28,,A: cmd: done,,A,All
+283,0 days 00:04:29,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+284,0 days 00:04:30,A: good job :),,,A,All
+285,0 days 00:04:47,"A: enter ""/done?",,,A,All
+286,0 days 00:04:48,B: Thanks,,,B,All
+287,0 days 00:04:52,,,B: cmd: done,B,All
+288,0 days 00:04:52,"A: ""/done""",,,A,All
+289,0 days 00:04:53,GM: Well done! Both of you are                            indeed in the same room of type: r/reading_room!,GM: Well done! Both of you are                            indeed in the same room of type: r/ reading_room!,GM: Well done! Both of you are                            indeed in the same room of type: r/ reading_room!,GM,All
+290,0 days 00:04:54,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+291,0 days 00:04:55,GM: ,GM: ,GM: ,GM,All
+292,0 days 00:04:55,GM: Here's your token: 509EWN37F,GM: Here's your token: 509EWN37F,GM: Here's your token: 509EWN37F,GM,All
+293,0 days 00:05:06,A: ,A: ,,A,All
+294,0 days 00:05:09,B: ,,B: ,B,All
+295,0 days 00:05:10,,,GM: graceful_crayons has left the game.,GM,B
+296,0 days 00:05:12,,GM: thriving_dice has left the game.,,GM,A
+297,0 days 02:03:58,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,61 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / s/ street/ ADE_train_00017872.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:05,,"GM: Welcome to the game, ugly_crater! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:05,,GM: You have to meet in the room of type: l/ living_room,,GM,A
+15,0 days 00:00:05,,,GM: url: / h/ hunting_lodge/ outdoor/ ADE_train_00009749.jpg,GM,B
+17,0 days 00:00:06,,,GM: You can go: [/ n]orth,GM,B
+18,0 days 00:00:06,,,"GM: Welcome to the game, limitless_crayons! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: l/ living_room,GM,B
+20,0 days 00:00:15,,,B: cmd: n,B,All
+21,0 days 00:00:16,,,GM: url: / d/ dining_room/ ADE_train_00006944.jpg,GM,B
+23,0 days 00:00:16,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+24,0 days 00:00:21,,,B: cmd: w,B,All
+25,0 days 00:00:21,,,GM: url: / b/ bedroom/ ADE_train_00003769.jpg,GM,B
+27,0 days 00:00:22,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+28,0 days 00:00:22,A: hello,,,A,All
+29,0 days 00:00:24,B: hi,,,B,All
+30,0 days 00:00:27,,A: cmd: n,,A,All
+31,0 days 00:00:28,,GM: url: / b/ bedroom/ ADE_train_00000488.jpg,,GM,A
+33,0 days 00:00:28,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+34,0 days 00:00:28,,,B: cmd: w,B,All
+35,0 days 00:00:29,,,GM: url: / s/ street/ ADE_train_00017872.jpg,GM,B
+37,0 days 00:00:29,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+38,0 days 00:00:32,,,B: cmd: n,B,All
+39,0 days 00:00:32,,,GM: url: / b/ bedroom/ ADE_train_00000488.jpg,GM,B
+41,0 days 00:00:33,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+42,0 days 00:00:40,,A: cmd: n,,A,All
+43,0 days 00:00:40,,GM: url: / l/ living_room/ ADE_train_00011154.jpg,,GM,A
+45,0 days 00:00:40,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+46,0 days 00:00:42,,,B: cmd: n,B,All
+47,0 days 00:00:42,,,GM: url: / l/ living_room/ ADE_train_00011154.jpg,GM,B
+49,0 days 00:00:42,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+50,0 days 00:00:47,"B: ok, im in a living room",,,B,All
+51,0 days 00:00:57,B: it has a white/offwhite couch,,,B,All
+52,0 days 00:00:57,"A: I think so too, white couch?",,,A,All
+53,0 days 00:01:03,B: a glass table with flowers on it,,,B,All
+54,0 days 00:01:06,A: yes,,,A,All
+55,0 days 00:01:09,B: cool,,,B,All
+56,0 days 00:01:11,,,B: cmd: done,B,All
+57,0 days 00:01:11,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+58,0 days 00:01:13,,A: cmd: done,,A,All
+59,0 days 00:01:13,GM: Well done! Both of you are                            indeed in the same room of type: l/living_room!,GM: Well done! Both of you are                            indeed in the same room of type: l/ living_room!,GM: Well done! Both of you are                            indeed in the same room of type: l/ living_room!,GM,All
+60,0 days 00:01:13,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+61,0 days 00:01:13,GM: ,GM: ,GM: ,GM,All
+62,0 days 00:01:13,GM: Here's your token: 361JDTOYT,GM: Here's your token: 361JDTOYT,GM: Here's your token: 361JDTOYT,GM,All
+63,0 days 00:01:19,B: ,,B: ,B,All
+64,0 days 00:01:20,,GM: limitless_crayons has left the game.,,GM,A
+65,0 days 00:01:44,A: ,A: ,,A,All
+66,0 days 00:01:44,,,GM: ugly_crater has left the game.,GM,B
+67,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+68,0 days 03:50:09,GM: ,GM: ,GM: ,GM,All

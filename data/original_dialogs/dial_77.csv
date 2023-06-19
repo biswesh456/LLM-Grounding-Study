@@ -1,0 +1,77 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001447.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, tall_atoll! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: n/ nursery,,GM,A
+15,0 days 00:00:03,,,GM: url: / l/ living_room/ ADE_train_00011405.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, serene_keychain! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: n/ nursery,GM,B
+20,0 days 00:00:10,A: hi,,,A,All
+21,0 days 00:00:13,,A: cmd: n,,A,All
+22,0 days 00:00:13,,GM: Nothing happened.You can go: [/ s]outh,,GM,A
+23,0 days 00:00:13,,,B: cmd: n,B,All
+24,0 days 00:00:14,,,GM: url: / n/ nursery/ ADE_train_00013904.jpg,GM,B
+26,0 days 00:00:14,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+27,0 days 00:00:15,B: hi,,,B,All
+28,0 days 00:00:16,,A: cmd: s,,A,All
+29,0 days 00:00:17,,GM: url: / n/ nursery/ ADE_train_00013889.jpg,,GM,A
+31,0 days 00:00:17,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+32,0 days 00:00:20,B: im in a nursery,,,B,All
+33,0 days 00:00:22,A: i am in a nursery,,,A,All
+34,0 days 00:00:25,A: one crib,,,A,All
+35,0 days 00:00:32,A: it is brown with a pink blanket on it,,,A,All
+36,0 days 00:00:32,B: baloon on the crib?,,,B,All
+37,0 days 00:00:36,A: no,,,A,All
+38,0 days 00:00:39,A: do you want me to move,,,A,All
+39,0 days 00:00:44,B: ok,,,B,All
+40,0 days 00:00:46,A: ok,,,A,All
+41,0 days 00:00:49,,A: cmd: s,,A,All
+42,0 days 00:00:50,,GM: url: / n/ nursery/ ADE_train_00013924.jpg,,GM,A
+44,0 days 00:00:50,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+45,0 days 00:00:54,B: mine has a baloon tied to the crib,,,B,All
+46,0 days 00:00:59,,A: cmd: e,,A,All
+47,0 days 00:01:00,,GM: url: / n/ nursery/ ADE_train_00013869.jpg,,GM,A
+49,0 days 00:01:00,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+50,0 days 00:01:02,B: blue carpet,,,B,All
+51,0 days 00:01:07,,A: cmd: n,,A,All
+52,0 days 00:01:07,,GM: url: / d/ dining_room/ ADE_train_00006943.jpg,,GM,A
+54,0 days 00:01:08,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+55,0 days 00:01:13,,A: cmd: e,,A,All
+56,0 days 00:01:13,,GM: url: / s/ street/ ADE_train_00017856.jpg,,GM,A
+58,0 days 00:01:14,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+59,0 days 00:01:18,,A: cmd: n,,A,All
+60,0 days 00:01:18,,GM: url: / s/ street/ ADE_train_00017889.jpg,,GM,A
+62,0 days 00:01:18,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+63,0 days 00:01:24,,A: cmd: e,,A,All
+64,0 days 00:01:25,,GM: url: / n/ nursery/ ADE_train_00013904.jpg,,GM,A
+66,0 days 00:01:25,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+67,0 days 00:01:26,B: hardwood floors,,,B,All
+68,0 days 00:01:31,A: i think i am there,,,A,All
+69,0 days 00:01:42,B: great job,,,B,All
+70,0 days 00:01:46,,,B: cmd: done,B,All
+71,0 days 00:01:47,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+72,0 days 00:01:47,A: hardwood floors with blue carpet right,,,A,All
+73,0 days 00:01:49,,A: cmd: dpme,,A,All
+74,0 days 00:01:50,B: yes,,,B,All
+75,0 days 00:01:52,,A: cmd: done,,A,All
+76,0 days 00:01:53,GM: Well done! Both of you are                            indeed in the same room of type: n/nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM,All
+77,0 days 00:01:53,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+78,0 days 00:01:53,GM: ,GM: ,GM: ,GM,All
+79,0 days 00:01:53,GM: Here's your token: 802AEYV3V,GM: Here's your token: 802AEYV3V,GM: Here's your token: 802AEYV3V,GM,All
+80,0 days 00:02:08,A: ,A: ,,A,All
+81,0 days 00:02:08,,,GM: tall_atoll has left the game.,GM,B
+82,0 days 00:02:15,B: ,,B: ,B,All
+83,0 days 00:02:15,,GM: serene_keychain has left the game.,,GM,A
+84,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+85,0 days 01:05:38,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,75 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / k/ kitchen/ ADE_train_00010423.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, attractive_summer! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: b/ bedroom,,GM,A
+15,0 days 00:00:04,,,GM: url: / s/ street/ ADE_train_00018322.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, bumpy_bottle_cap! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: b/ bedroom,GM,B
+20,0 days 00:00:10,,,B: cmd: n,B,All
+21,0 days 00:00:10,,,GM: url: / b/ bedroom/ ADE_train_00003235.jpg,GM,B
+23,0 days 00:00:10,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+24,0 days 00:00:13,,A: cmd: s,,A,All
+25,0 days 00:00:13,,GM: url: / s/ street/ ADE_train_00017386.jpg,,GM,A
+27,0 days 00:00:14,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+28,0 days 00:00:17,B: in bedroom,,,B,All
+29,0 days 00:00:21,B: window at back,,,B,All
+30,0 days 00:00:22,,A: cmd: s,,A,All
+31,0 days 00:00:22,,GM: url: / b/ bedroom/ ADE_train_00003907.jpg,,GM,A
+33,0 days 00:00:23,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+34,0 days 00:00:25,B: closet on left,,,B,All
+35,0 days 00:00:28,"A: Okay, I'm still looking. ",,,A,All
+36,0 days 00:00:31,,A: cmd: s,,A,All
+37,0 days 00:00:32,,GM: url: / b/ bedroom/ ADE_train_00004067.jpg,,GM,A
+39,0 days 00:00:32,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+40,0 days 00:00:41,B: red and grey stripped bedspread,,,B,All
+41,0 days 00:00:45,B: white walls,,,B,All
+42,0 days 00:00:49,,A: cmd: e,,A,All
+43,0 days 00:00:49,,GM: url: / s/ street/ ADE_train_00018322.jpg,,GM,A
+45,0 days 00:00:49,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+46,0 days 00:00:55,,A: cmd: e,,A,All
+47,0 days 00:00:55,,GM: url: / h/ home_office/ ADE_train_00009375.jpg,,GM,A
+49,0 days 00:00:56,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+50,0 days 00:01:00,B: black/grey carpet floor,,,B,All
+51,0 days 00:01:00,,A: cmd: s,,A,All
+52,0 days 00:01:01,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001458.jpg,,GM,A
+54,0 days 00:01:01,,GM: You can go: [/ n]orth,,GM,A
+55,0 days 00:01:05,,A: cmd: n,,A,All
+56,0 days 00:01:05,,GM: url: / h/ home_office/ ADE_train_00009375.jpg,,GM,A
+58,0 days 00:01:05,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+59,0 days 00:01:09,B: white headboard,,,B,All
+60,0 days 00:01:11,,A: cmd: w,,A,All
+61,0 days 00:01:12,,GM: url: / s/ street/ ADE_train_00018322.jpg,,GM,A
+63,0 days 00:01:12,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+64,0 days 00:01:19,,A: cmd: n,,A,All
+65,0 days 00:01:19,,GM: url: / b/ bedroom/ ADE_train_00003235.jpg,,GM,A
+67,0 days 00:01:19,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+68,0 days 00:01:20,B: fire alarm on ceiling,,,B,All
+69,0 days 00:01:26,B: very plain,,,B,All
+70,0 days 00:01:32,B: no dresser,,,B,All
+71,0 days 00:01:38,B: white curtains,,,B,All
+72,0 days 00:01:44,A: Found it!,,,A,All
+73,0 days 00:01:46,,A: cmd: done,,A,All
+74,0 days 00:01:46,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+75,0 days 00:01:49,,,B: cmd: done,B,All
+76,0 days 00:01:49,GM: Well done! Both of you are                            indeed in the same room of type: b/bedroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bedroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bedroom!,GM,All
+77,0 days 00:01:50,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+78,0 days 00:01:50,GM: ,GM: ,GM: ,GM,All
+79,0 days 00:01:51,GM: Here's your token: 593TNOUJB,GM: Here's your token: 593TNOUJB,GM: Here's your token: 593TNOUJB,GM,All
+80,0 days 00:02:15,B: ,,B: ,B,All
+81,0 days 00:02:16,,GM: bumpy_bottle_cap has left the game.,,GM,A
+82,0 days 00:02:25,A: ,A: ,,A,All
+83,0 days 00:02:26,,,GM: attractive_summer has left the game.,GM,B
+84,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+85,0 days 01:07:30,GM: ,GM: ,GM: ,GM,All

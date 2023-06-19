@@ -1,0 +1,67 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / w/ waiting_room/ ADE_train_00019672.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, solitary_crayons! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: a/ attic,,GM,A
+15,0 days 00:00:04,,,GM: url: / k/ kennel/ outdoor/ ADE_train_00010102.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, quaint_cliff! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: a/ attic,GM,B
+20,0 days 00:00:09,,A: cmd: n,,A,All
+21,0 days 00:00:09,,GM: url: / a/ apartment_building/ outdoor/ ADE_train_00001448.jpg,,GM,A
+23,0 days 00:00:10,,GM: You can go: [/ s]outh,,GM,A
+24,0 days 00:00:13,,A: cmd: s,,A,All
+25,0 days 00:00:13,,GM: url: / w/ waiting_room/ ADE_train_00019672.jpg,,GM,A
+27,0 days 00:00:13,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+28,0 days 00:00:15,,A: cmd: s,,A,All
+29,0 days 00:00:15,,,B: cmd: n,B,All
+30,0 days 00:00:15,,GM: url: / s/ street/ ADE_train_00017372.jpg,,GM,A
+32,0 days 00:00:16,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+33,0 days 00:00:16,,,GM: url: / a/ attic/ ADE_train_00001944.jpg,GM,B
+35,0 days 00:00:16,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+36,0 days 00:00:19,,,B: cmd: n,B,All
+37,0 days 00:00:19,,,GM: url: / a/ attic/ ADE_train_00001968.jpg,GM,B
+39,0 days 00:00:19,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+40,0 days 00:00:22,,A: cmd: e,,A,All
+41,0 days 00:00:22,,GM: url: / a/ attic/ ADE_train_00001950.jpg,,GM,A
+43,0 days 00:00:22,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+44,0 days 00:00:33,A: Okay I'm in an attic,,,A,All
+45,0 days 00:00:34,"B: i am in a room with a tv and a sloped ceiling, carpet and a cooler",,,B,All
+46,0 days 00:00:42,A: okay I'll find you,,,A,All
+47,0 days 00:00:52,,A: cmd: n,,A,All
+48,0 days 00:00:53,,GM: url: / a/ attic/ ADE_train_00001925.jpg,,GM,A
+50,0 days 00:00:53,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,,GM,A
+51,0 days 00:00:59,,A: cmd: e,,A,All
+52,0 days 00:01:00,,GM: url: / l/ living_room/ ADE_train_00000740.jpg,,GM,A
+54,0 days 00:01:00,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+55,0 days 00:01:03,,A: cmd: e,,A,All
+56,0 days 00:01:04,,GM: url: / a/ attic/ ADE_train_00001944.jpg,,GM,A
+58,0 days 00:01:04,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+59,0 days 00:01:12,,A: cmd: n,,A,All
+60,0 days 00:01:12,,GM: url: / a/ attic/ ADE_train_00001968.jpg,,GM,A
+62,0 days 00:01:12,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+63,0 days 00:01:35,A: green bay packers helmet above the tv?,,,A,All
+64,0 days 00:01:56,B: yes,,,B,All
+65,0 days 00:01:59,,,B: cmd: done,B,All
+66,0 days 00:01:59,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+67,0 days 00:02:08,,A: cmd: done,,A,All
+68,0 days 00:02:08,GM: Well done! Both of you are                            indeed in the same room of type: a/attic!,GM: Well done! Both of you are                            indeed in the same room of type: a/ attic!,GM: Well done! Both of you are                            indeed in the same room of type: a/ attic!,GM,All
+69,0 days 00:02:09,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+70,0 days 00:02:09,GM: ,GM: ,GM: ,GM,All
+71,0 days 00:02:09,GM: Here's your token: 7242CNXP3,GM: Here's your token: 7242CNXP3,GM: Here's your token: 7242CNXP3,GM,All
+72,0 days 00:02:23,A: ,A: ,,A,All
+73,0 days 00:02:23,,,GM: solitary_crayons has left the game.,GM,B
+74,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+75,0 days 00:11:07,B: ,,B: ,B,All
+76,0 days 00:11:09,,GM: quaint_cliff has left the game.,,GM,A
+77,0 days 02:39:20,GM: ,GM: ,GM: ,GM,All

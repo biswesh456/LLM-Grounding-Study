@@ -1,0 +1,78 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / j/ jacuzzi/ outdoor/ ADE_train_00009962.jpg,,GM,A
+12,0 days 00:00:02,,GM: You can go: [/ n]orth,,GM,A
+13,0 days 00:00:02,,"GM: Welcome to the game, spacial_moss! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: d/ dining_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / s/ street/ ADE_train_00017076.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, wide_icecube! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:03,,,GM: You have to meet in the room of type: d/ dining_room,GM,B
+20,0 days 00:00:20,,,B: cmd: n,B,All
+21,0 days 00:00:20,,,GM: url: / c/ closet/ ADE_train_00005770.jpg,GM,B
+23,0 days 00:00:20,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+24,0 days 00:00:27,A: Go s,,,A,All
+25,0 days 00:00:27,,,B: cmd: s,B,All
+26,0 days 00:00:27,,,GM: url: / s/ street/ ADE_train_00017076.jpg,GM,B
+28,0 days 00:00:27,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+29,0 days 00:00:33,,,B: cmd: w,B,All
+30,0 days 00:00:33,,,GM: url: / d/ dining_room/ ADE_train_00006893.jpg,GM,B
+32,0 days 00:00:33,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+33,0 days 00:00:34,,A: cmd: s,,A,All
+34,0 days 00:00:34,,GM: Nothing happened.You can go: [/ n]orth,,GM,A
+35,0 days 00:00:41,,A: cmd: n,,A,All
+36,0 days 00:00:41,,GM: url: / d/ dining_room/ ADE_train_00007245.jpg,,GM,A
+38,0 days 00:00:41,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+39,0 days 00:00:59,B: I'm in a room with a window that looks out into some grass and trees,,,B,All
+40,0 days 00:01:10,B: 6 chairs around an oval table,,,B,All
+41,0 days 00:01:16,,,B: cmd: n,B,All
+42,0 days 00:01:17,,,GM: url: / d/ dining_room/ ADE_train_00006891.jpg,GM,B
+44,0 days 00:01:17,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+45,0 days 00:01:24,,,B: cmd: n,B,All
+46,0 days 00:01:25,,,GM: url: / h/ hunting_lodge/ outdoor/ ADE_train_00009748.jpg,GM,B
+48,0 days 00:01:25,,,GM: You can go: [/ s]outh,GM,B
+49,0 days 00:01:25,A: Same here... and I a fire place and couch,,,A,All
+50,0 days 00:01:30,,,B: cmd: s,B,All
+51,0 days 00:01:31,,,GM: url: / d/ dining_room/ ADE_train_00006891.jpg,GM,B
+53,0 days 00:01:31,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+54,0 days 00:01:34,,,B: cmd: e,B,All
+55,0 days 00:01:34,,,GM: url: / c/ closet/ ADE_train_00005770.jpg,GM,B
+57,0 days 00:01:35,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+58,0 days 00:01:38,,,B: cmd: e,B,All
+59,0 days 00:01:38,,,GM: url: / s/ street/ ADE_train_00018807.jpg,GM,B
+61,0 days 00:01:38,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+62,0 days 00:01:40,,,B: cmd: e,B,All
+63,0 days 00:01:40,,,GM: url: / d/ dining_room/ ADE_train_00007245.jpg,GM,B
+65,0 days 00:01:41,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+66,0 days 00:01:53,B: ok I am at the fireplace and couch,,,B,All
+67,0 days 00:02:03,A: Okay ... are we gone,,,A,All
+68,0 days 00:02:04,A: Done,,,A,All
+69,0 days 00:02:08,B: does the couch have 2 pillows,,,B,All
+70,0 days 00:02:10,B: with red lines,,,B,All
+71,0 days 00:02:13,,,B: cmd: done,B,All
+72,0 days 00:02:13,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+73,0 days 00:02:15,A: Yes,,,A,All
+74,0 days 00:02:22,B: type /done,,,B,All
+75,0 days 00:02:28,,A: cmd: done,,A,All
+76,0 days 00:02:28,GM: Well done! Both of you are                            indeed in the same room of type: d/dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM: Well done! Both of you are                            indeed in the same room of type: d/ dining_room!,GM,All
+77,0 days 00:02:28,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+78,0 days 00:02:28,GM: ,GM: ,GM: ,GM,All
+79,0 days 00:02:29,GM: Here's your token: 652UUV3PW,GM: Here's your token: 652UUV3PW,GM: Here's your token: 652UUV3PW,GM,All
+80,0 days 00:02:35,B: EZ Clap,,,B,All
+81,0 days 00:02:59,B: ,,B: ,B,All
+82,0 days 00:02:59,,GM: wide_icecube has left the game.,,GM,A
+83,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+84,0 days 00:03:16,A: Ez,,,A,All
+85,0 days 00:03:18,A: Later,,,A,All
+86,0 days 00:03:34,A: ,A: ,,A,All
+87,0 days 00:03:34,,,GM: spacial_moss has left the game.,GM,B
+88,0 days 03:45:17,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,88 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / a/ art_studio/ ADE_train_00001745.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, deep_scissors! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: p/ playroom,,GM,A
+15,0 days 00:00:03,,,GM: url: / g/ garage/ outdoor/ ADE_train_00008504.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ w]est,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, sticky_eraser! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: p/ playroom,GM,B
+20,0 days 00:00:08,,,B: cmd: n,B,All
+21,0 days 00:00:09,,,GM: Nothing happened.You can go: [/ w]est,GM,B
+22,0 days 00:00:10,,,B: cmd: w,B,All
+23,0 days 00:00:11,,,GM: url: / p/ playroom/ ADE_train_00015388.jpg,GM,B
+25,0 days 00:00:11,,,GM: You can go: [/ e]ast [/ w]est,GM,B
+26,0 days 00:00:15,,A: cmd: e,,A,All
+27,0 days 00:00:15,B: i'm in the playroom,,,B,All
+28,0 days 00:00:15,,GM: url: / b/ bedroom/ ADE_train_00004010.jpg,,GM,A
+30,0 days 00:00:15,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+31,0 days 00:00:17,B: you have to go west,,,B,All
+32,0 days 00:00:19,A: What does it look like,,,A,All
+33,0 days 00:00:23,,A: cmd: w,,A,All
+34,0 days 00:00:24,,GM: url: / a/ art_studio/ ADE_train_00001745.jpg,,GM,A
+36,0 days 00:00:24,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+37,0 days 00:00:26,,A: cmd: n,,A,All
+38,0 days 00:00:26,,GM: url: / s/ street/ ADE_train_00017536.jpg,,GM,A
+40,0 days 00:00:26,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+41,0 days 00:00:33,,A: cmd: n,,A,All
+42,0 days 00:00:33,,GM: url: / p/ playroom/ ADE_train_00015411.jpg,,GM,A
+44,0 days 00:00:33,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+45,0 days 00:00:38,A: describe it please,,,A,All
+46,0 days 00:00:55,"A: I'm in one as well, I see  a small chalkboard in the corner and a small tent to the right",,,A,All
+47,0 days 00:01:39,A: Please describe what you see in your playroom,,,A,All
+48,0 days 00:01:42,A: ,A: ,,A,All
+49,0 days 00:01:42,,,GM: deep_scissors has left the game.,GM,B
+50,0 days 00:01:44,A: ,A: ,,A,All
+51,0 days 00:01:44,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+52,0 days 00:01:45,,,GM: deep_scissors has rejoined the game.,GM,B
+53,0 days 00:02:07,A: Hello????????,,,A,All
+54,0 days 00:02:46,B: has a little boy ,,,B,All
+55,0 days 00:02:47,B: with a table,,,B,All
+56,0 days 00:02:51,B: and blyue chair,,,B,All
+57,0 days 00:02:54,A: Okay I will keep looking,,,A,All
+58,0 days 00:02:55,,A: cmd: n,,A,All
+59,0 days 00:02:55,,GM: url: / j/ jacuzzi/ outdoor/ ADE_train_00009963.jpg,,GM,A
+61,0 days 00:02:56,,GM: You can go: [/ s]outh,,GM,A
+62,0 days 00:03:00,,A: cmd: s,,A,All
+63,0 days 00:03:00,,GM: url: / p/ playroom/ ADE_train_00015411.jpg,,GM,A
+65,0 days 00:03:01,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+66,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+67,0 days 00:03:03,,A: cmd: e,,A,All
+68,0 days 00:03:03,,GM: url: / p/ playroom/ ADE_train_00015391.jpg,,GM,A
+70,0 days 00:03:03,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+71,0 days 00:03:06,B: go west,,,B,All
+72,0 days 00:03:10,,,B: cmd: done,B,All
+73,0 days 00:03:10,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+74,0 days 00:03:13,A: It's different for both of us..,,,A,All
+75,0 days 00:03:16,,A: cmd: s,,A,All
+76,0 days 00:03:16,,GM: url: / s/ street/ ADE_train_00018036.jpg,,GM,A
+78,0 days 00:03:16,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+79,0 days 00:03:19,,A: cmd: s,,A,All
+80,0 days 00:03:19,,GM: url: / b/ bedroom/ ADE_train_00004010.jpg,,GM,A
+82,0 days 00:03:20,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+83,0 days 00:03:22,,A: cmd: s,,A,All
+84,0 days 00:03:22,,GM: url: / p/ playroom/ ADE_train_00015396.jpg,,GM,A
+86,0 days 00:03:22,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+87,0 days 00:03:27,,A: cmd: e,,A,All
+88,0 days 00:03:27,,GM: url: / p/ playroom/ ADE_train_00015388.jpg,,GM,A
+90,0 days 00:03:27,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+91,0 days 00:03:31,,A: cmd: done,,A,All
+92,0 days 00:03:32,GM: Well done! Both of you are                            indeed in the same room of type: p/playroom!,GM: Well done! Both of you are                            indeed in the same room of type: p/ playroom!,GM: Well done! Both of you are                            indeed in the same room of type: p/ playroom!,GM,All
+93,0 days 00:03:33,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+94,0 days 00:03:33,GM: ,GM: ,GM: ,GM,All
+95,0 days 00:03:33,GM: Here's your token: 136MRZIMH,GM: Here's your token: 136MRZIMH,GM: Here's your token: 136MRZIMH,GM,All
+96,0 days 00:03:52,B: ,,B: ,B,All
+97,0 days 00:03:53,,GM: sticky_eraser has left the game.,,GM,A
+98,0 days 00:03:56,A: ,A: ,,A,All
+99,0 days 00:03:56,,,GM: deep_scissors has left the game.,GM,B
+100,0 days 02:32:09,GM: ,GM: ,GM: ,GM,All

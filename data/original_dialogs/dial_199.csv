@@ -1,0 +1,118 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / b/ bedroom/ ADE_train_00003262.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, condemned_balloon! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: n/ nursery,,GM,A
+15,0 days 00:00:03,,,GM: url: / c/ cathedral/ outdoor/ ADE_train_00005316.jpg,GM,B
+17,0 days 00:00:04,,,GM: You can go: [/ n]orth,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, amiable_snowflake! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: n/ nursery,GM,B
+20,0 days 00:00:13,B: hello,,,B,All
+21,0 days 00:00:13,,,B: cmd: n,B,All
+22,0 days 00:00:13,,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,GM,B
+24,0 days 00:00:14,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+25,0 days 00:00:34,"B: I found a nursary - square, white rug, white cradle",,,B,All
+26,0 days 00:00:37,,,B: cmd: w,B,All
+27,0 days 00:00:37,,,GM: url: / n/ nursery/ ADE_train_00013874.jpg,GM,B
+29,0 days 00:00:37,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+30,0 days 00:00:55,"B: And another one, with wood walls and a white cradle",,,B,All
+31,0 days 00:01:00,,,B: cmd: e,B,All
+32,0 days 00:01:00,,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,GM,B
+34,0 days 00:01:00,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+35,0 days 00:01:02,,,B: cmd: w,B,All
+36,0 days 00:01:02,,,GM: url: / n/ nursery/ ADE_train_00013874.jpg,GM,B
+38,0 days 00:01:03,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+39,0 days 00:01:04,,,B: cmd: n,B,All
+40,0 days 00:01:05,,,GM: url: / l/ living_room/ ADE_train_00011482.jpg,GM,B
+42,0 days 00:01:05,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+43,0 days 00:01:07,,,B: cmd: s,B,All
+44,0 days 00:01:08,,,GM: url: / n/ nursery/ ADE_train_00013874.jpg,GM,B
+46,0 days 00:01:08,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+47,0 days 00:01:30,A: alright ,,,A,All
+48,0 days 00:01:35,B: ,,B: ,B,All
+49,0 days 00:01:36,,GM: amiable_snowflake has left the game.,,GM,A
+50,0 days 00:01:37,B: ,,B: ,B,All
+51,0 days 00:01:38,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+52,0 days 00:01:38,,GM: amiable_snowflake has rejoined the game.,,GM,A
+53,0 days 00:01:41,A: am I in it? ,,,A,All
+54,0 days 00:01:43,A: blue curtains,,,A,All
+55,0 days 00:01:47,A: pink floor,,,A,All
+56,0 days 00:01:49,,,B: cmd: w,B,All
+57,0 days 00:01:50,,,GM: url: / n/ nursery/ ADE_train_00013875.jpg,GM,B
+59,0 days 00:01:50,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+60,0 days 00:01:55,,A: cmd: e,,A,All
+61,0 days 00:01:55,,GM: url: / b/ bathroom/ ADE_train_00002563.jpg,,GM,A
+63,0 days 00:01:55,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+64,0 days 00:01:55,,,B: cmd: n,B,All
+65,0 days 00:01:56,,,GM: url: / k/ kitchen/ ADE_train_00000596.jpg,GM,B
+67,0 days 00:01:56,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+68,0 days 00:02:00,,A: cmd: n,,A,All
+69,0 days 00:02:00,,GM: url: / n/ nursery/ ADE_train_00013904.jpg,,GM,A
+71,0 days 00:02:01,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+72,0 days 00:02:01,,,B: cmd: s,B,All
+73,0 days 00:02:01,,,GM: url: / n/ nursery/ ADE_train_00013875.jpg,GM,B
+75,0 days 00:02:02,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+76,0 days 00:02:03,,,B: cmd: e,B,All
+77,0 days 00:02:03,,,GM: url: / n/ nursery/ ADE_train_00013874.jpg,GM,B
+79,0 days 00:02:03,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+80,0 days 00:02:06,,,B: cmd: e,B,All
+81,0 days 00:02:06,,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,GM,B
+83,0 days 00:02:06,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+84,0 days 00:02:07,A: found it,,,A,All
+85,0 days 00:02:10,A: room with crib,,,A,All
+86,0 days 00:02:13,B: the one one?,,,B,All
+87,0 days 00:02:23,B: or the wooden wall one,,,B,All
+88,0 days 00:02:28,,,B: cmd: w,B,All
+89,0 days 00:02:28,,,GM: url: / n/ nursery/ ADE_train_00013874.jpg,GM,B
+91,0 days 00:02:29,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+92,0 days 00:02:31,,,B: cmd: e,B,All
+93,0 days 00:02:31,,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,GM,B
+95,0 days 00:02:32,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+96,0 days 00:02:32,A: ome with that heater on the wall? and a baloon,,,A,All
+97,0 days 00:02:37,,,B: cmd: w,B,All
+98,0 days 00:02:37,,,GM: url: / n/ nursery/ ADE_train_00013874.jpg,GM,B
+100,0 days 00:02:37,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+101,0 days 00:02:38,A: balloon ,,,A,All
+102,0 days 00:02:47,"B: no, mine doesn't have a balloon",,,B,All
+103,0 days 00:02:55,B: I'll try to find you,,,B,All
+104,0 days 00:02:59,,,B: cmd: e,B,All
+105,0 days 00:03:00,,,GM: url: / n/ nursery/ ADE_train_00013884.jpg,GM,B
+107,0 days 00:03:00,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+108,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+109,0 days 00:03:08,A: teddy bear in crib too,,,A,All
+110,0 days 00:03:09,,,B: cmd: w,B,All
+111,0 days 00:03:09,,,GM: url: / n/ nursery/ ADE_train_00013874.jpg,GM,B
+113,0 days 00:03:10,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+114,0 days 00:03:12,,,B: cmd: n,B,All
+115,0 days 00:03:13,,,GM: url: / l/ living_room/ ADE_train_00011482.jpg,GM,B
+117,0 days 00:03:14,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+118,0 days 00:03:17,,,B: cmd: n,B,All
+119,0 days 00:03:17,,,GM: url: / b/ bathroom/ ADE_train_00002563.jpg,GM,B
+121,0 days 00:03:18,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+122,0 days 00:03:21,,,B: cmd: n,B,All
+123,0 days 00:03:22,,,GM: url: / n/ nursery/ ADE_train_00013904.jpg,GM,B
+125,0 days 00:03:22,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+126,0 days 00:03:28,"B: okay, found that one",,,B,All
+127,0 days 00:03:33,,,B: cmd: done,B,All
+128,0 days 00:03:34,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+129,0 days 00:03:37,B: the one with heater and teddy bear,,,B,All
+130,0 days 00:03:38,,A: cmd: done,,A,All
+131,0 days 00:03:39,GM: Well done! Both of you are                            indeed in the same room of type: n/nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM,All
+132,0 days 00:03:39,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+133,0 days 00:03:39,GM: ,GM: ,GM: ,GM,All
+134,0 days 00:03:40,GM: Here's your token: 481TJ8RQC,GM: Here's your token: 481TJ8RQC,GM: Here's your token: 481TJ8RQC,GM,All
+135,0 days 00:04:09,A: ,A: ,,A,All
+136,0 days 00:04:11,,,GM: condemned_balloon has left the game.,GM,B
+137,0 days 00:05:53,B: ,,B: ,B,All
+138,0 days 00:05:54,,GM: amiable_snowflake has left the game.,,GM,A
+139,0 days 02:22:32,GM: ,GM: ,GM: ,GM,All

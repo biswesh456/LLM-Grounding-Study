@@ -1,0 +1,134 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:02,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / b/ bathroom/ ADE_train_00000128.jpg,,GM,A
+12,0 days 00:00:05,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:05,,"GM: Welcome to the game, great_rug! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:05,,GM: You have to meet in the room of type: s/ staircase,,GM,A
+15,0 days 00:00:05,,,GM: url: / b/ bedroom/ ADE_train_00004198.jpg,GM,B
+17,0 days 00:00:06,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+18,0 days 00:00:06,,,"GM: Welcome to the game, spacial_toothpick! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:06,,,GM: You have to meet in the room of type: s/ staircase,GM,B
+20,0 days 00:00:16,,,B: cmd: n,B,All
+21,0 days 00:00:18,,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,GM,B
+22,0 days 00:00:22,,,B: cmd: w,B,All
+23,0 days 00:00:23,,,GM: url: / s/ staircase/ ADE_train_00016826.jpg,GM,B
+25,0 days 00:00:23,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+26,0 days 00:00:29,A: Hi,,,A,All
+27,0 days 00:00:31,,A: cmd: e,,A,All
+28,0 days 00:00:31,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,,GM,A
+29,0 days 00:00:32,B: im in a stairwell,,,B,All
+30,0 days 00:00:33,,A: cmd: w,,A,All
+31,0 days 00:00:34,,GM: url: / s/ staircase/ ADE_train_00016790.jpg,,GM,A
+33,0 days 00:00:34,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+34,0 days 00:00:38,A: me too,,,A,All
+35,0 days 00:00:38,B: it is concrete,,,B,All
+36,0 days 00:00:54,B: it has a light on the wall,,,B,All
+37,0 days 00:00:55,A: yeah and blue bars and there's a phone,,,A,All
+38,0 days 00:01:04,B: no,,,B,All
+39,0 days 00:01:09,,A: cmd: w,,A,All
+40,0 days 00:01:09,,GM: Nothing happened.You can go: [/ s]outh [/ e]ast,,GM,A
+41,0 days 00:01:11,,A: cmd: s,,A,All
+42,0 days 00:01:12,,GM: url: / k/ kitchen/ ADE_train_00010568.jpg,,GM,A
+44,0 days 00:01:12,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+45,0 days 00:01:14,B: we are in different stairwells,,,B,All
+46,0 days 00:01:17,,A: cmd: n,,A,All
+47,0 days 00:01:17,,GM: url: / s/ staircase/ ADE_train_00016790.jpg,,GM,A
+49,0 days 00:01:17,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+50,0 days 00:01:21,,A: cmd: e,,A,All
+51,0 days 00:01:22,,GM: url: / b/ bathroom/ ADE_train_00000128.jpg,,GM,A
+53,0 days 00:01:22,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+54,0 days 00:01:25,B: would you like to find me or me find you,,,B,All
+55,0 days 00:01:27,,A: cmd: s,,A,All
+56,0 days 00:01:28,,GM: url: / s/ staircase/ ADE_train_00016788.jpg,,GM,A
+58,0 days 00:01:28,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+59,0 days 00:01:34,A: Oh I got it now,,,A,All
+60,0 days 00:01:39,A: rug on ground,,,A,All
+61,0 days 00:01:44,A: blue and white,,,A,All
+62,0 days 00:01:50,B: nope I will look for you,,,B,All
+63,0 days 00:01:56,,,B: cmd: w,B,All
+64,0 days 00:01:56,,,GM: url: / s/ staircase/ ADE_train_00016836.jpg,GM,B
+66,0 days 00:01:56,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+67,0 days 00:02:02,A: Okay,,,A,All
+68,0 days 00:02:09,,,B: cmd: n,B,All
+69,0 days 00:02:09,,,GM: url: / b/ basement/ ADE_train_00002482.jpg,GM,B
+71,0 days 00:02:09,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+72,0 days 00:02:16,,,B: cmd: n,B,All
+73,0 days 00:02:16,,,GM: url: / k/ kitchen/ ADE_train_00010568.jpg,GM,B
+75,0 days 00:02:17,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+76,0 days 00:02:23,,,B: cmd: e,B,All
+77,0 days 00:02:23,,,GM: url: / s/ staircase/ ADE_train_00016788.jpg,GM,B
+79,0 days 00:02:23,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+80,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+81,0 days 00:03:04,A: did you find?,,,A,All
+82,0 days 00:03:08,,A: cmd: e,,A,All
+83,0 days 00:03:08,,GM: Nothing happened.You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+84,0 days 00:03:08,"B: i have found a few, not the right ones keep discribing while i look",,,B,All
+85,0 days 00:03:16,,,B: cmd: s,B,All
+86,0 days 00:03:17,,,GM: url: / b/ bedroom/ ADE_train_00003479.jpg,GM,B
+88,0 days 00:03:17,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+89,0 days 00:03:20,A: stairs gray rug on them,,,A,All
+90,0 days 00:03:27,,,B: cmd: n,B,All
+91,0 days 00:03:27,,,GM: url: / s/ staircase/ ADE_train_00016788.jpg,GM,B
+93,0 days 00:03:27,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+94,0 days 00:03:33,,,B: cmd: w,B,All
+95,0 days 00:03:33,,,GM: url: / k/ kitchen/ ADE_train_00010568.jpg,GM,B
+97,0 days 00:03:33,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+98,0 days 00:03:40,B: .s,,,B,All
+99,0 days 00:03:43,,,B: cmd: s,B,All
+100,0 days 00:03:44,,,GM: url: / b/ basement/ ADE_train_00002482.jpg,GM,B
+102,0 days 00:03:44,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+103,0 days 00:03:49,,,B: cmd: e,B,All
+104,0 days 00:03:49,,,GM: url: / b/ bedroom/ ADE_train_00003479.jpg,GM,B
+106,0 days 00:03:50,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+107,0 days 00:03:55,,,B: cmd: s,B,All
+108,0 days 00:03:55,,,GM: url: / s/ staircase/ ADE_train_00016826.jpg,GM,B
+110,0 days 00:03:55,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+111,0 days 00:04:02,,A: cmd: s,,A,All
+112,0 days 00:04:03,,,B: cmd: w,B,All
+113,0 days 00:04:03,,GM: url: / b/ bedroom/ ADE_train_00003479.jpg,,GM,A
+115,0 days 00:04:03,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+116,0 days 00:04:03,,,GM: url: / s/ staircase/ ADE_train_00016836.jpg,GM,B
+118,0 days 00:04:04,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+119,0 days 00:04:08,,A: cmd: w,,A,All
+120,0 days 00:04:08,,GM: url: / b/ basement/ ADE_train_00002482.jpg,,GM,A
+122,0 days 00:04:09,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+123,0 days 00:04:10,,,B: cmd: n,B,All
+124,0 days 00:04:10,,,GM: url: / b/ basement/ ADE_train_00002482.jpg,GM,B
+126,0 days 00:04:10,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+127,0 days 00:04:15,,,B: cmd: e,B,All
+128,0 days 00:04:15,,,GM: url: / b/ bedroom/ ADE_train_00003479.jpg,GM,B
+130,0 days 00:04:15,,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,GM,B
+131,0 days 00:04:19,A: Im at another stairwell,,,A,All
+132,0 days 00:04:19,,,B: cmd: w,B,All
+133,0 days 00:04:19,,,GM: url: / b/ basement/ ADE_train_00002482.jpg,GM,B
+135,0 days 00:04:20,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+136,0 days 00:04:23,,,B: cmd: n,B,All
+137,0 days 00:04:23,,,GM: url: / k/ kitchen/ ADE_train_00010568.jpg,GM,B
+139,0 days 00:04:24,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+140,0 days 00:04:25,A: underground looks like,,,A,All
+141,0 days 00:04:36,,,B: cmd: n,B,All
+142,0 days 00:04:36,,,GM: url: / s/ staircase/ ADE_train_00016790.jpg,GM,B
+144,0 days 00:04:36,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+145,0 days 00:04:50,,A: cmd: done,,A,All
+146,0 days 00:04:50,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+147,0 days 00:04:51,B: blue garbage can,,,B,All
+148,0 days 00:04:57,A: I give up,,,A,All
+149,0 days 00:04:57,,,B: cmd: done,B,All
+150,0 days 00:04:57,"GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type s/staircase","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type s/ staircase","GM: Unfortunately, you and your                                                   partner were somewhere else, but not                                                   in a room of the required type s/ staircase",GM,All
+151,0 days 00:04:58,"GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.","GM: Please enter the token below into                                                   the token field on the HIT webpage, and close this                                                    browser window.",GM,All
+152,0 days 00:04:58,GM: ,GM: ,GM: ,GM,All
+153,0 days 00:04:58,GM: Here's your token: 4022SMD03,GM: Here's your token: 4022SMD03,GM: Here's your token: 4022SMD03,GM,All
+154,0 days 00:05:12,A: ,A: ,,A,All
+155,0 days 00:05:13,,,GM: great_rug has left the game.,GM,B
+156,0 days 00:06:12,B: ,,B: ,B,All
+157,0 days 00:06:12,,GM: spacial_toothpick has left the game.,,GM,A
+158,0 days 03:17:51,GM: ,GM: ,GM: ,GM,All

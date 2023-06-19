@@ -1,0 +1,52 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:03,,GM: url: / d/ dining_room/ ADE_train_00006876.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, little_leg_warmers! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: b/ bedroom,,GM,A
+15,0 days 00:00:04,,,GM: url: / s/ street/ ADE_train_00017739.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ n]orth [/ e]ast,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, barren_scissors! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: b/ bedroom,GM,B
+20,0 days 00:00:10,,A: cmd: n,,A,All
+21,0 days 00:00:11,,GM: Nothing happened.You can go: [/ s]outh [/ w]est,,GM,A
+22,0 days 00:00:14,,A: cmd: w,,A,All
+23,0 days 00:00:14,,GM: url: / b/ bedroom/ ADE_train_00003916.jpg,,GM,A
+25,0 days 00:00:14,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+26,0 days 00:00:21,,,B: cmd: n,B,All
+27,0 days 00:00:22,,,GM: url: / d/ dining_room/ ADE_train_00007232.jpg,GM,B
+29,0 days 00:00:22,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+30,0 days 00:00:22,A: found a bedroom ,,,A,All
+31,0 days 00:00:27,,,B: cmd: n,B,All
+32,0 days 00:00:28,,,GM: url: / l/ living_room/ ADE_train_00011112.jpg,GM,B
+34,0 days 00:00:28,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,GM,B
+35,0 days 00:00:28,"A: all wood, curtains on bed",,,A,All
+36,0 days 00:00:29,B: describe,,,B,All
+37,0 days 00:00:33,,,B: cmd: n,B,All
+38,0 days 00:00:33,,,GM: url: / b/ bedroom/ ADE_train_00003916.jpg,GM,B
+40,0 days 00:00:34,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+41,0 days 00:00:39,B: fancy?,,,B,All
+42,0 days 00:00:46,"A: mirror on table, and tall standing mirror",,,A,All
+43,0 days 00:00:51,,,B: cmd: done,B,All
+44,0 days 00:00:51,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+45,0 days 00:00:56,B: im there,,,B,All
+46,0 days 00:00:57,,A: cmd: done,,A,All
+47,0 days 00:00:57,GM: Well done! Both of you are                            indeed in the same room of type: b/bedroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bedroom!,GM: Well done! Both of you are                            indeed in the same room of type: b/ bedroom!,GM,All
+48,0 days 00:00:57,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+49,0 days 00:00:57,GM: ,GM: ,GM: ,GM,All
+50,0 days 00:00:58,GM: Here's your token: 521PBQXMV,GM: Here's your token: 521PBQXMV,GM: Here's your token: 521PBQXMV,GM,All
+51,0 days 00:01:04,B: ,,B: ,B,All
+52,0 days 00:01:04,,GM: barren_scissors has left the game.,,GM,A
+53,0 days 00:01:13,A: ,A: ,,A,All
+54,0 days 00:01:13,,,GM: little_leg_warmers has left the game.,GM,B
+55,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+56,0 days 01:58:30,GM: ,GM: ,GM: ,GM,All

@@ -1,0 +1,72 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:01,B: ,,B: ,B,All
+2,0 days 00:00:02,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:03,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:04,,GM: url: / a/ art_studio/ ADE_train_00001749.jpg,,GM,A
+12,0 days 00:00:04,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:04,,"GM: Welcome to the game, grotesque_toothpick! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:04,,GM: You have to meet in the room of type: u/ utility_room,,GM,A
+15,0 days 00:00:05,,,GM: url: / c/ cloister/ outdoor/ ADE_train_00005704.jpg,GM,B
+17,0 days 00:00:05,,,GM: You can go: [/ n]orth,GM,B
+18,0 days 00:00:05,,,"GM: Welcome to the game, unwavering_ocean! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:05,,,GM: You have to meet in the room of type: u/ utility_room,GM,B
+20,0 days 00:00:11,,,B: cmd: n,B,All
+21,0 days 00:00:11,,,GM: url: / u/ utility_room/ ADE_train_00019428.jpg,GM,B
+23,0 days 00:00:11,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+24,0 days 00:00:15,A: FYI utility room is a laundry room,,,A,All
+25,0 days 00:00:19,A: so just find a laundry room,,,A,All
+26,0 days 00:00:24,B: in in laundry room,,,B,All
+27,0 days 00:00:24,,A: cmd: n,,A,All
+28,0 days 00:00:24,,GM: url: / b/ basement/ ADE_train_00002476.jpg,,GM,A
+30,0 days 00:00:25,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+31,0 days 00:00:29,A: describe,,,A,All
+32,0 days 00:00:30,,A: cmd: n,,A,All
+33,0 days 00:00:30,,GM: url: / s/ street/ ADE_train_00017606.jpg,,GM,A
+35,0 days 00:00:31,,GM: You can go: [/ s]outh [/ n]orth [/ w]est,,GM,A
+36,0 days 00:00:31,B: stack washer dryer,,,B,All
+37,0 days 00:00:35,,A: cmd: n,,A,All
+38,0 days 00:00:35,,GM: url: / c/ childs_room/ ADE_train_00005468.jpg,,GM,A
+40,0 days 00:00:35,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+41,0 days 00:00:38,,A: cmd: w,,A,All
+42,0 days 00:00:39,,GM: url: / s/ street/ ADE_train_00017704.jpg,,GM,A
+44,0 days 00:00:39,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+45,0 days 00:00:42,B: laundry basket in front,,,B,All
+46,0 days 00:00:42,,A: cmd: s,,A,All
+47,0 days 00:00:43,,GM: url: / u/ utility_room/ ADE_train_00019425.jpg,,GM,A
+49,0 days 00:00:43,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+50,0 days 00:00:45,,A: cmd: s,,A,All
+51,0 days 00:00:46,,GM: url: / u/ utility_room/ ADE_train_00019408.jpg,,GM,A
+53,0 days 00:00:46,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast,,GM,A
+54,0 days 00:00:48,,A: cmd: s,,A,All
+55,0 days 00:00:49,,GM: url: / u/ utility_room/ ADE_train_00019407.jpg,,GM,A
+57,0 days 00:00:49,,GM: You can go: [/ n]orth [/ e]ast,,GM,A
+58,0 days 00:00:52,A: e/,,,A,All
+59,0 days 00:00:54,,A: cmd: e,,A,All
+60,0 days 00:00:54,,GM: url: / a/ art_studio/ ADE_train_00001749.jpg,,GM,A
+62,0 days 00:00:54,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+63,0 days 00:00:55,B: sink under brown trim window,,,B,All
+64,0 days 00:00:57,,A: cmd: e,,A,All
+65,0 days 00:00:57,,GM: url: / u/ utility_room/ ADE_train_00019428.jpg,,GM,A
+67,0 days 00:00:58,,GM: You can go: [/ s]outh [/ w]est,,GM,A
+68,0 days 00:01:00,A: ok,,,A,All
+69,0 days 00:01:01,,A: cmd: done,,A,All
+70,0 days 00:01:01,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+71,0 days 00:01:02,A: im there,,,A,All
+72,0 days 00:01:06,,,B: cmd: done,B,All
+73,0 days 00:01:07,GM: Well done! Both of you are                            indeed in the same room of type: u/utility_room!,GM: Well done! Both of you are                            indeed in the same room of type: u/ utility_room!,GM: Well done! Both of you are                            indeed in the same room of type: u/ utility_room!,GM,All
+74,0 days 00:01:07,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+75,0 days 00:01:07,GM: ,GM: ,GM: ,GM,All
+76,0 days 00:01:08,GM: Here's your token: 591K7MYOZ,GM: Here's your token: 591K7MYOZ,GM: Here's your token: 591K7MYOZ,GM,All
+77,0 days 00:01:14,A: ,A: ,,A,All
+78,0 days 00:01:14,,,GM: grotesque_toothpick has left the game.,GM,B
+79,0 days 00:01:27,B: ,,B: ,B,All
+80,0 days 00:01:27,,GM: unwavering_ocean has left the game.,,GM,A
+81,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+82,0 days 01:09:08,GM: ,GM: ,GM: ,GM,All

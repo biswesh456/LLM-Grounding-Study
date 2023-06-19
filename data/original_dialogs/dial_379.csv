@@ -1,0 +1,62 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / k/ kitchen/ ADE_train_00010557.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ n]orth [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, thriving_mist! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: r/ reading_room,,GM,A
+15,0 days 00:00:03,,,GM: url: / l/ living_room/ ADE_train_00011285.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh [/ e]ast [/ w]est,GM,B
+18,0 days 00:00:03,,,"GM: Welcome to the game, teal_rug! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: r/ reading_room,GM,B
+20,0 days 00:00:11,A: Hello,,,A,All
+21,0 days 00:00:14,B: Hello,,,B,All
+22,0 days 00:00:16,,,B: cmd: e,B,All
+23,0 days 00:00:16,,,GM: url: / b/ bedroom/ ADE_train_00000390.jpg,GM,B
+25,0 days 00:00:16,,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,GM,B
+26,0 days 00:00:19,,,B: cmd: e,B,All
+27,0 days 00:00:20,,,GM: url: / c/ corridor/ ADE_train_00006341.jpg,GM,B
+29,0 days 00:00:20,,,GM: You can go: [/ n]orth [/ w]est,GM,B
+30,0 days 00:00:24,,,B: cmd: n,B,All
+31,0 days 00:00:26,,,GM: url: / s/ street/ ADE_train_00017337.jpg,GM,B
+33,0 days 00:00:26,,,GM: You can go: [/ s]outh [/ w]est,GM,B
+34,0 days 00:00:27,A: Not sure I get this completely... only done 1 so far...,,,A,All
+35,0 days 00:00:33,,,B: cmd: w,B,All
+36,0 days 00:00:34,,,GM: url: / r/ reading_room/ ADE_train_00015708.jpg,GM,B
+38,0 days 00:00:34,,,GM: You can go: [/ s]outh [/ e]ast,GM,B
+39,0 days 00:00:38,A: Do we start in the same room? I can't remember...,,,A,All
+40,0 days 00:00:45,"B: No, we have to try and find the same room",,,B,All
+41,0 days 00:00:55,A: gotcha...I'm in a kitchen...,,,A,All
+42,0 days 00:00:59,,A: cmd: n,,A,All
+43,0 days 00:00:59,,GM: url: / b/ bedroom/ ADE_train_00000390.jpg,,GM,A
+45,0 days 00:00:59,,GM: You can go: [/ s]outh [/ n]orth [/ e]ast [/ w]est,,GM,A
+46,0 days 00:01:04,B: We have to find a reading room,,,B,All
+47,0 days 00:01:07,A: ok,,,A,All
+48,0 days 00:01:09,,A: cmd: n,,A,All
+49,0 days 00:01:10,,GM: url: / r/ reading_room/ ADE_train_00015708.jpg,,GM,A
+51,0 days 00:01:10,,GM: You can go: [/ s]outh [/ e]ast,,GM,A
+52,0 days 00:01:14,A: found a library,,,A,All
+53,0 days 00:01:18,B: Me too,,,B,All
+54,0 days 00:01:19,A: with people and lamps,,,A,All
+55,0 days 00:01:22,,A: cmd: done,,A,All
+56,0 days 00:01:22,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+57,0 days 00:01:23,"B: Yes, same",,,B,All
+58,0 days 00:01:24,,,B: cmd: done,B,All
+59,0 days 00:01:24,GM: Well done! Both of you are                            indeed in the same room of type: r/reading_room!,GM: Well done! Both of you are                            indeed in the same room of type: r/ reading_room!,GM: Well done! Both of you are                            indeed in the same room of type: r/ reading_room!,GM,All
+60,0 days 00:01:25,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+61,0 days 00:01:25,GM: ,GM: ,GM: ,GM,All
+62,0 days 00:01:25,GM: Here's your token: 1057VCQBI8,GM: Here's your token: 1057VCQBI8,GM: Here's your token: 1057VCQBI8,GM,All
+63,0 days 00:01:42,B: ,,B: ,B,All
+64,0 days 00:01:42,,GM: teal_rug has left the game.,,GM,A
+65,0 days 00:01:44,A: ,A: ,,A,All
+66,0 days 00:01:44,,,GM: thriving_mist has left the game.,GM,B
+67,0 days 00:03:00,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
+68,0 days 00:48:45,GM: ,GM: ,GM: ,GM,All

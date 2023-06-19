@@ -1,0 +1,44 @@
+,time,public,A-private,B-private,user,receiver
+0,0 days 00:00:00,A: ,A: ,,A,All
+1,0 days 00:00:00,B: ,,B: ,B,All
+2,0 days 00:00:01,GM: ,GM: ,GM: ,GM,All
+3,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+4,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+5,0 days 00:00:01,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+6,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+7,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+8,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+9,0 days 00:00:02,,GM: cmd: listen_to,GM: cmd: listen_to,GM,All
+10,0 days 00:00:02,,GM: url: / b/ bedroom/ ADE_train_00003726.jpg,,GM,A
+12,0 days 00:00:03,,GM: You can go: [/ e]ast [/ w]est,,GM,A
+13,0 days 00:00:03,,"GM: Welcome to the game, merry_sharpie! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",,GM,A
+14,0 days 00:00:03,,GM: You have to meet in the room of type: n/ nursery,,GM,A
+15,0 days 00:00:03,,,GM: url: / i/ inn/ outdoor/ ADE_train_00009880.jpg,GM,B
+17,0 days 00:00:03,,,GM: You can go: [/ s]outh,GM,B
+18,0 days 00:00:04,,,"GM: Welcome to the game, serene_chasm! You can always type the command                                        / look to see viable directions you can walk to.                                        Type / done if you think both of you are in the same room.",GM,B
+19,0 days 00:00:04,,,GM: You have to meet in the room of type: n/ nursery,GM,B
+20,0 days 00:00:10,,A: cmd: s,,A,All
+21,0 days 00:00:10,,GM: Nothing happened.You can go: [/ e]ast [/ w]est,,GM,A
+22,0 days 00:00:13,,,B: cmd: s,B,All
+23,0 days 00:00:13,,,GM: url: / n/ nursery/ ADE_train_00013878.jpg,GM,B
+25,0 days 00:00:14,,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,GM,B
+26,0 days 00:00:14,,A: cmd: e,,A,All
+27,0 days 00:00:14,,GM: url: / n/ nursery/ ADE_train_00013878.jpg,,GM,A
+29,0 days 00:00:15,,GM: You can go: [/ n]orth [/ e]ast [/ w]est,,GM,A
+30,0 days 00:00:28,B: I'm in the nursery,,,B,All
+31,0 days 00:00:29,A: Okay I'm in a nursery,,,A,All
+32,0 days 00:00:34,B: all white with a crib on the right,,,B,All
+33,0 days 00:00:35,A: all white furniture?,,,A,All
+34,0 days 00:00:42,B: sounds like the same one,,,B,All
+35,0 days 00:00:44,,,B: cmd: done,B,All
+36,0 days 00:00:44,"GM: The '/done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'","GM: The '/ done' command has been issued                                        by you or your partner.                                        To finish the game, both players                                        need to enter '/ done'",GM,All
+37,0 days 00:00:49,,A: cmd: done,,A,All
+38,0 days 00:00:50,GM: Well done! Both of you are                            indeed in the same room of type: n/nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM: Well done! Both of you are                            indeed in the same room of type: n/ nursery!,GM,All
+39,0 days 00:00:50,"GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.","GM: Please enter the token below into                                                       the token field on the HIT webpage, and close this                                                        browser window.",GM,All
+40,0 days 00:00:50,GM: ,GM: ,GM: ,GM,All
+41,0 days 00:00:50,GM: Here's your token: 976JC13GT,GM: Here's your token: 976JC13GT,GM: Here's your token: 976JC13GT,GM,All
+42,0 days 00:01:14,A: ,A: ,,A,All
+43,0 days 00:01:14,,,GM: merry_sharpie has left the game.,GM,B
+44,0 days 00:01:15,B: ,,B: ,B,All
+45,0 days 00:01:17,,GM: serene_chasm has left the game.,,GM,A
+46,0 days 00:03:01,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM: Attention: you are in the game for 3 minutes!,GM,All
