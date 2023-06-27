@@ -161,4 +161,4 @@ cython_debug/
 
 *.DS_Store
 data/images_final_required/
-
+data/meetup_d1_template_train_val/
