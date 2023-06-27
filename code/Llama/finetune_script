@@ -1,0 +1,20 @@
+#!/bin/bash
+#
+# Submission script for the finetune_script program
+#
+# Comments starting with #OAR are used by the resource manager if using "oarsub -S"
+
+# The job reserves 1 nodes with one processor (core) per node,
+# only on xeon nodes, job duration is less than 10min
+# Note : quoting style of parameters matters, follow the example
+#OAR -l /nodes=2/core=4,walltime=00:10:00
+#OAR -p gpu='YES' and mem_core > 13000
+#
+# The job is submitted to the big queue
+#OAR -q default
+# 
+source activate llama
+# Path to the binary to run
+python finetune.py
+
+conda deactivate
