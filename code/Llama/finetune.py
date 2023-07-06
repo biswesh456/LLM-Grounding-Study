@@ -23,7 +23,7 @@ print(torch.cuda.max_memory_allocated(), flush=True)
 os.environ['WANDB_API_KEY'] = 'e819d741a0c770cb527b6ca091ee5d1b25a8222e'
 os.environ['TRANSFORMERS_CACHE'] = '/home/bmohapat/.cache/huggingface/transformers'
 os.environ['TORCH_EXTENSIONS_DIR'] = '/home/bmohapat/.cache/torch_extensions'
-os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'max_split_size_mb:1024'
+# os.environ['PYTORCH_CUDA_ALLOC_CONF'] = 'max_split_size_mb:4096'
 
 SEED = 3407
 rn.seed(SEED)
@@ -57,7 +57,7 @@ class TextDataset(Dataset):
         
         text = self.texts[index]
         output = self.outputs[index]
-        tokenized_text = self.tokenizer.encode_plus(
+        tokenized_text = self.tokenizer(
             text + " " + output,
             padding='max_length',
             truncation=True,
@@ -88,17 +88,16 @@ class TextDataset(Dataset):
 training_args = TrainingArguments(
     output_dir='/home/bmohapat/github/LLM-Grounding-Study/model',
     num_train_epochs=3,
-    per_device_train_batch_size=4,
-    per_device_eval_batch_size=2,
+    per_device_train_batch_size=2,
+    per_device_eval_batch_size=1,
     gradient_accumulation_steps=32,
-    warmup_steps=500,
+    warmup_steps=8,
     weight_decay=0.01,
     logging_dir='../../logs',
     logging_steps=1,
     evaluation_strategy='epoch',
-    #eval_steps=500,
     save_strategy='steps',
-    save_steps=50,
+    save_steps=20,
     save_total_limit=10,
     learning_rate=2e-5,
     warmup_ratio=0.04,
@@ -114,12 +113,12 @@ print("Loading the model...")
 tokenizer = LlamaTokenizerFast.from_pretrained(
                 "hf-internal-testing/llama-tokenizer",
                 padding_side="right",
+                truncation_side="left",
                 use_fast=False)
 
 model = LlamaForCausalLM.from_pretrained("/home/bmohapat/pyllama_data/hf_weights/7B")
 model.config.use_cache = False
 print(model.config)
-print("Max memory allocated cuda", torch.cuda.max_memory_allocated(), flush=True)
 
 # Add pad token if necessary
 if tokenizer.pad_token is None:
