@@ -4,17 +4,26 @@
 #
 # Comments starting with #OAR are used by the resource manager if using "oarsub -S"
 
-# The job reserves 1 nodes with one processor (core) per node,
-# only on xeon nodes, job duration is less than 10min
 # Note : quoting style of parameters matters, follow the example
-#OAR -l /nodes=2/core=4,walltime=00:10:00
-#OAR -p gpu='YES' and mem_core > 13000
-#
-# The job is submitted to the big queue
-#OAR -q default
-# 
-source activate llama
-# Path to the binary to run
-python finetune.py
+#OAR -l /nodes=1,walltime=40:00:00
+#OAR -p gpu='YES' and gpumem>45000 and (host='nefgpu47.inria.fr' or host='nefgpu48.inria.fr' or host='nefgpu49.inria.fr' or host='nefgpu50.inria.fr' or host='nefgpu51.inria.fr')
 
+#OAR -t besteffort
+
+# The job is submitted to the default queue
+#OAR -q default
+
+nvidia-smi 
+printenv
+
+ds_report
+
+# get the number of GPUs
+NUM_GPUS=$(nvidia-smi -L | wc -l)
+
+module load gcc-nvptx/9.2.0
+
+source activate llama2
+# Path to the binary to run
+torchrun --nproc_per_node=$NUM_GPUS --master_port=8891 finetune.py 
 conda deactivate
