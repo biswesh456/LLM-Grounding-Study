@@ -19,6 +19,7 @@ import ast
 import json
 import re
 import textwrap
+import copy
 
 print(torch.version.cuda, flush=True)
 print(torch.cuda.is_available(), flush=True)
@@ -246,7 +247,7 @@ data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
 class CustomTrainer(Trainer):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.prediction_losses = []
+        self.prediction_perplexity = []
 
     def prediction_step(self, model, inputs, prediction_loss_only, ignore_keys=None):
         # Run parent's method first
@@ -254,7 +255,9 @@ class CustomTrainer(Trainer):
 
         # The parent's method already computed the loss, we can just store it
         loss = outputs[0]
-        self.prediction_losses.append(loss)
+        
+        pplx = torch.exp(loss).detach().to("cpu").item()
+        self.prediction_perplexity.append(pplx)
 
         return outputs
     
@@ -287,33 +290,28 @@ test_wrong_dataset = TextDataset(tokenizer, test_input_list, test_wrong_output_l
 
 print("created dataset")
 
+# Evaluate the model
 correct_prediction = trainer.predict(test_correct_dataset)
 print(correct_prediction[2])
-print(trainer.prediction_losses)
+correct_ppl = copy.deepcopy(trainer.prediction_perplexity)
+print(correct_ppl)
 
 wrong_prediction = trainer.predict(test_wrong_dataset)
 print(wrong_prediction[2])
-print(trainer.prediction_losses)
+wrong_ppl = trainer.prediction_perplexity[len(correct_ppl):]
+print(wrong_ppl)
 
-# Evaluate the model
-ppl_c = []
-ppl_w = []
-    
-#     c,w = calculate_perplexity(t, correct, wrong, tokenizer, trainer)
-#     print(c, w, flush=True)
-#     ppl_c.append(c)
-#     ppl_w.append(w)
-    
-    
-# df['ppl_correct'] = ppl_c
-# df['ppl_wrong'] = ppl_w
+print(len(correct_ppl), len(wrong_ppl))
 
-# # print statistics about the same two columsn
-# print("correct perplexity statistics")
-# print(df['ppl_correct'].describe())
+df['ppl_correct'] = correct_ppl
+df['ppl_wrong'] = wrong_ppl
 
-# print()
-# print("wrong perplexity statistics")
-# print(df['ppl_wrong'].describe())
+# print statistics about the same two columsn
+print("correct perplexity statistics")
+print(df['ppl_correct'].describe())
 
-# df.to_csv("cancel_d1_perplexity_testing_dataset_final_checked_with_llama_finetuned.csv")
+print()
+print("wrong perplexity statistics")
+print(df['ppl_wrong'].describe())
+
+df.to_csv("cancel_d1_perplexity_testing_dataset_final_checked_with_llama_finetuned.csv")
