@@ -7,7 +7,7 @@ import pandas as pd
 import random as rn
 import numpy as np
 from sklearn.model_selection import train_test_split
-from transformers import LlamaForCausalLM, LlamaTokenizerFast, Trainer, TrainingArguments,EarlyStoppingCallback, AutoModelForSeq2SeqLM, AutoTokenizer, DataCollatorWithPadding
+from transformers import LlamaForCausalLM, LlamaTokenizerFast, Trainer, TrainingArguments,EarlyStoppingCallback, AutoModelForSeq2SeqLM, AutoTokenizer, DataCollatorForLanguageModeling
 import pathlib
 
 from transformers.trainer_callback import EarlyStoppingCallback
@@ -59,9 +59,9 @@ class TextDataset(Dataset):
         output = self.outputs[index]
         tokenized_text = self.tokenizer(
             text + " " + output,
-            padding='max_length',
-            truncation=True,
-            max_length=4096,
+#             padding='max_length',
+#             truncation=True,
+#             max_length=4096,
             return_tensors='pt'
         )
 
@@ -131,7 +131,7 @@ val_dataset = TextDataset(tokenizer, val_df['inputs'].values.tolist(), val_df['o
 
 print("created dataset")
 
-# data_collator = DataCollatorWithPadding(tokenizer=tokenizer, padding='longest')
+data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
 
 # Create the Trainer
 trainer = Trainer(
@@ -139,7 +139,8 @@ trainer = Trainer(
     args=training_args,
     train_dataset=train_dataset,
     eval_dataset=val_dataset,
-    tokenizer=tokenizer
+    tokenizer=tokenizer,
+    data_collator=data_collator
 )
 
 print("place_model_on_device", flush=True)
@@ -152,6 +153,7 @@ if list(pathlib.Path(training_args.output_dir).glob("checkpoint-*")):
 else:
     trainer.train()
 trainer.save_state()
+trainer.save_model()
 
 
 # Test the trained model

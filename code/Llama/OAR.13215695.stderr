@@ -1,0 +1,5 @@
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:24<00:24, 24.89s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:33<00:00, 15.39s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:33<00:00, 16.82s/it]
+Using pad_token, but it is not set yet.
+  0%|          | 0/20 [00:00<?, ?it/s] 50%|█████     | 10/20 [00:00<00:00, 90.00it/s]100%|██████████| 20/20 [00:00<00:00, 106.19it/s]
+You're using a LlamaTokenizerFast tokenizer. Please note that with a fast tokenizer, using the `__call__` method is faster than using a method to encode the text followed by a call to the `pad` method to get a padded encoding.
+  0%|          | 0/20 [00:00<?, ?it/s] 10%|█         | 2/20 [00:01<00:11,  1.63it/s] 15%|█▌        | 3/20 [00:02<00:14,  1.18it/s] 20%|██        | 4/20 [00:03<00:15,  1.03it/s] 25%|██▌       | 5/20 [00:04<00:15,  1.04s/it] 30%|███       | 6/20 [00:05<00:15,  1.09s/it] 35%|███▌      | 7/20 [00:07<00:14,  1.12s/it] 40%|████      | 8/20 [00:08<00:13,  1.14s/it] 45%|████▌     | 9/20 [00:09<00:12,  1.15s/it]
