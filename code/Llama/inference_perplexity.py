@@ -198,8 +198,8 @@ tokenizer = LlamaTokenizerFast.from_pretrained(
                 use_fast=False)
 
 print("Loading the model...")
-# model = LlamaForCausalLM.from_pretrained("/home/bmohapat/github/LLM-Grounding-Study/model/checkpoint-40")
-model = LlamaForCausalLM.from_pretrained("/home/bmohapat/pyllama_data/hf_weights/7B")
+model = LlamaForCausalLM.from_pretrained("/home/bmohapat/github/LLM-Grounding-Study/model/checkpoint-40")
+# model = LlamaForCausalLM.from_pretrained("/home/bmohapat/pyllama_data/hf_weights/7B")
 model.config.use_cache = False
 print(model.config)
 
@@ -295,9 +295,9 @@ for i in tqdm(range(len(df))):
     correct = df['choice_correct'][i]
     wrong = df['choice_wrong'][i]
     
-    # For others
-    correct = df['choice_correct'][i][2]
-    wrong = df['choice_wrong'][i][2]
+#     # For others
+#     correct = df['choice_correct'][i][2]
+#     wrong = df['choice_wrong'][i][2]
     
     test_input_list.append(t)
     test_correct_output_list.append(correct)
